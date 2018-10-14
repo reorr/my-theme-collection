@@ -1,0 +1,32 @@
+#!/bin/sh
+
+change_volume() {
+    amixer set Master "$1"
+}
+
+notify_send() {
+    notify-send --expire-time=2000 "Volume $(printf %s $(amixer get Master | awk '$0~/%/{print $5}' | tr -d '[]'))"
+}
+
+main() {
+    case "$1" in
+	up)
+		change_volume 2%+
+	 	notify_send
+         ;;
+      down)
+		change_volume 2%-
+		notify_send
+         ;;
+      toggle)
+		change_volume toggle
+	 ;;
+     *)
+         printf "volume <command>\n"
+         printf "         up \n"
+         printf "         down\n"
+	 printf "	  toggle\n"
+    esac
+}
+
+main "$@"

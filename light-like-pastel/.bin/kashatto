@@ -1,0 +1,23 @@
+#!/bin/bash
+
+take_ss() {
+	scrot 'kashatto_%Y-%m-%d_%k-%M-%S_$wx$h.png' -e 'mv $f ~/Pictures/Kashatto/' "$1"
+}
+
+notify_send() {
+	notify-send --expire-time=2000 -i view-fullscreen 'Kashatto!!' 'Saved to ~/Pictures/Kashatto' && sleep 0.5
+}
+
+main() {
+	case "$1" in
+		crop)
+			take_ss -s
+			notify_send
+			;;
+		*)
+			notify_send
+			take_ss
+	esac
+}
+
+main "$@"
