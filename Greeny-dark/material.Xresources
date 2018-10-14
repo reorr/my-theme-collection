@@ -1,0 +1,83 @@
+! X colors.
+*foreground:        #efefef
+*background:        #020D1C
+*.foreground:       #efefef
+*.background:       #020D1C
+emacs*foreground:   #efefef
+emacs*background:   #020D1C
+URxvt*foreground:   #efefef
+XTerm*foreground:   #efefef
+UXTerm*foreground:  #efefef
+URxvt*background:   [100]#020D1C
+XTerm*background:   #020D1C
+UXTerm*background:  #020D1C
+URxvt*cursorColor:  #efefef
+XTerm*cursorColor:  #efefef
+UXTerm*cursorColor: #efefef
+URxvt*borderColor:  [100]#020D1C
+
+! Colors 0-15.
+!black
+*.color0: #020D1C
+*color0:  #020D1C
+*.color8: #031D2C
+*color8:  #031D2C
+!red
+*.color1: #dc143c
+*color1:  #dc143c
+*.color9: #dc143c
+*color9:  #dc143c
+!green
+*.color2: #3cb371
+*color2:  #3cb371
+*.color10: #3cb371
+*color10:  #3cb371
+!yellow
+*.color3: #f1ca44
+*color3:  #f1ca44
+*.color11: #f1ca44
+*color11:  #f1ca44
+!blue
+*.color4: #3560a0
+*color4:  #3560a0
+*.color12: #3560a0
+*color12:  #3560a0
+!magenta
+*.color5: #63059b
+*color5:  #63059b
+*.color13: #63059b
+*color13:  #63059b
+!cyan
+*.color6: #2c9eb3
+*color6:  #2c9eb3
+*.color14: #2c9eb3
+*color14:  #2c9eb3
+!white
+*.color7: #efefef
+*color7:  #efefef
+*.color15: #efefef
+*color15:  #efefef
+
+! Black color that will not be affected by bold highlighting.
+*.color66: #020D1C
+*color66:  #020D1C
+
+! Xclock colors.
+XClock*foreground: #efefef
+XClock*background: #020D1C
+XClock*majorColor:  rgba:b3/b8/93/ff
+XClock*minorColor:  rgba:b3/b8/93/ff
+XClock*hourColor:   rgba:b3/b8/93/ff
+XClock*minuteColor: rgba:b3/b8/93/ff
+XClock*secondColor: rgba:b3/b8/93/ff
+
+! Set depth to make transparency work.
+URxvt*depth: 32
+
+!rofi color
+! State:           ´bg´,     ´fg´,     ´bgalt´,  ´hlbg´,   ´hlfg´
+rofi.color-normal: #020D1C,  #efefef,  #020D1C,  #3cb371,  #020D1C
+rofi.color-urgent: #020D1C,  #efefef,  #020D1C,  #3cb371,  #020D1C
+rofi.color-active: #020D1C,  #efefef,  #020D1C,  #3cb371,  #020D1C
+!                  ´background´, ´border´
+rofi.color-window: #020D1C, #3cb371

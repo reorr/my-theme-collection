@@ -1,0 +1,8 @@
+only_maximized=true
+show_on_desktop=false
+sync_wm_theme=false
+button_layout=HMC
+theme=colorizer
+inactive_text_alpha=60
+inactive_text_shade=110
+

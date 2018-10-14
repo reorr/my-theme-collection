@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-color-to-alpha-config "2018-07-28 20:44:21"
+    (time 1532810661)
+    (color (color-rgba 0.960784 0.960784 0.960784 1.000000))
+    (transparency-threshold 0.000000)
+    (opacity-threshold 1.000000))
+(GimpGegl-gegl-color-to-alpha-config "2018-07-26 04:59:30"
+    (time 1532581170)
+    (color (color-rgba 0.192157 0.192157 0.192157 1.000000))
+    (transparency-threshold 0.000000)
+    (opacity-threshold 1.000000))
+(GimpGegl-gegl-color-to-alpha-config "2018-07-23 06:46:06"
+    (time 1532328366)
+    (color (color-rgba 1.000000 0.000000 0.290196 1.000000))
+    (transparency-threshold 0.000000)
+    (opacity-threshold 1.000000))
+(GimpGegl-gegl-color-to-alpha-config "2018-07-23 06:37:11"
+    (time 1532327831)
+    (color (color-rgba 1.000000 1.000000 1.000000 1.000000))
+    (transparency-threshold 0.000000)
+    (opacity-threshold 1.000000))
+
+# end of settings

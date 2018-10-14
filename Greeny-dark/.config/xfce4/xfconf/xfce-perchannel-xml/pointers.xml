@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="pointers" version="1.0">
+  <property name="SynPS2_Synaptics_TouchPad" type="empty">
+    <property name="Properties" type="empty">
+      <property name="libinput_Tapping_Enabled" type="int" value="1"/>
+      <property name="Synaptics_Edge_Scrolling" type="array">
+        <value type="int" value="0"/>
+        <value type="int" value="0"/>
+        <value type="int" value="0"/>
+      </property>
+      <property name="Synaptics_Two-Finger_Scrolling" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="1"/>
+      </property>
+      <property name="Synaptics_Circular_Scrolling" type="int" value="0"/>
+      <property name="Synaptics_Circular_Scrolling_Trigger" type="int" value="0"/>
+      <property name="libinput_Scroll_Method_Enabled" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="0"/>
+        <value type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="TPPS2_IBM_TrackPoint" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="ReverseScrolling" type="bool" value="false"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="5.000000"/>
+  </property>
+</channel>

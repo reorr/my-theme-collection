@@ -1,0 +1,8 @@
+# GIMP gimp-rect-select-tool options
+
+(desired-fixed-size-height 900.000000)
+(desired-fixed-size-width 1600.000000)
+(overridden-fixed-aspect yes)
+(overridden-fixed-size yes)
+
+# end of gimp-rect-select-tool options

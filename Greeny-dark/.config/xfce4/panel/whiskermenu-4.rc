@@ -1,0 +1,68 @@
+favorites=ahoviewer.desktop,colorgrab.desktop,firefox.desktop
+recent=xfce-ui-settings.desktop,xfce-settings-manager.desktop,xfce-backdrop-settings.desktop,xfce-session-settings.desktop,telegramdesktop.desktop,redshift-gtk.desktop,kbbi-qt.desktop,xfce-wm-settings.desktop,Thunar.desktop,xfce4-power-manager-settings.desktop
+button-title=\ アプリケーション\ 
+button-icon=xfce4-whiskermenu
+button-single-row=false
+show-button-title=true
+show-button-icon=false
+launcher-show-name=true
+launcher-show-description=false
+launcher-show-tooltip=false
+item-icon-size=-1
+hover-switch-category=true
+category-show-name=true
+category-icon-size=-1
+load-hierarchy=false
+recent-items-max=10
+favorites-in-recent=true
+display-recent-default=false
+position-search-alternate=true
+position-commands-alternate=true
+position-categories-alternate=true
+menu-width=231
+menu-height=445
+menu-opacity=100
+command-settings=xfce4-settings-manager
+show-command-settings=false
+command-lockscreen=xflock4
+show-command-lockscreen=false
+command-switchuser=gdmflexiserver
+show-command-switchuser=false
+command-logout=xfce4-session-logout
+show-command-logout=false
+command-menueditor=menulibre
+show-command-menueditor=true
+command-profile=mugshot
+show-command-profile=true
+search-actions=5
+
+[action0]
+name=Man Pages
+pattern=#
+command=exo-open --launch TerminalEmulator man %s
+regex=false
+
+[action1]
+name=Web Search
+pattern=?
+command=exo-open --launch WebBrowser https://duckduckgo.com/?q=%u
+regex=false
+
+[action2]
+name=Wikipedia
+pattern=!w
+command=exo-open --launch WebBrowser https://en.wikipedia.org/wiki/%u
+regex=false
+
+[action3]
+name=Run in Terminal
+pattern=!
+command=exo-open --launch TerminalEmulator %s
+regex=false
+
+[action4]
+name=Open URI
+pattern=^(file|http|https):\\/\\/(.*)$
+command=exo-open \\0
+regex=true
+

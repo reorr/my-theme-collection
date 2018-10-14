@@ -1,0 +1,13 @@
+show_frame=false
+fg_set=true
+fg=61423R 61423G 61423B
+bg_set=false
+timezone=
+width_set=true
+width=130
+height_set=false
+data0=%a %d %b  %I:%M %p
+font0=Iosevka Bold 9
+tooltip=%A %d %B %Y/%V
+hib_timing=false
+

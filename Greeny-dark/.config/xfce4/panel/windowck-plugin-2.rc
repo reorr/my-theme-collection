@@ -1,0 +1,19 @@
+only_maximized=false
+show_on_desktop=false
+show_app_icon=false
+icon_on_right=false
+show_window_menu=false
+hide_title=false
+full_name=true
+two_lines=false
+show_tooltips=true
+size_mode=2
+title_size=80
+sync_wm_font=false
+title_font=Adobe Blank Bold 9
+subtitle_font=sans 10
+title_alignment=5
+title_padding=2
+inactive_text_alpha=60
+inactive_text_shade=110
+

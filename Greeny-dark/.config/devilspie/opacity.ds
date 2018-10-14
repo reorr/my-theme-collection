@@ -1,0 +1,7 @@
+( if
+( contains ( window_class ) "Wrapper-2.0" )
+( begin
+( spawn_async (str "transset-df -i " (window_xid) 
+" 0.80" ))
+)
+)

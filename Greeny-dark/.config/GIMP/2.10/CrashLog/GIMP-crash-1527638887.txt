@@ -1,0 +1,149 @@
+
+# Stack traces obtained from PID 16092 - Thread 16092 #
+
+[New LWP 16093]
+[New LWP 16094]
+[New LWP 16095]
+[New LWP 16096]
+[New LWP 16097]
+[New LWP 16098]
+[New LWP 16099]
+[New LWP 16100]
+[New LWP 16125]
+[New LWP 16140]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/libthread_db.so.1".
+0x00007fa033f04514 in read () from /usr/lib/libpthread.so.0
+  Id   Target Id         Frame 
+* 1    Thread 0x7fa038d37d40 (LWP 16092) "gimp" 0x00007fa033f04514 in read () from /usr/lib/libpthread.so.0
+  2    Thread 0x7fa029046700 (LWP 16093) "dconf worker" 0x00007fa033c25ea9 in poll () from /usr/lib/libc.so.6
+  3    Thread 0x7fa028845700 (LWP 16094) "gmain" 0x00007fa033c25ea9 in poll () from /usr/lib/libc.so.6
+  4    Thread 0x7fa028044700 (LWP 16095) "gdbus" 0x00007fa033c25ea9 in poll () from /usr/lib/libc.so.6
+  5    Thread 0x7fa027843700 (LWP 16096) "pool" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+  6    Thread 0x7fa001f95700 (LWP 16097) "async" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+  7    Thread 0x7fa001794700 (LWP 16098) "worker" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+  8    Thread 0x7fa000f93700 (LWP 16099) "worker" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+  9    Thread 0x7fa000792700 (LWP 16100) "worker" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+  10   Thread 0x7f9ffec57700 (LWP 16125) "threaded-ml" 0x00007fa033c25ea9 in poll () from /usr/lib/libc.so.6
+  11   Thread 0x7f9ffd19d700 (LWP 16140) "swap writer" 0x00007fa033c2b0f9 in syscall () from /usr/lib/libc.so.6
+
+Thread 11 (Thread 0x7f9ffd19d700 (LWP 16140)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a411 in g_cond_wait () at /usr/lib/libglib-2.0.so.0
+#2  0x00007fa035cc6afe in  () at /usr/lib/libgegl-0.4.so.0
+#3  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#5  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 10 (Thread 0x7f9ffec57700 (LWP 16125)):
+#0  0x00007fa033c25ea9 in poll () at /usr/lib/libc.so.6
+#1  0x00007f9ffe239773 in  () at /usr/lib/libpulse.so.0
+#2  0x00007f9ffe22abd0 in pa_mainloop_poll () at /usr/lib/libpulse.so.0
+#3  0x00007f9ffe22b271 in pa_mainloop_iterate () at /usr/lib/libpulse.so.0
+#4  0x00007f9ffe22b301 in pa_mainloop_run () at /usr/lib/libpulse.so.0
+#5  0x00007f9ffe2396ae in  () at /usr/lib/libpulse.so.0
+#6  0x00007f9ffdfd881c in  () at /usr/lib/pulseaudio/libpulsecommon-11.1.so
+#7  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#8  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 9 (Thread 0x7fa000792700 (LWP 16100)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a411 in g_cond_wait () at /usr/lib/libglib-2.0.so.0
+#2  0x00005610f8d40e14 in  ()
+#3  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#5  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 8 (Thread 0x7fa000f93700 (LWP 16099)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a411 in g_cond_wait () at /usr/lib/libglib-2.0.so.0
+#2  0x00005610f8d40e14 in  ()
+#3  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#5  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 7 (Thread 0x7fa001794700 (LWP 16098)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a411 in g_cond_wait () at /usr/lib/libglib-2.0.so.0
+#2  0x00005610f8d40e14 in  ()
+#3  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#5  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 6 (Thread 0x7fa001f95700 (LWP 16097)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a411 in g_cond_wait () at /usr/lib/libglib-2.0.so.0
+#2  0x00005610f8d40bc7 in  ()
+#3  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#5  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 5 (Thread 0x7fa027843700 (LWP 16096)):
+#0  0x00007fa033c2b0f9 in syscall () at /usr/lib/libc.so.6
+#1  0x00007fa03453a52d in g_cond_wait_until () at /usr/lib/libglib-2.0.so.0
+#2  0x00007fa0344c5903 in  () at /usr/lib/libglib-2.0.so.0
+#3  0x00007fa0344c5eee in g_async_queue_timeout_pop () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa03451c541 in  () at /usr/lib/libglib-2.0.so.0
+#5  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#6  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#7  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 4 (Thread 0x7fa028044700 (LWP 16095)):
+#0  0x00007fa033c25ea9 in poll () at /usr/lib/libc.so.6
+#1  0x00007fa0344f3523 in  () at /usr/lib/libglib-2.0.so.0
+#2  0x00007fa0344f38e2 in g_main_loop_run () at /usr/lib/libglib-2.0.so.0
+#3  0x00007fa034d00348 in  () at /usr/lib/libgio-2.0.so.0
+#4  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#5  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#6  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 3 (Thread 0x7fa028845700 (LWP 16094)):
+#0  0x00007fa033c25ea9 in poll () at /usr/lib/libc.so.6
+#1  0x00007fa0344f3523 in  () at /usr/lib/libglib-2.0.so.0
+#2  0x00007fa0344f363e in g_main_context_iteration () at /usr/lib/libglib-2.0.so.0
+#3  0x00007fa0344f3692 in  () at /usr/lib/libglib-2.0.so.0
+#4  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#5  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#6  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 2 (Thread 0x7fa029046700 (LWP 16093)):
+#0  0x00007fa033c25ea9 in poll () at /usr/lib/libc.so.6
+#1  0x00007fa0344f3523 in  () at /usr/lib/libglib-2.0.so.0
+#2  0x00007fa0344f363e in g_main_context_iteration () at /usr/lib/libglib-2.0.so.0
+#3  0x00007fa02904af4e in  () at /usr/lib/gio/modules/libdconfsettings.so
+#4  0x00007fa03451ba2a in  () at /usr/lib/libglib-2.0.so.0
+#5  0x00007fa033efb075 in start_thread () at /usr/lib/libpthread.so.0
+#6  0x00007fa033c3053f in clone () at /usr/lib/libc.so.6
+
+Thread 1 (Thread 0x7fa038d37d40 (LWP 16092)):
+#0  0x00007fa033f04514 in read () at /usr/lib/libpthread.so.0
+#1  0x00007fa037a7f6bc in gimp_stack_trace_print () at /usr/lib/libgimpbase-2.0.so.0
+#2  0x00005610f8a6fd40 in  ()
+#3  0x00005610f8a70198 in  ()
+#4  0x00005610f8a70909 in  ()
+#5  0x00007fa033f05a80 in <signal handler called> () at /usr/lib/libpthread.so.0
+#6  0x00007fa033b6e86b in raise () at /usr/lib/libc.so.6
+#7  0x00007fa033b5940e in abort () at /usr/lib/libc.so.6
+#8  0x00007fa033b592e0 in _nl_load_domain.cold.0 () at /usr/lib/libc.so.6
+#9  0x00007fa033b67112 in  () at /usr/lib/libc.so.6
+#10 0x00007fa0357850dc in  () at /usr/lib/libbabl-0.1.so.0
+#11 0x00007fa03578722b in  () at /usr/lib/libbabl-0.1.so.0
+#12 0x00007fa035789cf9 in babl_palette_set_palette () at /usr/lib/libbabl-0.1.so.0
+#13 0x00005610f8d99590 in  ()
+#14 0x00007fa0347cda4d in g_closure_invoke () at /usr/lib/libgobject-2.0.so.0
+#15 0x00007fa0347e0f18 in  () at /usr/lib/libgobject-2.0.so.0
+#16 0x00007fa0347e96f6 in g_signal_emit_valist () at /usr/lib/libgobject-2.0.so.0
+#17 0x00007fa0347ea130 in g_signal_emit () at /usr/lib/libgobject-2.0.so.0
+#18 0x00005610f8c846eb in  ()
+#19 0x00005610f8c85a55 in xcf_load_image ()
+#20 0x00005610f8c82725 in xcf_load_stream ()
+#21 0x00005610f8c828f4 in  ()
+#22 0x00005610f8d1becf in  ()
+#23 0x00005610f8d0f527 in gimp_procedure_execute ()
+#24 0x00005610f8d086da in gimp_pdb_execute_procedure_by_name_args ()
+#25 0x00005610f8d08bab in gimp_pdb_execute_procedure_by_name ()
+#26 0x00005610f8e081c3 in file_open_image ()
+#27 0x00005610f8e0915d in file_open_with_proc_and_display ()
+#28 0x00005610f8e09340 in file_open_with_display ()
+#29 0x00005610f8a6f7b1 in app_run ()
+#30 0x00005610f8a6edf1 in main ()

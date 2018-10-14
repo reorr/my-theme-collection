@@ -1,0 +1,9 @@
+# settings
+
+(GimpGegl-gegl-unsharp-mask-config "2018-09-20 13:14:04"
+    (time 1537449244)
+    (std-dev 3.000000)
+    (scale 0.500000)
+    (threshold 0.701000))
+
+# end of settings
