@@ -1,0 +1,25 @@
+#xcompmgr &
+
+#dunst &
+
+#mpd &
+
+#tint2 &
+
+plank &
+
+#vala-panel &
+
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+compton &
+
+#sh ~/.config/openbox/applets &
+
+#polybar -c ~/.config/polybar/config firstrice &
+
+#sh ~/.fehbg
+
+udiskie &
+
+xfce4-panel &
