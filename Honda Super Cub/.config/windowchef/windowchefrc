@@ -1,0 +1,56 @@
+#!/bin/sh
+#
+# Cooking the window since 2016
+# And you still not noticing me senpai...
+#
+
+# check instance
+for i in sxhkd ruler compton polybar; do
+    pkill $i
+done
+
+sleep 0.1s
+
+# keybindings
+sxhkd &
+
+# jeanne d'arc of window
+ruler &
+
+# compositor
+compton &
+
+# configuration
+border=8
+internal_border=3
+focused=0xE1E4E8 #C0C5CE
+unfocused=0x373C47
+internal_focused=0xE1E4E8
+internal_unfocused=0xAEB4BF
+gap=10
+panel_height=32
+gap_top=$(( gap + panel_height ))
+gap_grid=$(( gap / 2 ))
+group=4
+
+waitron wm_config border_width $border
+waitron wm_config color_focused $unfocused
+waitron wm_config color_unfocused $unfocused
+waitron wm_config internal_border_width $internal_border
+waitron wm_config internal_color_focused $focused
+waitron wm_config internal_color_unfocused $internal_unfocused
+waitron wm_config gap_width all $gap
+waitron wm_config gap_width top $gap_top
+waitron wm_config grid_gap_width $gap_grid
+waitron wm_config cursor_position middle
+waitron wm_config groups_nr $group
+waitron wm_config enable_resize_hints false
+waitron wm_config enable_sloppy_focus true
+waitron wm_config sticky_windows false
+waitron wm_config enable_borders true
+waitron wm_config enable_last_window_focusing true
+waitron wm_config apply_settings true
+waitron wm_config replay_click_on_focus true
+waitron wm_config pointer_actions move resize_side resize_corner
+waitron wm_config pointer_modifier super
+waitron wm_config click_to_focus any

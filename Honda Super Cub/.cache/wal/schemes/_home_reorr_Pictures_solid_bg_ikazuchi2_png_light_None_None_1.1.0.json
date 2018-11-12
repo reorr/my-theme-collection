@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/ikazuchi2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfafa",
+        "foreground": "#2D2D32",
+        "cursor": "#2D2D32"
+    },
+    "colors": {
+        "color0": "#fcfafa",
+        "color1": "#B48372",
+        "color2": "#C6856D",
+        "color3": "#DDA864",
+        "color4": "#807B84",
+        "color5": "#A59C9F",
+        "color6": "#DBB1A9",
+        "color7": "#2D2D32",
+        "color8": "#8e8887",
+        "color9": "#B48372",
+        "color10": "#C6856D",
+        "color11": "#DDA864",
+        "color12": "#807B84",
+        "color13": "#A59C9F",
+        "color14": "#DBB1A9",
+        "color15": "#2D2D32"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/hai-phung-247272-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfc",
+        "foreground": "#202524",
+        "cursor": "#202524"
+    },
+    "colors": {
+        "color0": "#fcfcfc",
+        "color1": "#C68E78",
+        "color2": "#95908B",
+        "color3": "#A89F98",
+        "color4": "#B5B0AE",
+        "color5": "#CBA495",
+        "color6": "#C7BAB6",
+        "color7": "#202524",
+        "color8": "#8f8d8e",
+        "color9": "#C68E78",
+        "color10": "#95908B",
+        "color11": "#A89F98",
+        "color12": "#B5B0AE",
+        "color13": "#CBA495",
+        "color14": "#C7BAB6",
+        "color15": "#202524"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/mpv/mpv-shot0099.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#451e5c",
+        "foreground": "#f0e1f1",
+        "cursor": "#f0e1f1"
+    },
+    "colors": {
+        "color0": "#451e5c",
+        "color1": "#85A4B7",
+        "color2": "#9BC397",
+        "color3": "#DFEC91",
+        "color4": "#B8ACC9",
+        "color5": "#DED0DB",
+        "color6": "#F9F4C9",
+        "color7": "#f0e1f1",
+        "color8": "#a89da8",
+        "color9": "#85A4B7",
+        "color10": "#9BC397",
+        "color11": "#DFEC91",
+        "color12": "#B8ACC9",
+        "color13": "#DED0DB",
+        "color14": "#F9F4C9",
+        "color15": "#f0e1f1"
+    }
+}

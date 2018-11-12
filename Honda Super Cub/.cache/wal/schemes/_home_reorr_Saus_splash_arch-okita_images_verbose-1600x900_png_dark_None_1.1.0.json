@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Saus/splash/arch-okita/images/verbose-1600x900.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131517",
+        "foreground": "#e0dad4",
+        "cursor": "#e0dad4"
+    },
+    "colors": {
+        "color0": "#131517",
+        "color1": "#157383",
+        "color2": "#677884",
+        "color3": "#8D7A84",
+        "color4": "#2D93A1",
+        "color5": "#A59A9C",
+        "color6": "#CAA99B",
+        "color7": "#e0dad4",
+        "color8": "#9c9894",
+        "color9": "#157383",
+        "color10": "#677884",
+        "color11": "#8D7A84",
+        "color12": "#2D93A1",
+        "color13": "#A59A9C",
+        "color14": "#CAA99B",
+        "color15": "#e0dad4"
+    }
+}

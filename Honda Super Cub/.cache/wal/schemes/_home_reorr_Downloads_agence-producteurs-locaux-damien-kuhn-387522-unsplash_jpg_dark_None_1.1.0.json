@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/agence-producteurs-locaux-damien-kuhn-387522-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020F02",
+        "foreground": "#c2e4a4",
+        "cursor": "#c2e4a4"
+    },
+    "colors": {
+        "color0": "#020F02",
+        "color1": "#4E7945",
+        "color2": "#39890D",
+        "color3": "#549F1F",
+        "color4": "#73C91A",
+        "color5": "#6AAD4A",
+        "color6": "#8CDA29",
+        "color7": "#c2e4a4",
+        "color8": "#879f72",
+        "color9": "#4E7945",
+        "color10": "#39890D",
+        "color11": "#549F1F",
+        "color12": "#73C91A",
+        "color13": "#6AAD4A",
+        "color14": "#8CDA29",
+        "color15": "#c2e4a4"
+    }
+}

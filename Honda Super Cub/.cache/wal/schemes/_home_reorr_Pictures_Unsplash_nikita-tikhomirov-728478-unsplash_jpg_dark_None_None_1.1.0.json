@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nikita-tikhomirov-728478-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E110E",
+        "foreground": "#c9888a",
+        "cursor": "#c9888a"
+    },
+    "colors": {
+        "color0": "#0E110E",
+        "color1": "#244636",
+        "color2": "#534D32",
+        "color3": "#2D5A53",
+        "color4": "#516A61",
+        "color5": "#8F1717",
+        "color6": "#AF1919",
+        "color7": "#c9888a",
+        "color8": "#8c5f60",
+        "color9": "#244636",
+        "color10": "#534D32",
+        "color11": "#2D5A53",
+        "color12": "#516A61",
+        "color13": "#8F1717",
+        "color14": "#AF1919",
+        "color15": "#c9888a"
+    }
+}

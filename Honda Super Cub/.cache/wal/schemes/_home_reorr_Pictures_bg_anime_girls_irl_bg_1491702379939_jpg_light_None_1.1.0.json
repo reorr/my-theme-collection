@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/anime_girls_irl_bg/1491702379939.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfcf6",
+        "foreground": "#201D22",
+        "cursor": "#201D22"
+    },
+    "colors": {
+        "color0": "#fdfcf6",
+        "color1": "#7C827A",
+        "color2": "#A78F73",
+        "color3": "#CC9B77",
+        "color4": "#AF9D89",
+        "color5": "#D5AF92",
+        "color6": "#B4C9A4",
+        "color7": "#201D22",
+        "color8": "#939077",
+        "color9": "#7C827A",
+        "color10": "#A78F73",
+        "color11": "#CC9B77",
+        "color12": "#AF9D89",
+        "color13": "#D5AF92",
+        "color14": "#B4C9A4",
+        "color15": "#201D22"
+    }
+}

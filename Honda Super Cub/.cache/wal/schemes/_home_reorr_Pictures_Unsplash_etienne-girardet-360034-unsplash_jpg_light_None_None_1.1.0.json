@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/etienne-girardet-360034-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f5f6f3",
+        "foreground": "#2D2811",
+        "cursor": "#2D2811"
+    },
+    "colors": {
+        "color0": "#f5f6f3",
+        "color1": "#E79B05",
+        "color2": "#FCB702",
+        "color3": "#FEC202",
+        "color4": "#FAC42F",
+        "color5": "#C09C50",
+        "color6": "#0B738A",
+        "color7": "#2D2811",
+        "color8": "#72756b",
+        "color9": "#E79B05",
+        "color10": "#FCB702",
+        "color11": "#FEC202",
+        "color12": "#FAC42F",
+        "color13": "#C09C50",
+        "color14": "#0B738A",
+        "color15": "#2D2811"
+    }
+}

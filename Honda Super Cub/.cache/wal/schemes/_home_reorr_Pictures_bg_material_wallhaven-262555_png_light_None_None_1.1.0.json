@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/wallhaven-262555.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#E36839",
+        "cursor": "#E36839"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#367BF0",
+        "color2": "#24B2B7",
+        "color3": "#53BFAF",
+        "color4": "#26BCC2",
+        "color5": "#338CE4",
+        "color6": "#4F9CDE",
+        "color7": "#E36839",
+        "color8": "#969696",
+        "color9": "#367BF0",
+        "color10": "#24B2B7",
+        "color11": "#53BFAF",
+        "color12": "#26BCC2",
+        "color13": "#338CE4",
+        "color14": "#4F9CDE",
+        "color15": "#E36839"
+    }
+}

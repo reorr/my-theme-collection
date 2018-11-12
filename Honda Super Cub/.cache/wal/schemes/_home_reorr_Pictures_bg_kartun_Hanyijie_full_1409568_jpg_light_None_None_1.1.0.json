@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Hanyijie.full.1409568.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f9f4",
+        "foreground": "#192035",
+        "cursor": "#192035"
+    },
+    "colors": {
+        "color0": "#f9f9f4",
+        "color1": "#3C646A",
+        "color2": "#5C6958",
+        "color3": "#4D7071",
+        "color4": "#807159",
+        "color5": "#72853D",
+        "color6": "#6E8A5F",
+        "color7": "#192035",
+        "color8": "#83816f",
+        "color9": "#3C646A",
+        "color10": "#5C6958",
+        "color11": "#4D7071",
+        "color12": "#807159",
+        "color13": "#72853D",
+        "color14": "#6E8A5F",
+        "color15": "#192035"
+    }
+}

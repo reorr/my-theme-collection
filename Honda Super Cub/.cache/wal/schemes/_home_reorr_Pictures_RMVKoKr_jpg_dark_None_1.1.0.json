@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/RMVKoKr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141715",
+        "foreground": "#e7e6e2",
+        "cursor": "#e7e6e2"
+    },
+    "colors": {
+        "color0": "#141715",
+        "color1": "#2D968D",
+        "color2": "#6E9393",
+        "color3": "#A1AAA7",
+        "color4": "#D4B1A1",
+        "color5": "#E8CDB2",
+        "color6": "#B0C0C2",
+        "color7": "#e7e6e2",
+        "color8": "#a1a19e",
+        "color9": "#2D968D",
+        "color10": "#6E9393",
+        "color11": "#A1AAA7",
+        "color12": "#D4B1A1",
+        "color13": "#E8CDB2",
+        "color14": "#B0C0C2",
+        "color15": "#e7e6e2"
+    }
+}

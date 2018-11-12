@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Keyakizaka46 .jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1214",
+        "foreground": "#abc4d6",
+        "cursor": "#abc4d6"
+    },
+    "colors": {
+        "color0": "#0f1214",
+        "color1": "#264563",
+        "color2": "#2E4D71",
+        "color3": "#4E556E",
+        "color4": "#103586",
+        "color5": "#335D89",
+        "color6": "#4B7094",
+        "color7": "#abc4d6",
+        "color8": "#778995",
+        "color9": "#264563",
+        "color10": "#2E4D71",
+        "color11": "#4E556E",
+        "color12": "#103586",
+        "color13": "#335D89",
+        "color14": "#4B7094",
+        "color15": "#abc4d6"
+    }
+}

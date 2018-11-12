@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/steve-richey-141-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f6f4",
+        "foreground": "#25211C",
+        "cursor": "#25211C"
+    },
+    "colors": {
+        "color0": "#f7f6f4",
+        "color1": "#90742F",
+        "color2": "#8D7452",
+        "color3": "#857A77",
+        "color4": "#818366",
+        "color5": "#9A9767",
+        "color6": "#CABE56",
+        "color7": "#25211C",
+        "color8": "#7c7870",
+        "color9": "#90742F",
+        "color10": "#8D7452",
+        "color11": "#857A77",
+        "color12": "#818366",
+        "color13": "#9A9767",
+        "color14": "#CABE56",
+        "color15": "#25211C"
+    }
+}

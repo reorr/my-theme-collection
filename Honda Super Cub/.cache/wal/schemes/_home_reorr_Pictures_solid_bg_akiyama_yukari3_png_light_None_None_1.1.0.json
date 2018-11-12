@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/akiyama_yukari3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#feffff",
+        "foreground": "#2B3645",
+        "cursor": "#2B3645"
+    },
+    "colors": {
+        "color0": "#feffff",
+        "color1": "#63A6B3",
+        "color2": "#7BBDC5",
+        "color3": "#A1A3A4",
+        "color4": "#DFA69E",
+        "color5": "#F2B6A9",
+        "color6": "#CEC4BD",
+        "color7": "#2B3645",
+        "color8": "#989999",
+        "color9": "#63A6B3",
+        "color10": "#7BBDC5",
+        "color11": "#A1A3A4",
+        "color12": "#DFA69E",
+        "color13": "#F2B6A9",
+        "color14": "#CEC4BD",
+        "color15": "#2B3645"
+    }
+}

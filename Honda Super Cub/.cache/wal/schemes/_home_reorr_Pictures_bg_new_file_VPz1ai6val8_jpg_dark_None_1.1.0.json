@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/VPz1ai6val8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131519",
+        "foreground": "#c6c6c9",
+        "cursor": "#c6c6c9"
+    },
+    "colors": {
+        "color0": "#131519",
+        "color1": "#4C4756",
+        "color2": "#566163",
+        "color3": "#5C8E68",
+        "color4": "#889D78",
+        "color5": "#5F4D96",
+        "color6": "#8C6DAC",
+        "color7": "#c6c6c9",
+        "color8": "#8a8a8c",
+        "color9": "#4C4756",
+        "color10": "#566163",
+        "color11": "#5C8E68",
+        "color12": "#889D78",
+        "color13": "#5F4D96",
+        "color14": "#8C6DAC",
+        "color15": "#c6c6c9"
+    }
+}

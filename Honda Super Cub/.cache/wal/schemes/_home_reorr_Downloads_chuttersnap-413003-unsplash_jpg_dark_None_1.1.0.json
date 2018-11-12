@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/chuttersnap-413003-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0401",
+        "foreground": "#b9dbaf",
+        "cursor": "#b9dbaf"
+    },
+    "colors": {
+        "color0": "#0B0401",
+        "color1": "#215915",
+        "color2": "#76462D",
+        "color3": "#40724A",
+        "color4": "#864C34",
+        "color5": "#57A030",
+        "color6": "#5AA065",
+        "color7": "#b9dbaf",
+        "color8": "#81997a",
+        "color9": "#215915",
+        "color10": "#76462D",
+        "color11": "#40724A",
+        "color12": "#864C34",
+        "color13": "#57A030",
+        "color14": "#5AA065",
+        "color15": "#b9dbaf"
+    }
+}

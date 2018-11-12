@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/71_GPMkyOjo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f7fb",
+        "foreground": "#212A24",
+        "cursor": "#212A24"
+    },
+    "colors": {
+        "color0": "#f7f7fb",
+        "color1": "#30699A",
+        "color2": "#867B91",
+        "color3": "#6B8FB7",
+        "color4": "#A8AC9A",
+        "color5": "#CDB5A5",
+        "color6": "#CDC8A8",
+        "color7": "#212A24",
+        "color8": "#7c7a8a",
+        "color9": "#30699A",
+        "color10": "#867B91",
+        "color11": "#6B8FB7",
+        "color12": "#A8AC9A",
+        "color13": "#CDB5A5",
+        "color14": "#CDC8A8",
+        "color15": "#212A24"
+    }
+}

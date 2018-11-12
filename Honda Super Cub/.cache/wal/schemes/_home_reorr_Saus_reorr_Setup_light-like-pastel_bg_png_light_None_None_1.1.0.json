@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Saus/reorr/Setup/light-like-pastel/bg.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#6D6168",
+        "cursor": "#6D6168"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#D3B2B0",
+        "color2": "#E3B0AA",
+        "color3": "#D8C3BC",
+        "color4": "#E4C4BC",
+        "color5": "#BCB1CE",
+        "color6": "#CBBACD",
+        "color7": "#6D6168",
+        "color8": "#989897",
+        "color9": "#D3B2B0",
+        "color10": "#E3B0AA",
+        "color11": "#D8C3BC",
+        "color12": "#E4C4BC",
+        "color13": "#BCB1CE",
+        "color14": "#CBBACD",
+        "color15": "#6D6168"
+    }
+}

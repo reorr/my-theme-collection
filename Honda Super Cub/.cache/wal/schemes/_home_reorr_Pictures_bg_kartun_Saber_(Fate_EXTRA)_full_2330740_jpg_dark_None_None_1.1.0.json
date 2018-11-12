@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Saber.(Fate.EXTRA).full.2330740.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0f1c",
+        "foreground": "#9a93b9",
+        "cursor": "#9a93b9"
+    },
+    "colors": {
+        "color0": "#1b0f1c",
+        "color1": "#704763",
+        "color2": "#9D362E",
+        "color3": "#9D5A69",
+        "color4": "#CF716B",
+        "color5": "#C19569",
+        "color6": "#E39673",
+        "color7": "#9a93b9",
+        "color8": "#6b6681",
+        "color9": "#704763",
+        "color10": "#9D362E",
+        "color11": "#9D5A69",
+        "color12": "#CF716B",
+        "color13": "#C19569",
+        "color14": "#E39673",
+        "color15": "#9a93b9"
+    }
+}

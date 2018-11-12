@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Kuliah/dldldl/1503011975554.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081D26",
+        "foreground": "#e3e2e5",
+        "cursor": "#e3e2e5"
+    },
+    "colors": {
+        "color0": "#081D26",
+        "color1": "#6385A7",
+        "color2": "#6B90B4",
+        "color3": "#759CC3",
+        "color4": "#A4A3A3",
+        "color5": "#D0BABE",
+        "color6": "#94B1CE",
+        "color7": "#e3e2e5",
+        "color8": "#9e9ea0",
+        "color9": "#6385A7",
+        "color10": "#6B90B4",
+        "color11": "#759CC3",
+        "color12": "#A4A3A3",
+        "color13": "#D0BABE",
+        "color14": "#94B1CE",
+        "color15": "#e3e2e5"
+    }
+}

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+curl -X POST -F pr1="$1" https://akademik.unnes.ac.id/directori_ajax/req_cek_bayar.php

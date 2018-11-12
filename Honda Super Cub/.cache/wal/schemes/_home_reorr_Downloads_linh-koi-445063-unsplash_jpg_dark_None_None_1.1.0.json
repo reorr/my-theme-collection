@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/linh-koi-445063-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090c10",
+        "foreground": "#adc8d5",
+        "cursor": "#adc8d5"
+    },
+    "colors": {
+        "color0": "#090c10",
+        "color1": "#917C72",
+        "color2": "#3A708F",
+        "color3": "#3D82A4",
+        "color4": "#6E8894",
+        "color5": "#5893B3",
+        "color6": "#649BB9",
+        "color7": "#adc8d5",
+        "color8": "#798c95",
+        "color9": "#917C72",
+        "color10": "#3A708F",
+        "color11": "#3D82A4",
+        "color12": "#6E8894",
+        "color13": "#5893B3",
+        "color14": "#649BB9",
+        "color15": "#adc8d5"
+    }
+}

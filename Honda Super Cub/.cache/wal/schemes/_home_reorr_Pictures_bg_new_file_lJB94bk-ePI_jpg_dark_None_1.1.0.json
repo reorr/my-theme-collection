@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/lJB94bk-ePI.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d1d25",
+        "foreground": "#cad4d9",
+        "cursor": "#cad4d9"
+    },
+    "colors": {
+        "color0": "#1d1d25",
+        "color1": "#978C6E",
+        "color2": "#CC9471",
+        "color3": "#C36F8C",
+        "color4": "#79878A",
+        "color5": "#9FA6A6",
+        "color6": "#E3B3BB",
+        "color7": "#cad4d9",
+        "color8": "#8d9497",
+        "color9": "#978C6E",
+        "color10": "#CC9471",
+        "color11": "#C36F8C",
+        "color12": "#79878A",
+        "color13": "#9FA6A6",
+        "color14": "#E3B3BB",
+        "color15": "#cad4d9"
+    }
+}

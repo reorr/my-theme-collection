@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/renders_in_shape/1477396159676.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdf4f6",
+        "foreground": "#56493D",
+        "cursor": "#56493D"
+    },
+    "colors": {
+        "color0": "#fdf4f6",
+        "color1": "#896CA6",
+        "color2": "#C97A97",
+        "color3": "#D38899",
+        "color4": "#DD93A4",
+        "color5": "#EA99A6",
+        "color6": "#EFACB4",
+        "color7": "#56493D",
+        "color8": "#916d75",
+        "color9": "#896CA6",
+        "color10": "#C97A97",
+        "color11": "#D38899",
+        "color12": "#DD93A4",
+        "color13": "#EA99A6",
+        "color14": "#EFACB4",
+        "color15": "#56493D"
+    }
+}

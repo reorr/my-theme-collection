@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/w/Koe.no.Katachi.full.2120272.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#12252d",
+        "foreground": "#ecebe2",
+        "cursor": "#ecebe2"
+    },
+    "colors": {
+        "color0": "#12252d",
+        "color1": "#719484",
+        "color2": "#6EDCBF",
+        "color3": "#9EAB97",
+        "color4": "#D8A39D",
+        "color5": "#BECCB1",
+        "color6": "#E5D6CC",
+        "color7": "#ecebe2",
+        "color8": "#a5a49e",
+        "color9": "#719484",
+        "color10": "#6EDCBF",
+        "color11": "#9EAB97",
+        "color12": "#D8A39D",
+        "color13": "#BECCB1",
+        "color14": "#E5D6CC",
+        "color15": "#ecebe2"
+    }
+}

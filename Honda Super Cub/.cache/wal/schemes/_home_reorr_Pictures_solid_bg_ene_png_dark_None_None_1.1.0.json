@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/ene.png",
+    "alpha": "100",
+    "special": {
+        "background": "#232f3f",
+        "foreground": "#8ccada",
+        "cursor": "#8ccada"
+    },
+    "colors": {
+        "color0": "#232f3f",
+        "color1": "#2F778F",
+        "color2": "#576E8C",
+        "color3": "#BC6D8B",
+        "color4": "#228BA6",
+        "color5": "#2695B2",
+        "color6": "#5F97A7",
+        "color7": "#8ccada",
+        "color8": "#628d98",
+        "color9": "#2F778F",
+        "color10": "#576E8C",
+        "color11": "#BC6D8B",
+        "color12": "#228BA6",
+        "color13": "#2695B2",
+        "color14": "#5F97A7",
+        "color15": "#8ccada"
+    }
+}

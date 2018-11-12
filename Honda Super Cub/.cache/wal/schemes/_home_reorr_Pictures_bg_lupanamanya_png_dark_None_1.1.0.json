@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/lupanamanya.png",
+    "alpha": "100",
+    "special": {
+        "background": "#272727",
+        "foreground": "#e4e3e1",
+        "cursor": "#e4e3e1"
+    },
+    "colors": {
+        "color0": "#272727",
+        "color1": "#638EA3",
+        "color2": "#7092A5",
+        "color3": "#79A3C5",
+        "color4": "#9EA2A3",
+        "color5": "#CBB6A0",
+        "color6": "#B7BFC4",
+        "color7": "#e4e3e1",
+        "color8": "#9f9e9d",
+        "color9": "#638EA3",
+        "color10": "#7092A5",
+        "color11": "#79A3C5",
+        "color12": "#9EA2A3",
+        "color13": "#CBB6A0",
+        "color14": "#B7BFC4",
+        "color15": "#e4e3e1"
+    }
+}

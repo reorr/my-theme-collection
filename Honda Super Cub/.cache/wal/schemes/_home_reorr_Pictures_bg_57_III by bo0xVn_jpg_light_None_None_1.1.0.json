@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/57.III by bo0xVn.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfbf8",
+        "foreground": "#0A011E",
+        "cursor": "#0A011E"
+    },
+    "colors": {
+        "color0": "#fcfbf8",
+        "color1": "#EB5F29",
+        "color2": "#9E6958",
+        "color3": "#AE8B6F",
+        "color4": "#DB9C6A",
+        "color5": "#F7D34C",
+        "color6": "#2F6792",
+        "color7": "#0A011E",
+        "color8": "#908a7f",
+        "color9": "#EB5F29",
+        "color10": "#9E6958",
+        "color11": "#AE8B6F",
+        "color12": "#DB9C6A",
+        "color13": "#F7D34C",
+        "color14": "#2F6792",
+        "color15": "#0A011E"
+    }
+}

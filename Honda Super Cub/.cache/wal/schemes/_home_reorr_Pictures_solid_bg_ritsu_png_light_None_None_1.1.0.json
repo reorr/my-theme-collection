@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/ritsu.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefd",
+        "foreground": "#272C36",
+        "cursor": "#272C36"
+    },
+    "colors": {
+        "color0": "#fefefd",
+        "color1": "#AC8E6E",
+        "color2": "#CBA761",
+        "color3": "#697587",
+        "color4": "#867D84",
+        "color5": "#6F8B9B",
+        "color6": "#9B9EA6",
+        "color7": "#272C36",
+        "color8": "#979594",
+        "color9": "#AC8E6E",
+        "color10": "#CBA761",
+        "color11": "#697587",
+        "color12": "#867D84",
+        "color13": "#6F8B9B",
+        "color14": "#9B9EA6",
+        "color15": "#272C36"
+    }
+}

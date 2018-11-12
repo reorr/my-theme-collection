@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/Lighthouse.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1c24",
+        "foreground": "#e6e9e4",
+        "cursor": "#e6e9e4"
+    },
+    "colors": {
+        "color0": "#1f1c24",
+        "color1": "#6CABA4",
+        "color2": "#8CB9AF",
+        "color3": "#A1C5BA",
+        "color4": "#C1CDBD",
+        "color5": "#B4D1C6",
+        "color6": "#CBD9CC",
+        "color7": "#e6e9e4",
+        "color8": "#a1a39f",
+        "color9": "#6CABA4",
+        "color10": "#8CB9AF",
+        "color11": "#A1C5BA",
+        "color12": "#C1CDBD",
+        "color13": "#B4D1C6",
+        "color14": "#CBD9CC",
+        "color15": "#e6e9e4"
+    }
+}

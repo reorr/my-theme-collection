@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new phos.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#e7e6e6",
+        "cursor": "#e7e6e6"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#B69165",
+        "color2": "#6D6888",
+        "color3": "#827D8E",
+        "color4": "#A69F9C",
+        "color5": "#C5BAAF",
+        "color6": "#D7D6D6",
+        "color7": "#e7e6e6",
+        "color8": "#a1a1a1",
+        "color9": "#B69165",
+        "color10": "#6D6888",
+        "color11": "#827D8E",
+        "color12": "#A69F9C",
+        "color13": "#C5BAAF",
+        "color14": "#D7D6D6",
+        "color15": "#e7e6e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/guidelines.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f3fbfe",
+        "foreground": "#283370",
+        "cursor": "#283370"
+    },
+    "colors": {
+        "color0": "#f3fbfe",
+        "color1": "#0276BC",
+        "color2": "#169BDF",
+        "color3": "#039BE6",
+        "color4": "#6A97CA",
+        "color5": "#53C4F8",
+        "color6": "#8CB0C0",
+        "color7": "#283370",
+        "color8": "#6b8997",
+        "color9": "#0276BC",
+        "color10": "#169BDF",
+        "color11": "#039BE6",
+        "color12": "#6A97CA",
+        "color13": "#53C4F8",
+        "color14": "#8CB0C0",
+        "color15": "#283370"
+    }
+}

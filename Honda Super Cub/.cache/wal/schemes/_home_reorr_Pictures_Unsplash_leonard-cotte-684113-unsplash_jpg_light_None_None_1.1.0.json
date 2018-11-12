@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/leonard-cotte-684113-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfbfb",
+        "foreground": "#2C1402",
+        "cursor": "#2C1402"
+    },
+    "colors": {
+        "color0": "#fbfbfb",
+        "color1": "#CF0401",
+        "color2": "#F50601",
+        "color3": "#EB3102",
+        "color4": "#9C600A",
+        "color5": "#F15E0B",
+        "color6": "#AE7455",
+        "color7": "#2C1402",
+        "color8": "#8c8a89",
+        "color9": "#CF0401",
+        "color10": "#F50601",
+        "color11": "#EB3102",
+        "color12": "#9C600A",
+        "color13": "#F15E0B",
+        "color14": "#AE7455",
+        "color15": "#2C1402"
+    }
+}

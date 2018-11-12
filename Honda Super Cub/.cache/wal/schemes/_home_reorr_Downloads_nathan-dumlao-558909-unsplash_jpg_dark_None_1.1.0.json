@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/nathan-dumlao-558909-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0F12",
+        "foreground": "#e1e0e0",
+        "cursor": "#e1e0e0"
+    },
+    "colors": {
+        "color0": "#0C0F12",
+        "color1": "#86837C",
+        "color2": "#91918E",
+        "color3": "#A0A19F",
+        "color4": "#ADAFAF",
+        "color5": "#BFBEBE",
+        "color6": "#BCC3C6",
+        "color7": "#e1e0e0",
+        "color8": "#9d9c9c",
+        "color9": "#86837C",
+        "color10": "#91918E",
+        "color11": "#A0A19F",
+        "color12": "#ADAFAF",
+        "color13": "#BFBEBE",
+        "color14": "#BCC3C6",
+        "color15": "#e1e0e0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/dawid-zawila-256946-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfc",
+        "foreground": "#131312",
+        "cursor": "#131312"
+    },
+    "colors": {
+        "color0": "#fcfcfc",
+        "color1": "#B57146",
+        "color2": "#B29A7B",
+        "color3": "#EAA565",
+        "color4": "#7E7E81",
+        "color5": "#908F8D",
+        "color6": "#A2A19D",
+        "color7": "#131312",
+        "color8": "#90908f",
+        "color9": "#B57146",
+        "color10": "#B29A7B",
+        "color11": "#EAA565",
+        "color12": "#7E7E81",
+        "color13": "#908F8D",
+        "color14": "#A2A19D",
+        "color15": "#131312"
+    }
+}

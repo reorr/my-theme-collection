@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/old_file/nature_0060.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161800",
+        "foreground": "#e4c0ab",
+        "cursor": "#e4c0ab"
+    },
+    "colors": {
+        "color0": "#161800",
+        "color1": "#A69306",
+        "color2": "#A0A939",
+        "color3": "#DB9D15",
+        "color4": "#EFD314",
+        "color5": "#D78954",
+        "color6": "#E19659",
+        "color7": "#e4c0ab",
+        "color8": "#9f8677",
+        "color9": "#A69306",
+        "color10": "#A0A939",
+        "color11": "#DB9D15",
+        "color12": "#EFD314",
+        "color13": "#D78954",
+        "color14": "#E19659",
+        "color15": "#e4c0ab"
+    }
+}

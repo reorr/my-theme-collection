@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/KBlCdNY33Wc.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#30282b",
+        "foreground": "#e8cdbe",
+        "cursor": "#e8cdbe"
+    },
+    "colors": {
+        "color0": "#30282b",
+        "color1": "#956B52",
+        "color2": "#D36751",
+        "color3": "#78884B",
+        "color4": "#979E60",
+        "color5": "#C99E61",
+        "color6": "#A87788",
+        "color7": "#e8cdbe",
+        "color8": "#a28f85",
+        "color9": "#956B52",
+        "color10": "#D36751",
+        "color11": "#78884B",
+        "color12": "#979E60",
+        "color13": "#C99E61",
+        "color14": "#A87788",
+        "color15": "#e8cdbe"
+    }
+}

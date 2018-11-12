@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/charlie-harutaka-324973-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a09",
+        "foreground": "#cfcbb3",
+        "cursor": "#cfcbb3"
+    },
+    "colors": {
+        "color0": "#090a09",
+        "color1": "#625F5A",
+        "color2": "#873E40",
+        "color3": "#90636B",
+        "color4": "#53834C",
+        "color5": "#698C69",
+        "color6": "#919674",
+        "color7": "#cfcbb3",
+        "color8": "#908e7d",
+        "color9": "#625F5A",
+        "color10": "#873E40",
+        "color11": "#90636B",
+        "color12": "#53834C",
+        "color13": "#698C69",
+        "color14": "#919674",
+        "color15": "#cfcbb3"
+    }
+}

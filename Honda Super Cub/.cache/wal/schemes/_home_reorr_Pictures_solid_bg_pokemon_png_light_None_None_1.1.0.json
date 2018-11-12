@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/pokemon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfdfd",
+        "foreground": "#2A2628",
+        "cursor": "#2A2628"
+    },
+    "colors": {
+        "color0": "#fdfdfd",
+        "color1": "#C6BA67",
+        "color2": "#DBD270",
+        "color3": "#F1E776",
+        "color4": "#D77990",
+        "color5": "#729D96",
+        "color6": "#7798A6",
+        "color7": "#2A2628",
+        "color8": "#949493",
+        "color9": "#C6BA67",
+        "color10": "#DBD270",
+        "color11": "#F1E776",
+        "color12": "#D77990",
+        "color13": "#729D96",
+        "color14": "#7798A6",
+        "color15": "#2A2628"
+    }
+}

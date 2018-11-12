@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/mashiro.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefd",
+        "foreground": "#4A372C",
+        "cursor": "#4A372C"
+    },
+    "colors": {
+        "color0": "#fefefd",
+        "color1": "#926561",
+        "color2": "#9F8B76",
+        "color3": "#586A8B",
+        "color4": "#687985",
+        "color5": "#7B8D97",
+        "color6": "#979698",
+        "color7": "#4A372C",
+        "color8": "#979694",
+        "color9": "#926561",
+        "color10": "#9F8B76",
+        "color11": "#586A8B",
+        "color12": "#687985",
+        "color13": "#7B8D97",
+        "color14": "#979698",
+        "color15": "#4A372C"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/.cache/mantablockscreen/resize-blur.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f3f1",
+        "foreground": "#5F2B15",
+        "cursor": "#5F2B15"
+    },
+    "colors": {
+        "color0": "#f3f3f1",
+        "color1": "#E1AE56",
+        "color2": "#F1C769",
+        "color3": "#336E9D",
+        "color4": "#4A7AA0",
+        "color5": "#3E82B2",
+        "color6": "#4D8EB8",
+        "color7": "#5F2B15",
+        "color8": "#696b62",
+        "color9": "#E1AE56",
+        "color10": "#F1C769",
+        "color11": "#336E9D",
+        "color12": "#4A7AA0",
+        "color13": "#3E82B2",
+        "color14": "#4D8EB8",
+        "color15": "#5F2B15"
+    }
+}

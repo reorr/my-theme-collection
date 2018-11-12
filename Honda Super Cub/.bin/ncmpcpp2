@@ -1,0 +1,3 @@
+#!/bin/bash
+ncmpcpp -c ~/.ncmpcpp/ncmpcpp-albumart
+exit 0

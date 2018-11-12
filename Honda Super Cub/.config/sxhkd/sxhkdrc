@@ -1,0 +1,66 @@
+# reload config
+super + shift + r
+	$HOME/.config/windowchef/windowchefrc; \
+	pkill -USR1 -x sxhkd; \
+	pkill -USR1 -x ruler; \
+	pkill -USR1 -x redshift && notify-send -u low "Configuration reloaded"
+
+# manage window
+super + {Left,Down,Up,Right}
+	waitron window_move {-30 0, 0 30, 0 -30, 30 0}
+
+super + shift + {Left,Down,Up,Right}
+	waitron window_resize {-20 0, 0 20, 0 -20, 20 0}
+
+alt + {h,j,k,l}
+	waitron window_cardinal_focus {left,down,up,right}
+
+super + {h,k,j,l,g}
+     waitron window_snap {topleft,topright,bottomleft,bottomright,middle}
+
+super + b
+    waitron window_hor_maximize
+
+super + v
+    waitron window_ver_maximize
+
+super + m
+    waitron window_monocle
+
+super + {_, shift +} {1-4}
+     waitron {group_toggle,group_add_window} {1-4}
+
+ctrl + alt + q
+	waitron wm_quit 0
+
+super + w
+	waitron window_close
+
+# cycle
+alt + Tab
+	waitron window_cycle
+
+alt + shift + Tab
+	waitron window_rev_cycle
+
+# apps
+super + Return
+	urxvt
+
+super + @space
+	rofi -show drun
+
+Print
+	kashatto
+
+XF86AudioRaiseVolume
+	pactl set-sink-volume 0 +5%
+
+XF86AudioLowerVolume
+	pactl set-sink-volume 0 -5%
+
+XF86AudioMute
+	amixer set Master toggle
+
+XF86MonBrightness{Up,Down}
+	xbacklight -{inc,dec} 2

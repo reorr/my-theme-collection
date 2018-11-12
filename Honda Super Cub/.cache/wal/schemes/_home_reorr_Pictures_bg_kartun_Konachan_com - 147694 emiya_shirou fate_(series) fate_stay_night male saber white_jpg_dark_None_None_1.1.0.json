@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 147694 emiya_shirou fate_(series) fate_stay_night male saber white.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15284a",
+        "foreground": "#ccd1db",
+        "cursor": "#ccd1db"
+    },
+    "colors": {
+        "color0": "#15284a",
+        "color1": "#997394",
+        "color2": "#6991BF",
+        "color3": "#2D8BD4",
+        "color4": "#9C9DB1",
+        "color5": "#C6BCB6",
+        "color6": "#99A9CA",
+        "color7": "#ccd1db",
+        "color8": "#8e9299",
+        "color9": "#997394",
+        "color10": "#6991BF",
+        "color11": "#2D8BD4",
+        "color12": "#9C9DB1",
+        "color13": "#C6BCB6",
+        "color14": "#99A9CA",
+        "color15": "#ccd1db"
+    }
+}

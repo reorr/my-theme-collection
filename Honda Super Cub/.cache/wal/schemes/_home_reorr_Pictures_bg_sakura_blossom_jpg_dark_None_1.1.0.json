@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/sakura_blossom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#4f1e0c",
+        "foreground": "#eee0ec",
+        "cursor": "#eee0ec"
+    },
+    "colors": {
+        "color0": "#4f1e0c",
+        "color1": "#E5B8A7",
+        "color2": "#DDA0C9",
+        "color3": "#DDA9C9",
+        "color4": "#E4B6D3",
+        "color5": "#E9C5DA",
+        "color6": "#F6E2D6",
+        "color7": "#eee0ec",
+        "color8": "#a69ca5",
+        "color9": "#E5B8A7",
+        "color10": "#DDA0C9",
+        "color11": "#DDA9C9",
+        "color12": "#E4B6D3",
+        "color13": "#E9C5DA",
+        "color14": "#F6E2D6",
+        "color15": "#eee0ec"
+    }
+}

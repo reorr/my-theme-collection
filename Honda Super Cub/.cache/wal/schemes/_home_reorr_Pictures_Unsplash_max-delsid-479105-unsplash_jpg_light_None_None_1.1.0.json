@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/max-delsid-479105-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f8f6",
+        "foreground": "#2D2A16",
+        "cursor": "#2D2A16"
+    },
+    "colors": {
+        "color0": "#f9f8f6",
+        "color1": "#6D7150",
+        "color2": "#92724B",
+        "color3": "#728338",
+        "color4": "#738A57",
+        "color5": "#8F9171",
+        "color6": "#A19667",
+        "color7": "#2D2A16",
+        "color8": "#827e75",
+        "color9": "#6D7150",
+        "color10": "#92724B",
+        "color11": "#728338",
+        "color12": "#738A57",
+        "color13": "#8F9171",
+        "color14": "#A19667",
+        "color15": "#2D2A16"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/android-5-0-lollipop-green-7596.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f9fc",
+        "foreground": "#2C642E",
+        "cursor": "#2C642E"
+    },
+    "colors": {
+        "color0": "#f9f9fc",
+        "color1": "#8CB091",
+        "color2": "#B0CEA6",
+        "color3": "#C5DEA4",
+        "color4": "#C7E0A6",
+        "color5": "#D8E5AA",
+        "color6": "#91B2D6",
+        "color7": "#2C642E",
+        "color8": "#81828d",
+        "color9": "#8CB091",
+        "color10": "#B0CEA6",
+        "color11": "#C5DEA4",
+        "color12": "#C7E0A6",
+        "color13": "#D8E5AA",
+        "color14": "#91B2D6",
+        "color15": "#2C642E"
+    }
+}

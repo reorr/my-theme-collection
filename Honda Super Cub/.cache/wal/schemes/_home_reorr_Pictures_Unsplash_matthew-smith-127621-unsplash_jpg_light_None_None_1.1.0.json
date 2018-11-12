@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/matthew-smith-127621-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfdfd",
+        "foreground": "#1F2B24",
+        "cursor": "#1F2B24"
+    },
+    "colors": {
+        "color0": "#fdfdfd",
+        "color1": "#CFAE6F",
+        "color2": "#AE9789",
+        "color3": "#A2998E",
+        "color4": "#B8A790",
+        "color5": "#CCA791",
+        "color6": "#C9B096",
+        "color7": "#1F2B24",
+        "color8": "#919292",
+        "color9": "#CFAE6F",
+        "color10": "#AE9789",
+        "color11": "#A2998E",
+        "color12": "#B8A790",
+        "color13": "#CCA791",
+        "color14": "#C9B096",
+        "color15": "#1F2B24"
+    }
+}

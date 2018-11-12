@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/gemma-coll-male-973541-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefbf7",
+        "foreground": "#215D96",
+        "cursor": "#215D96"
+    },
+    "colors": {
+        "color0": "#fefbf7",
+        "color1": "#F63196",
+        "color2": "#EC35A2",
+        "color3": "#916BAF",
+        "color4": "#AF62AE",
+        "color5": "#D14EAA",
+        "color6": "#E752A3",
+        "color7": "#215D96",
+        "color8": "#95897b",
+        "color9": "#F63196",
+        "color10": "#EC35A2",
+        "color11": "#916BAF",
+        "color12": "#AF62AE",
+        "color13": "#D14EAA",
+        "color14": "#E752A3",
+        "color15": "#215D96"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/reorr/Pictures/Unsplash/rita-morais-108395-unsplash.jpg"
+let background = "#282528"
+let foreground = "#c0c0bd"
+let cursor     = "#c0c0bd"
+
+" Colors
+let color0  = "#282528"
+let color1  = "#8F6D54"
+let color2  = "#B66846"
+let color3  = "#B89144"
+let color4  = "#A18965"
+let color5  = "#CBA664"
+let color6  = "#798188"
+let color7  = "#c0c0bd"
+let color8  = "#868684"
+let color9  = "#8F6D54"
+let color10 = "#B66846"
+let color11 = "#B89144"
+let color12 = "#A18965"
+let color13 = "#CBA664"
+let color14 = "#798188"
+let color15 = "#c0c0bd"

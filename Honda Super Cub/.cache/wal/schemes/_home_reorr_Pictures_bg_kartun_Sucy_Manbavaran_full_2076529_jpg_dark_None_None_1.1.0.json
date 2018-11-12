@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Sucy.Manbavaran.full.2076529.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f100d",
+        "foreground": "#cbc0b3",
+        "cursor": "#cbc0b3"
+    },
+    "colors": {
+        "color0": "#0f100d",
+        "color1": "#374650",
+        "color2": "#4D4B56",
+        "color3": "#625765",
+        "color4": "#B7504A",
+        "color5": "#A1685D",
+        "color6": "#926B73",
+        "color7": "#cbc0b3",
+        "color8": "#8e867d",
+        "color9": "#374650",
+        "color10": "#4D4B56",
+        "color11": "#625765",
+        "color12": "#B7504A",
+        "color13": "#A1685D",
+        "color14": "#926B73",
+        "color15": "#cbc0b3"
+    }
+}

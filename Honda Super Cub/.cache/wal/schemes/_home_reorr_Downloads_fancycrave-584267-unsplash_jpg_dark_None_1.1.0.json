@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/fancycrave-584267-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1016",
+        "foreground": "#a1c3c4",
+        "cursor": "#a1c3c4"
+    },
+    "colors": {
+        "color0": "#0B1016",
+        "color1": "#535D5B",
+        "color2": "#A1201B",
+        "color3": "#C95345",
+        "color4": "#488970",
+        "color5": "#B58F75",
+        "color6": "#405B9C",
+        "color7": "#a1c3c4",
+        "color8": "#708889",
+        "color9": "#535D5B",
+        "color10": "#A1201B",
+        "color11": "#C95345",
+        "color12": "#488970",
+        "color13": "#B58F75",
+        "color14": "#405B9C",
+        "color15": "#a1c3c4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sergei-akulich-39018-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#323e3e",
+        "foreground": "#dcdee3",
+        "cursor": "#dcdee3"
+    },
+    "colors": {
+        "color0": "#323e3e",
+        "color1": "#939FC2",
+        "color2": "#9AA9C8",
+        "color3": "#AEB7CA",
+        "color4": "#B5C6C7",
+        "color5": "#B4C5DA",
+        "color6": "#C9C5C9",
+        "color7": "#dcdee3",
+        "color8": "#9a9b9e",
+        "color9": "#939FC2",
+        "color10": "#9AA9C8",
+        "color11": "#AEB7CA",
+        "color12": "#B5C6C7",
+        "color13": "#B4C5DA",
+        "color14": "#C9C5C9",
+        "color15": "#dcdee3"
+    }
+}

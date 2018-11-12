@@ -1,0 +1,21 @@
+set $wallpaper /home/reorr/Pictures/Unsplash/rita-morais-108395-unsplash.jpg
+
+set $background #282528
+set $foreground #c0c0bd
+
+set $color0 #282528
+set $color1 #8F6D54
+set $color2 #B66846
+set $color3 #B89144
+set $color4 #A18965
+set $color5 #CBA664
+set $color6 #798188
+set $color7 #c0c0bd
+set $color8 #868684
+set $color9 #8F6D54
+set $color10 #B66846
+set $color11 #B89144
+set $color12 #A18965
+set $color13 #CBA664
+set $color14 #798188
+set $color15 #c0c0bd

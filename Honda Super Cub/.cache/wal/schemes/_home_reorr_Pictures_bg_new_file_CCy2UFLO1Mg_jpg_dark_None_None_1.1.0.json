@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/CCy2UFLO1Mg.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#03090E",
+        "foreground": "#87a0e5",
+        "cursor": "#87a0e5"
+    },
+    "colors": {
+        "color0": "#03090E",
+        "color1": "#3D8B0C",
+        "color2": "#0C2790",
+        "color3": "#252A9B",
+        "color4": "#0B2DAF",
+        "color5": "#4542B1",
+        "color6": "#1335CD",
+        "color7": "#87a0e5",
+        "color8": "#5e70a0",
+        "color9": "#3D8B0C",
+        "color10": "#0C2790",
+        "color11": "#252A9B",
+        "color12": "#0B2DAF",
+        "color13": "#4542B1",
+        "color14": "#1335CD",
+        "color15": "#87a0e5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/chris-barbalis-705864-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f182a",
+        "foreground": "#8fc9f6",
+        "cursor": "#8fc9f6"
+    },
+    "colors": {
+        "color0": "#0f182a",
+        "color1": "#1C63D3",
+        "color2": "#2A69D0",
+        "color3": "#057BFA",
+        "color4": "#0C8BFE",
+        "color5": "#239BEE",
+        "color6": "#2599FD",
+        "color7": "#8fc9f6",
+        "color8": "#648cac",
+        "color9": "#1C63D3",
+        "color10": "#2A69D0",
+        "color11": "#057BFA",
+        "color12": "#0C8BFE",
+        "color13": "#239BEE",
+        "color14": "#2599FD",
+        "color15": "#8fc9f6"
+    }
+}

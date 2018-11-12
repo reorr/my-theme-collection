@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Little.Witch.Academia.full.2115189.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1525",
+        "foreground": "#cbbfc1",
+        "cursor": "#cbbfc1"
+    },
+    "colors": {
+        "color0": "#1e1525",
+        "color1": "#B49D71",
+        "color2": "#433F8A",
+        "color3": "#5A5BA1",
+        "color4": "#917594",
+        "color5": "#8F77BA",
+        "color6": "#6BC0A0",
+        "color7": "#cbbfc1",
+        "color8": "#8e8587",
+        "color9": "#B49D71",
+        "color10": "#433F8A",
+        "color11": "#5A5BA1",
+        "color12": "#917594",
+        "color13": "#8F77BA",
+        "color14": "#6BC0A0",
+        "color15": "#cbbfc1"
+    }
+}

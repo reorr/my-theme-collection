@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/katanagatari.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfaf0",
+        "foreground": "#252A30",
+        "cursor": "#252A30"
+    },
+    "colors": {
+        "color0": "#fdfaf0",
+        "color1": "#C3A165",
+        "color2": "#ECC655",
+        "color3": "#EFD072",
+        "color4": "#F7EA6E",
+        "color5": "#698F8F",
+        "color6": "#9AA493",
+        "color7": "#252A30",
+        "color8": "#94885e",
+        "color9": "#C3A165",
+        "color10": "#ECC655",
+        "color11": "#EFD072",
+        "color12": "#F7EA6E",
+        "color13": "#698F8F",
+        "color14": "#9AA493",
+        "color15": "#252A30"
+    }
+}

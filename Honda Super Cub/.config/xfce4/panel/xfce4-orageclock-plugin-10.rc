@@ -1,0 +1,12 @@
+show_frame=false
+fg_set=false
+bg_set=false
+timezone=
+width_set=true
+width=136
+height_set=false
+data0=%a %d %b  %I:%M %p
+font0=SF Pro Display Medium 10
+tooltip=%A %d %B %Y/%V
+hib_timing=false
+

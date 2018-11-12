@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/anna-baker-754006-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151a1b",
+        "foreground": "#e9c9c4",
+        "cursor": "#e9c9c4"
+    },
+    "colors": {
+        "color0": "#151a1b",
+        "color1": "#6D827D",
+        "color2": "#E08779",
+        "color3": "#2E768B",
+        "color4": "#3D96AE",
+        "color5": "#65929C",
+        "color6": "#9E9699",
+        "color7": "#e9c9c4",
+        "color8": "#a38c89",
+        "color9": "#6D827D",
+        "color10": "#E08779",
+        "color11": "#2E768B",
+        "color12": "#3D96AE",
+        "color13": "#65929C",
+        "color14": "#9E9699",
+        "color15": "#e9c9c4"
+    }
+}

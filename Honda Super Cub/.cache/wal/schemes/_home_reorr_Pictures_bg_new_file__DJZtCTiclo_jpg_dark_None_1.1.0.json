@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/_DJZtCTiclo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1619",
+        "foreground": "#c2c8c7",
+        "cursor": "#c2c8c7"
+    },
+    "colors": {
+        "color0": "#0f1619",
+        "color1": "#2A5F49",
+        "color2": "#566157",
+        "color3": "#B4444D",
+        "color4": "#328C57",
+        "color5": "#719792",
+        "color6": "#8F8180",
+        "color7": "#c2c8c7",
+        "color8": "#878c8b",
+        "color9": "#2A5F49",
+        "color10": "#566157",
+        "color11": "#B4444D",
+        "color12": "#328C57",
+        "color13": "#719792",
+        "color14": "#8F8180",
+        "color15": "#c2c8c7"
+    }
+}

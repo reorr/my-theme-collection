@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/lakeisha-bennett-699497-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfafd",
+        "foreground": "#CE3544",
+        "cursor": "#CE3544"
+    },
+    "colors": {
+        "color0": "#fbfafd",
+        "color1": "#92C3BD",
+        "color2": "#B2ABC7",
+        "color3": "#CEACD8",
+        "color4": "#E2B9D8",
+        "color5": "#A8CED0",
+        "color6": "#B2CDD3",
+        "color7": "#CE3544",
+        "color8": "#8a8791",
+        "color9": "#92C3BD",
+        "color10": "#B2ABC7",
+        "color11": "#CEACD8",
+        "color12": "#E2B9D8",
+        "color13": "#A8CED0",
+        "color14": "#B2CDD3",
+        "color15": "#CE3544"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/melissa-mjoen-399632-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08100C",
+        "foreground": "#ccba93",
+        "cursor": "#ccba93"
+    },
+    "colors": {
+        "color0": "#08100C",
+        "color1": "#6C5D2E",
+        "color2": "#305055",
+        "color3": "#616C5A",
+        "color4": "#916F2A",
+        "color5": "#887A4A",
+        "color6": "#75846F",
+        "color7": "#ccba93",
+        "color8": "#8e8266",
+        "color9": "#6C5D2E",
+        "color10": "#305055",
+        "color11": "#616C5A",
+        "color12": "#916F2A",
+        "color13": "#887A4A",
+        "color14": "#75846F",
+        "color15": "#ccba93"
+    }
+}

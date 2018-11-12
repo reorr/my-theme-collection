@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/shot-through-the-heart-555184-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181625",
+        "foreground": "#d2d9cb",
+        "cursor": "#d2d9cb"
+    },
+    "colors": {
+        "color0": "#181625",
+        "color1": "#9F8E6E",
+        "color2": "#577883",
+        "color3": "#9B7986",
+        "color4": "#3B8984",
+        "color5": "#6C8F89",
+        "color6": "#9FA897",
+        "color7": "#d2d9cb",
+        "color8": "#93978e",
+        "color9": "#9F8E6E",
+        "color10": "#577883",
+        "color11": "#9B7986",
+        "color12": "#3B8984",
+        "color13": "#6C8F89",
+        "color14": "#9FA897",
+        "color15": "#d2d9cb"
+    }
+}

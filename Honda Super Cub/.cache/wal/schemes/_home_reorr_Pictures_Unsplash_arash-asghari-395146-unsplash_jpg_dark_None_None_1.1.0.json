@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/arash-asghari-395146-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0C15",
+        "foreground": "#e08b87",
+        "cursor": "#e08b87"
+    },
+    "colors": {
+        "color0": "#0D0C15",
+        "color1": "#3D205B",
+        "color2": "#461D49",
+        "color3": "#512452",
+        "color4": "#6C2D52",
+        "color5": "#643063",
+        "color6": "#9F2628",
+        "color7": "#e08b87",
+        "color8": "#9c615e",
+        "color9": "#3D205B",
+        "color10": "#461D49",
+        "color11": "#512452",
+        "color12": "#6C2D52",
+        "color13": "#643063",
+        "color14": "#9F2628",
+        "color15": "#e08b87"
+    }
+}

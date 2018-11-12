@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/11_karenbees-hibiscus2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f3f4",
+        "foreground": "#26473C",
+        "cursor": "#26473C"
+    },
+    "colors": {
+        "color0": "#f7f3f4",
+        "color1": "#3E8B9F",
+        "color2": "#1489B5",
+        "color3": "#2593BD",
+        "color4": "#5896AE",
+        "color5": "#1C96C1",
+        "color6": "#259CC3",
+        "color7": "#26473C",
+        "color8": "#7b6a70",
+        "color9": "#3E8B9F",
+        "color10": "#1489B5",
+        "color11": "#2593BD",
+        "color12": "#5896AE",
+        "color13": "#1C96C1",
+        "color14": "#259CC3",
+        "color15": "#26473C"
+    }
+}

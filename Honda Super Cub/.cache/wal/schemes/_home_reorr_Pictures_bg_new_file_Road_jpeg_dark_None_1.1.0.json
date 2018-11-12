@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/Road.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1d18",
+        "foreground": "#cbc8c4",
+        "cursor": "#cbc8c4"
+    },
+    "colors": {
+        "color0": "#1a1d18",
+        "color1": "#6C6E30",
+        "color2": "#5C664D",
+        "color3": "#897649",
+        "color4": "#73873B",
+        "color5": "#928E4C",
+        "color6": "#639CA5",
+        "color7": "#cbc8c4",
+        "color8": "#8e8c89",
+        "color9": "#6C6E30",
+        "color10": "#5C664D",
+        "color11": "#897649",
+        "color12": "#73873B",
+        "color13": "#928E4C",
+        "color14": "#639CA5",
+        "color15": "#cbc8c4"
+    }
+}
