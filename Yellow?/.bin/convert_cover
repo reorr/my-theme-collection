@@ -1,0 +1,4 @@
+#!/bin/bash
+
+convert -resize 300x300 $1 cover.jpg
+rm $1

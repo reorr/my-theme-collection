@@ -1,0 +1,6 @@
+#!/bin/bash
+
+tgl=$(date +'%a %d %b')
+jam=$(date +'%I:%M %p')
+
+notify-send "$tgl" "$jam"

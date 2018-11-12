@@ -1,0 +1,71 @@
+#!/bin/bash
+
+MUSIC_DIR=/mnt/data/Hiburan/Musik
+
+COVER=/tmp/cover.jpg
+
+mpc_command() {
+    mpc "$1" && sleep 0.2
+}
+
+notify_send() {
+    album="$(mpc --format %album% current -p 6600)"
+    file="$(mpc --format %file% current -p 6600)"
+    title="$(mpc --format "%artist% - %title%" current -p 6600)"
+    mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+    album_dir="${file%/*}"
+    [[ -z "$album_dir" ]] && exit 1
+    album_dir="$MUSIC_DIR/$album_dir"
+
+    covers="$(find "$album_dir" -type d -exec find {} -maxdepth 1 -type f -iregex ".*/.*\(${album}\|cover\|folder\|artwork\|front\).*[.]\(jpe?g\|png\|gif\|bmp\)" \; )"
+    src="$(echo -n "$covers" | head -n1)"
+    rm -f "$COVER" 
+    if ! pgrep -x "ncmpcpp" > /dev/null; then
+	    if [[ -n "$src" ]] ; then
+		convert "$src" -resize 200x "$COVER"
+	        if [[ -f "$COVER" ]] ; then
+	           #scale down the cover to 30% of the original
+	           #printf "\e]20;${COVER};70x70+87+00:op=keep-aspect\a"
+	           notify-send --expire-time=2000 -i ${COVER} "$mpd_state" "$title"
+	        else
+	            notify-send "$mpd_state" "$title"
+	        fi
+	    else
+	        notify-send "$mpd_state" "$title"
+	    fi
+    else
+    	echo "ncmpcpp running";
+    fi
+}
+
+#check_ncmpcpp() {
+#	if [[ ! -z 'pidof ncmpcpp' ]]; then
+#		echo "ncmpcpp running";
+#	else
+#		notify_send
+#	fi
+#}
+
+main() {
+    case "$1" in
+        toggle)
+            mpc_command toggle
+            notify_send
+#            check_ncmpcpp
+            ;;
+        next)
+            mpc_command next
+            notify_send
+#            check_ncmpcpp
+            ;;
+        prev)
+            mpc_command prev
+            notify_send
+#            check_ncmpcpp
+            ;;
+        *)
+            printf "ayyy\n"
+    esac
+}
+
+main "$@"

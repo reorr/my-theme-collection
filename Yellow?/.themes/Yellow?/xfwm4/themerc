@@ -1,0 +1,12 @@
+active_text_color=#fbfcfc
+button_offset=0
+button_spacing=0
+full_width_title=true
+inactive_text_color=#fbfcfc
+maximized_offset=0
+show_app_icon=false
+title_horizontal_offset=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+
+button_layout=O|SHMC

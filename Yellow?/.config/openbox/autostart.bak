@@ -1,0 +1,19 @@
+xrdb ~/.Xresources &
+
+xcompmgr &
+
+dunst &
+
+mpd &
+
+#tint2 &
+
+#plank &
+
+vala-panel &
+
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+sh ~/.fehbg &
+
+sh ~/.config/openbox/applets &

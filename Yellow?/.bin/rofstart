@@ -1,0 +1,2 @@
+!#/bin/bash
+rofi -show drun -location 7 -yoffset -70 -xoffset 128 -columns 1 -lines 10 -display-drun Start -modi drun -width 20

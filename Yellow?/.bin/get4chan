@@ -1,0 +1,12 @@
+#!/bin/bash
+if [ -z "$1" ] && [ -z "$2" ]; then
+	echo "at least give an url argument";
+elif [[ -z "$2" ]]; then
+	wget -r -l1 -H -t1 -nd -N -np -A jpg,jpeg,png,webm,gif -erobots=off $1;
+	rm *s.*
+else
+	mkdir $2;
+	cd $2;
+	wget -r -l1 -H -t1 -nd -N -np -A jpg,jpeg,png,webm,gif -erobots=off $1;
+	rm *s.*
+fi
