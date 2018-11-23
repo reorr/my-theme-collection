@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta name="author" content="Chloe Chantelle">
+<title>Blush</title>
+<link rel="shortcut icon" href="img/fav.png" type="image/ico">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Pacifico|Lato|PT+Sans+Narrow|Ubuntu" rel="stylesheet">
+</head>
+<body>
+                      <!-- loading image -->
+
+<div class="loader"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(window).load(function() {
+  $(".loader").fadeOut("slow");
+})
+</script>    
+
+<div class="boop">
+
+</div>  <!-- close boop -->
+
+  <div class="side">
+
+        <div class="links">
+                  <li>
+                    <a target="_blank" href="https://facebook.com">
+                    <i class="fa fa-facebook-square"></i>
+                    </a>
+                  <ul class="dropdown">
+                      <li>
+                        <a target="_blank" href="https://www.facebook.com/groups/linuxart/">LDA</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://www.facebook.com/muktazamhasbi">My Profile</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://www.facebook.com/saved">Saved</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                  <a target="_blank" href="https://www.youtube.com/feed/subscriptions">
+                    <i class="fa fa-youtube-play"></i>
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://github.com">
+                    <i class="fa fa-github"></i>
+                  </a>
+                  <ul class="dropdown">
+                      <li>
+                        <a target="_blank" href="https://github.com/reorr/?tab=repositories">My Repo</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://github.com/reorr?tab=stars">Stared</a>
+                      </li>
+                    </ul>
+                </li>
+                <li>
+                  <a target="_blank" href="https://tumblr.com">
+                    <i class="fa fa-tumblr"></i>
+                  </a>
+                  <ul class="dropdown">
+                      <li>
+                        <a target="_blank" href="http://dowman-s.tumblr.com/">Urban Asylum</a>
+                      </li>
+                    </ul>
+                </li>
+                <li>
+                 <a target="_blank" href="http://inbox.google.com">
+                    <i class="fa fa-envelope"></i>
+                  </a>
+                </li>
+                <li>
+                 <a target="_blank" href="http://deviantart.com/reorr">
+                    <i class="fa fa-deviantart"></i>
+                  </a>
+                </li>
+                <li>
+                 <a target="_blank" href="https://www.reddit.com/">
+                    <i class="fa fa-reddit"></i>
+                  </a>
+                    <ul class="dropdown">
+                      <li>
+                        <a target="_blank" href="https://www.reddit.com/r/thinkpad/">Thinkpad</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://www.reddit.com/r/unixporn/">Unixporn</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://www.reddit.com/r/LinuxOnThinkpad">LinuxOnThinkpad</a>
+                      </li>
+                      <li>
+                        <a target="_blank" href="https://www.reddit.com/r/linuxhardware">linuxhardware</a>
+                      </li>
+                    </ul>
+                </li>
+        </div>
+
+      </div> 
+
+<div id="bottom">
+
+<div id="time" title="Current time."></div>  | |
+
+<div id="weather">          
+              <div id="temp_low" title="Lowest temp for today.">
+              </div>
+
+    </div>   
+</div>        
+
+						<!-- js -->
+
+              <!-- random quote -->
+
+
+<script>
+quotes = [];
+quotes[0] = "I don't know everything, I just know what I know.";
+quotes[1] = "If there is a meeting, there will surely be a farewell.";
+quotes[2] = "If you try to erase sin with sin, you’ll only add to your sins.";
+quotes[3] = "Most people are eager to correct mistakes more than doing the right thing.";
+quotes[4] = "Staying misfortunate is negligence, and not trying to become happy is cowardice.";
+quotes[5] = "If you’ve got the time to think, you’ve got the time to act.";
+quotes[6] = "Romance can strengthen people, but it can also make them useless.";
+quotes[7] = "If merely asking for directions makes you lost, no child in this world isn’t lost.";
+quotes[8] = "They say secrets don’t come from questions, but slips of the tongue.";
+quotes[9] = "Did you know every time you sigh, a little bit of happiness escapes?";
+quotes[10] = "Curiosity is like a cockroach. It likes to stumble upon secrets that are supposed to stay hidden.";
+quotes[11] = "People have to save themselves. One person saving another is impossible.";
+quotes[12] = "A fake with more power than the real thing is more dangerous than the real thing.";
+quotes[13] = "If praying does not work, and words are ineffective... what's left is to fight.";
+quotes[14] = "I am not a friend of justice. I am an enemy of evil.";
+quotes[15] = "It's impossible for someone to replace someone else.";
+quotes[16] = "Being kind to everyone simply means there's no one special.";
+quotes[17] = "Someone saying that they are happy doesn't necessarily mean that they are happy, right?";
+quotes[18] = "To ask is a moment's shame. Not to, lifelong.";
+
+index = Math.floor(Math.random() * quotes.length);
+
+// document.write("<span>" + "“ " + "</span>");
+document.write("<quote>" + "<span>" + "“ " + "</span>" + quotes[index] + "</quote>");
+</script>              
+
+                      <!-- time -->
+
+<script>
+(function () {
+    function checkTime(i) {
+        return (i < 10) ? "0" + i : i;
+    }
+
+    function startTime() {
+        var today = new Date(),
+            h = checkTime(today.getHours()),
+            m = checkTime(today.getMinutes());            
+        document.getElementById('time').innerHTML = h + ":" + m;
+        t = setTimeout(function () {
+            startTime()
+        }, 500);
+    }
+    startTime();
+})();                      
+</script>  
+
+
+              <!-- random bg  -->
+<script>
+function randomImage(){
+  var images = [
+   'img/1.svg',
+   'img/2.svg',
+   'img/3.svg',
+   'img/4.svg',
+   'img/5.svg',
+   'img/6.svg',
+   'img/7.svg',
+   'img/8.svg',
+   'img/9.svg',
+   'img/10.svg',
+   'img/11.svg',
+   'img/12.svg',
+   'img/13.svg',
+   'img/14.svg',
+   'img/15.svg',
+   'img/16.svg',];
+  var size = images.length;
+  var x = Math.floor(size * Math.random());
+  console.log(x);
+  var element = document.getElementsByClassName('boop');
+  console.log(element);
+  element[0].style["background"] = "url("+ images[x] + ")";
+}
+
+document.addEventListener("DOMContentLoaded", randomImage);
+</script>
+
+<!-- weather -->
+<script>
+var json_url = "http://api.openweathermap.org/data/2.5/weather?id=1649150&appid=832719dabc0aaac91c4a93c2a64e12d4&units=metric";
+var temp_curr;
+var temp_low;
+var temp_high;
+$.when(
+  $.getJSON(json_url)
+  ).done( function(json_obj) {
+    city = json_obj["name"];
+    temp_curr = (json_obj["main"]["temp"]);
+    temp_low = (json_obj["main"]["temp_min"]);
+    temp_high = (json_obj["main"]["temp_max"]);
+    insertWeatherInfo();
+  }
+);
+
+function insertWeatherInfo() {
+  $("#temp_curr").prepend(temp_curr + "&deg;c");
+  $("#temp_low").append(temp_low + "&deg;c");
+  $("#temp_high").append(temp_high + "&deg;c");
+}
+</script>
+
+</body>
+</html>

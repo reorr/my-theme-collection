@@ -14,3 +14,6 @@ Collection of themes and config that i've used. For my current config you can go
 ![eva preview](Screenshot/yellow.png)
 ### Honda Super Cub
 ![eva preview](Screenshot/honda-super-cub.png)
+### Rhododendron
+![Rhododendron-startpage](Screenshot/rhododendron-1.png)
+![Rhododendron-rofi](Screenshot/rhododendron-2.png)

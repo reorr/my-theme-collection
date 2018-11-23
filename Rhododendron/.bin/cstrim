@@ -1,0 +1,8 @@
+#!/bin/env bash
+
+startk() {
+  echo "asu" > bau.txt
+}
+
+betterlockscreen -l
+startk aku

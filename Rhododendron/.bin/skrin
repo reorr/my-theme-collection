@@ -1,0 +1,18 @@
+#!/bin/env bash
+
+skrin() {
+  xrandr --output LVDS-1 --rotate $1
+}
+
+case $1 in
+  -n)
+    skrin normal ;;
+  -l)
+    skrin left ;;
+  -r)
+    skrin right ;;
+  -i)
+    skrin inverted ;;
+  *)
+    echo "hayo, loh" ;;
+esac

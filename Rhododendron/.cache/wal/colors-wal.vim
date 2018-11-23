@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/reorr/Pictures/Unsplash/thought-catalog-659825-unsplash.jpg"
+let background = "#fdf8fc"
+let foreground = "#211D33"
+let cursor     = "#211D33"
+
+" Colors
+let color0  = "#fdf8fc"
+let color1  = "#A61C4D"
+let color2  = "#CF074C"
+let color3  = "#E1245F"
+let color4  = "#A74755"
+let color5  = "#E94F6E"
+let color6  = "#EC468E"
+let color7  = "#211D33"
+let color8  = "#948090"
+let color9  = "#A61C4D"
+let color10 = "#CF074C"
+let color11 = "#E1245F"
+let color12 = "#A74755"
+let color13 = "#E94F6E"
+let color14 = "#EC468E"
+let color15 = "#211D33"

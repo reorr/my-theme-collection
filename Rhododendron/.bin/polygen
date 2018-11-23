@@ -1,0 +1,64 @@
+#!/bin/bash
+
+file=$HOME/.cache/wal/colors.Xresources
+wb(){
+{
+	fill_color
+	cat <<EOF
+
+;=====================================================
+;     Colors
+;=====================================================
+
+[colors]
+background = #$(get_colors 5)
+foreground = #${get_colors_bg}
+moderate = #ebcb8b
+urgent = #bf616a
+trim = #8fa1b3
+blue = #8fa1b3
+pink = #bf616a
+orange = #ebcb8b
+purple = #b48ead
+yellow = #ebcb8b
+border = #$(get_colors 5)
+
+
+EOF
+} > ~/.local/bin/polybar/warna.conf
+cp -r ~/.local/bin/polybar/* ~/.config/polybar
+}
+
+fill_color(){
+	get_colors(){
+		grep "color$1 *:" $file | awk -F\# '{print $2}' | head -1
+	}
+	get_colors_bg=`grep "background *:" $file | awk -F\# '{print $2}' | head -1`
+}
+
+
+help(){
+	cat <<-EOF
+
+	Polybar color generator
+
+	Usage : ./polygen [options #optional]
+
+	Avaible options
+	--wal        Generate color from pywal cache
+	--help       Show help
+
+	EOF
+}
+
+
+if [[ "$(echo "$@" | grep '\--wal')" && "$(echo "$@" | grep '\--wb')" ]]; then
+	file=$HOME/.cache/wal/colors.Xresources
+	wb
+elif [[ "$(echo "$@" | grep '\--wb')" ]]; then
+	wb
+elif [[ "$(echo "$@" | grep '\--help')" ]]; then
+	help
+else
+	echo "Command not found"
+fi

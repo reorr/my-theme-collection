@@ -1,0 +1,29 @@
+#!/bin/env bash
+
+#requirement slop, ffmpeg
+
+rekoodo() {
+  ffmpeg -f pulse -ac 2 -i 0 -f x11grab -s $reso -r 25 -i :0.0+$pos -ar 48000 -framerate 60 -vcodec libx264 -preset fast ~/Videos/rekoodo/rekoodo_$(date '+%Y-%m-%d_%H-%M-%S').mp4
+}
+
+notify_send() {
+	notify-send --expire-time=2000 -i view-fullscreen 'Rekoodo!!' 'Recorded to ~/Videos/rekoodo' && sleep 0.5
+}
+
+case $1 in
+	-f)
+		reso=$(xrandr --query | grep ' connected' | grep -o '[0-9][0-9]*x[0-9][0-9]*[^ ]*' | sed -r 's/^[^0-9]*([0-9]+x[0-9]+).*$/\1/')
+		pos=0,0
+		rekoodo ;;
+	-s)
+	    REC=$(slop -t 0 -b 2 -c 1,1,1,1 -f "%w %h %x %y" --nokeyboard) || exit 1
+	    IFS=' ' read -r W H X Y <<< "$REC"
+	    reso=${W}x${H}
+	    pos=${X},${Y}
+	    rekoodo ;;
+	stop)
+		killall ffmpeg
+		notify_send ;;
+	*)
+		echo "ayyyy lmoa" ;;
+esac

@@ -1,0 +1,21 @@
+set $wallpaper /home/reorr/Pictures/Unsplash/thought-catalog-659825-unsplash.jpg
+
+set $background #fdf8fc
+set $foreground #211D33
+
+set $color0 #fdf8fc
+set $color1 #A61C4D
+set $color2 #CF074C
+set $color3 #E1245F
+set $color4 #A74755
+set $color5 #E94F6E
+set $color6 #EC468E
+set $color7 #211D33
+set $color8 #948090
+set $color9 #A61C4D
+set $color10 #CF074C
+set $color11 #E1245F
+set $color12 #A74755
+set $color13 #E94F6E
+set $color14 #EC468E
+set $color15 #211D33

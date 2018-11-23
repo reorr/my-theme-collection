@@ -1,0 +1,24 @@
+wallpaper: "/home/reorr/Pictures/Unsplash/thought-catalog-659825-unsplash.jpg"
+
+special:
+    background: "#fdf8fc"
+    foreground: "#211D33"
+    cursor: "#211D33"
+
+colors:
+    color0: "#fdf8fc"
+    color1: "#A61C4D"
+    color2: "#CF074C"
+    color3: "#E1245F"
+    color4: "#A74755"
+    color5: "#E94F6E"
+    color6: "#EC468E"
+    color7: "#211D33"
+    color8: "#948090"
+    color9: "#A61C4D"
+    color10: "#CF074C"
+    color11: "#E1245F"
+    color12: "#A74755"
+    color13: "#E94F6E"
+    color14: "#EC468E"
+    color15: "#211D33"

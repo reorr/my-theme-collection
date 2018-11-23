@@ -1,0 +1,35 @@
+configuration {
+	display-drun:    "❱";
+	show-icons:      true;
+}
+
+* {
+    font: "SF Pro Display 12";
+    padding: 5px 10px;
+    background-color: #FDF8FC;
+    color: #211D33;
+}
+
+
+window {
+    border-radius: 5px;
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+}
+
+#prompt {
+  color: #CF074C;
+}
+      
+listview {
+    padding: 20px 10px 0px 10px;
+    spacing: 0.5em;
+}
+
+#element selected {
+  text-color: #CF074C;
+  font: "SF Pro Display 10";
+}
+
+/* vim:ft=css

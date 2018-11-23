@@ -1,0 +1,82 @@
+% egrep -v '^#' .ncmpcpp/config
+mpd_music_dir = "~/music/"
+
+mpd_host = "127.0.0.1"
+mpd_port = "6600"
+mouse_list_scroll_whole_page = "yes"
+lines_scrolled = "1"
+
+visualizer_in_stereo = "no"
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "10"
+visualizer_type = "spectrum"
+
+#visualizer_look = "▋▋"
+#visualizer_look = "█▋"
+#visualizer_look = ●▍
+visualizer_look = ▄▍
+visualizer_color = blue, cyan, green, yellow, magenta, red
+
+message_delay_time = "3"
+playlist_shorten_total_times = "yes"
+playlist_display_mode = "classic"
+browser_display_mode = "columns"
+search_engine_display_mode = "columns"
+playlist_editor_display_mode = "columns"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+user_interface = "classic"
+follow_now_playing_lyrics = "yes"
+locked_screen_width_part = "60"
+display_bitrate = "no"
+external_editor = "nano"
+main_window_color = default
+#main_window_highlight_color = 7
+
+progressbar_elapsed_color = 3
+progressbar_color = "black"
+
+#progressbar_look = "▃▃"
+#progressbar_look = "▄▄"
+#progressbar_look = "_⊙ "
+#progressbar_look = "__"
+#progressbar_look = "━━─"
+#progressbar_look = "⟫⟩"
+#progressbar_look = "▶▷"
+#progressbar_look = "――"
+progressbar_look = "»»"
+#progressbar_look = "━━"
+
+#execute_on_song_change="~/.ncmpcpp/albumart"
+execute_on_player_state_change = "~/.ncmpcpp/albumart"
+
+mouse_support = "yes"
+header_visibility = "no"
+statusbar_visibility = "no"
+
+#statusbar_color = white
+#visualizer_color = 2,3,4,5,6,7,8
+#visualizer_color = "white"
+titles_visibility = "no"
+enable_window_title = "yes"
+
+#now_playing_prefix = "$/b 契 "
+now_playing_prefix = "$/b ♬ "
+#now_playing_suffix = "$/b$9"
+
+#current_item_prefix = "$(magenta)► $r"
+current_item_prefix = "$/b 契 "
+
+
+song_columns_list_format = "(6)[]{} (25)[green]{a} (34)[white]{t|f} (5f)[magenta]{l} (1)[]{}"
+#song_columns_list_format = (20)[white]{a}(30)[green]{t|f:Title}(7f)[white]{l}
+
+color1 = "white"
+color2 = "green"
+
+song_list_format = " $7%t$9 $R$3%a                      "
+
+song_status_format = "$b$7♫ $2%a $4⟫$3⟫ $8%t $4⟫$3⟫ $5%b "
+
+song_window_title_format = " ♬ {%a}  {%t}"

@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+#:Usage: cornora [-tl cmd] [-tr cmd] [-bl cmd] [-br cmd] [-v]
+#:
+#:  cmd:   run the command when mouse reach to the edge of screen:
+#:
+#:  -tl cmd                          top-left
+#:  -tr cmd                          top-right
+#:  -bl cmd                          bottom-left
+#:  -br cmd                          bottom-right
+#:  -iof, --ignore-on-fullscreen     disable command when active window
+#:                                   is fullscreen.
+#:  --stop                           force stop cornora if it's running
+#:  -v                               verbose output
+#:  -h                               show the help
+#:
+# same as py version before, but faster
+
+eval $(xdotool getdisplaygeometry --shell)
+G=2;MR=4 W=$((WIDTH-G)); H=$((HEIGHT-G)); DB=/tmp/cornora.lck;
+
+usage() {
+    grep "^#:" $0 | while read DOC; do printf '%s\n' "${DOC###:}"; done
+    exit
+}
+
+options() {
+    while [[ "$1" ]]; do
+        case "$1" in
+            "-tl") tl="$2" ;;
+            "-tr") tr="$2" ;;
+            "-bl") bl="$2" ;;
+            "-br") br="$2" ;;
+            "-iof"|"--ignore-on-fullscreen") iof=1 ;;
+            "--stop") kill -9 $(cat $DB) && exit ;;
+            "-v") verbose=1 ;;
+            ""|"-h"|"--help") usage ;;
+        esac
+    shift
+    done
+}
+
+delay() {
+    local IFS
+    [[ -n "${_de:-}" ]] || exec {_de}<> <(:)
+    read ${1:+-t "$1"} -u $_de || :
+}
+
+invoke() {
+    proc=$(IFS=" "; set -- $1; echo $1)
+    id="$(pidof -x "$proc")"
+    if [[ -n "$verbose" ]]; then
+        [[ -z "$id" ]] && (eval "$1" &) || (kill -9 $id &)
+    else
+        [[ -z "$id" ]] && (eval "$1" 2&>/dev/null &) || (kill -9 $id 2&>/dev/null &)
+    fi
+    xdotool mousemove_relative $2 $3
+    delay 0.1
+}
+
+quithandler() {
+    rm -f $DB
+    exit $?
+}
+
+trap quithandler SIGINT SIGTERM EXIT
+
+[[ -f "$DB" && -z "$(cat $DB | xargs ps -p)" ]] && rm -rf $DB
+[[ -z "$@" ]] && usage || options "$@"
+
+if [[ ! -f "$DB" ]]; then
+    while :;do
+        [[ ! -f "$DB" ]] && printf "%s\n" $$ >$DB
+        eval $(xdotool getmouselocation --shell)
+        if [[ -n "$iof" && -n "$(xdotool getactivewindow 2>/dev/null | xargs xprop -id 2>/dev/null | grep E_FULLS)" ]]; then
+            delay 0.8
+        else
+            [[ -n "$tl" && "$X" -lt "$G" && "$Y" -lt "$G" ]] && invoke "$tl" $((X+MR)) $((Y+MR))
+            [[ -n "$tr" && "$X" -gt "$W" && "$Y" -lt "$G" ]] && invoke "$tr" $((X-MR)) $((Y+MR))
+            [[ -n "$bl" && "$X" -lt "$G" && "$Y" -gt "$H" ]] && invoke "$bl" $((X+MR)) $((Y-MR))
+            [[ -n "$br" && "$X" -gt "$W" && "$Y" -gt "$H" ]] && invoke "$br" $((X-MR)) $((Y-MR))
+        fi
+        delay 0.2
+    done
+    exit 0
+else    
+    printf "Lock Exists: Cornora is running at PID $(cat $DB). run \"cornora --stop\" to close it.\n"
+    exit 1
+fi
