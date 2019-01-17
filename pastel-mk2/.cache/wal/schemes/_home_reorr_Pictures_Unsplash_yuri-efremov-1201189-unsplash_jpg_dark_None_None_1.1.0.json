@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/yuri-efremov-1201189-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171807",
+        "foreground": "#ccc4a5",
+        "cursor": "#ccc4a5"
+    },
+    "colors": {
+        "color0": "#171807",
+        "color1": "#86753A",
+        "color2": "#8D7848",
+        "color3": "#9E7E55",
+        "color4": "#72852A",
+        "color5": "#96874D",
+        "color6": "#A88F57",
+        "color7": "#ccc4a5",
+        "color8": "#8e8973",
+        "color9": "#86753A",
+        "color10": "#8D7848",
+        "color11": "#9E7E55",
+        "color12": "#72852A",
+        "color13": "#96874D",
+        "color14": "#A88F57",
+        "color15": "#ccc4a5"
+    }
+}

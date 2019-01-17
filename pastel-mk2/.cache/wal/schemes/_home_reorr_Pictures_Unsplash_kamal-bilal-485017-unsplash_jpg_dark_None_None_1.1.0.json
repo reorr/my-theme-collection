@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/kamal-bilal-485017-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1318",
+        "foreground": "#cbc3bf",
+        "cursor": "#cbc3bf"
+    },
+    "colors": {
+        "color0": "#0f1318",
+        "color1": "#873C42",
+        "color2": "#975A5A",
+        "color3": "#A7857C",
+        "color4": "#767A85",
+        "color5": "#817F86",
+        "color6": "#958E8B",
+        "color7": "#cbc3bf",
+        "color8": "#8e8885",
+        "color9": "#873C42",
+        "color10": "#975A5A",
+        "color11": "#A7857C",
+        "color12": "#767A85",
+        "color13": "#817F86",
+        "color14": "#958E8B",
+        "color15": "#cbc3bf"
+    }
+}

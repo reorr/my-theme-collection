@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/Desktop Thread IX/1524136549141.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0C0C",
+        "foreground": "#ddd2df",
+        "cursor": "#ddd2df"
+    },
+    "colors": {
+        "color0": "#0A0C0C",
+        "color1": "#74708B",
+        "color2": "#8F798F",
+        "color3": "#DA7090",
+        "color4": "#A493A8",
+        "color5": "#D1ADAA",
+        "color6": "#B3ACCA",
+        "color7": "#ddd2df",
+        "color8": "#9a939c",
+        "color9": "#74708B",
+        "color10": "#8F798F",
+        "color11": "#DA7090",
+        "color12": "#A493A8",
+        "color13": "#D1ADAA",
+        "color14": "#B3ACCA",
+        "color15": "#ddd2df"
+    }
+}

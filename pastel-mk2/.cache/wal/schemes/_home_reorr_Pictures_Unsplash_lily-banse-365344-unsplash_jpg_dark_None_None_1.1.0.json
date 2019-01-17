@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/lily-banse-365344-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#16130e",
+        "foreground": "#c2bebb",
+        "cursor": "#c2bebb"
+    },
+    "colors": {
+        "color0": "#16130e",
+        "color1": "#88796F",
+        "color2": "#629A17",
+        "color3": "#6A9940",
+        "color4": "#978D71",
+        "color5": "#C2AC4C",
+        "color6": "#907C8C",
+        "color7": "#c2bebb",
+        "color8": "#878582",
+        "color9": "#88796F",
+        "color10": "#629A17",
+        "color11": "#6A9940",
+        "color12": "#978D71",
+        "color13": "#C2AC4C",
+        "color14": "#907C8C",
+        "color15": "#c2bebb"
+    }
+}

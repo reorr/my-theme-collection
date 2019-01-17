@@ -1,0 +1,19 @@
+#!/bin/bash
+
+MUSIC_DIR=/mnt/data/Hiburan/Musik
+
+COVER=/tmp/cover.jpg
+
+function get_cover {
+    album="$(mpc --format %album% current -p 6600)"
+    file="$(mpc --format %file% current -p 6600)"
+    album_dir="${file%/*}"
+    [[ -z "$album_dir" ]] && exit 1
+    album_dir="$MUSIC_DIR/$album_dir"
+
+    covers="$(find "$album_dir" -type d -exec find {} -maxdepth 1 -type f -iregex ".*/.*\(${album}\|cover\|folder\|artwork\|front\).*[.]\(jpe?g\|png\|gif\|bmp\)" \; )"
+    src="$(echo -n "$covers" | head -n1)"
+    if [[ -f "$COVER" ]]; then
+        rm -f "$COVER" 
+    fi;
+}

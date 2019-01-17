@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/vector-memphis-background.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfdfd",
+        "foreground": "#FDF07F",
+        "cursor": "#FDF07F"
+    },
+    "colors": {
+        "color0": "#fdfdfd",
+        "color1": "#8BD4DD",
+        "color2": "#A7DADC",
+        "color3": "#94D7E2",
+        "color4": "#A8DDE6",
+        "color5": "#B6E3E8",
+        "color6": "#DAD1D8",
+        "color7": "#FDF07F",
+        "color8": "#949393",
+        "color9": "#8BD4DD",
+        "color10": "#A7DADC",
+        "color11": "#94D7E2",
+        "color12": "#A8DDE6",
+        "color13": "#B6E3E8",
+        "color14": "#DAD1D8",
+        "color15": "#FDF07F"
+    }
+}

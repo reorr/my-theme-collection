@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 239040 animal_ears blonde_hair blush bow catgirl clouds dress elbow_gloves gloves kemono_friends serval short_hair sky tail thighhighs tree ugume yellow_eyes.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030201",
+        "foreground": "#ebbc9e",
+        "cursor": "#ebbc9e"
+    },
+    "colors": {
+        "color0": "#030201",
+        "color1": "#AA543D",
+        "color2": "#9E632C",
+        "color3": "#9D554A",
+        "color4": "#AD5545",
+        "color5": "#D17149",
+        "color6": "#E37A48",
+        "color7": "#ebbc9e",
+        "color8": "#a4836e",
+        "color9": "#AA543D",
+        "color10": "#9E632C",
+        "color11": "#9D554A",
+        "color12": "#AD5545",
+        "color13": "#D17149",
+        "color14": "#E37A48",
+        "color15": "#ebbc9e"
+    }
+}

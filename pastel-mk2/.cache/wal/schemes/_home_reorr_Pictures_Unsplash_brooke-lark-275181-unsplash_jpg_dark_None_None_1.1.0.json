@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/brooke-lark-275181-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040C0F",
+        "foreground": "#78acbe",
+        "cursor": "#78acbe"
+    },
+    "colors": {
+        "color0": "#040C0F",
+        "color1": "#0B4A5C",
+        "color2": "#034F6E",
+        "color3": "#605743",
+        "color4": "#B93725",
+        "color5": "#618E52",
+        "color6": "#BEA055",
+        "color7": "#78acbe",
+        "color8": "#547885",
+        "color9": "#0B4A5C",
+        "color10": "#034F6E",
+        "color11": "#605743",
+        "color12": "#B93725",
+        "color13": "#618E52",
+        "color14": "#BEA055",
+        "color15": "#78acbe"
+    }
+}

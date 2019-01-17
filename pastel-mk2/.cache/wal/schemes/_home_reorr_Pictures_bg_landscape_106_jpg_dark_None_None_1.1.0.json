@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/106.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1e31",
+        "foreground": "#c5bfcd",
+        "cursor": "#c5bfcd"
+    },
+    "colors": {
+        "color0": "#0a1e31",
+        "color1": "#C37D88",
+        "color2": "#01A4DE",
+        "color3": "#02B0E7",
+        "color4": "#29B4E6",
+        "color5": "#599FC9",
+        "color6": "#61C6EF",
+        "color7": "#c5bfcd",
+        "color8": "#89858f",
+        "color9": "#C37D88",
+        "color10": "#01A4DE",
+        "color11": "#02B0E7",
+        "color12": "#29B4E6",
+        "color13": "#599FC9",
+        "color14": "#61C6EF",
+        "color15": "#c5bfcd"
+    }
+}

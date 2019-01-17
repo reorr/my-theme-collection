@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/patterns-vertical-stripes-and-bars-background-codes-photos-for--8962.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010406",
+        "foreground": "#c6c3c2",
+        "cursor": "#c6c3c2"
+    },
+    "colors": {
+        "color0": "#010406",
+        "color1": "#615B62",
+        "color2": "#85423B",
+        "color3": "#8D645E",
+        "color4": "#9E8579",
+        "color5": "#407188",
+        "color6": "#678C9C",
+        "color7": "#c6c3c2",
+        "color8": "#8a8887",
+        "color9": "#615B62",
+        "color10": "#85423B",
+        "color11": "#8D645E",
+        "color12": "#9E8579",
+        "color13": "#407188",
+        "color14": "#678C9C",
+        "color15": "#c6c3c2"
+    }
+}

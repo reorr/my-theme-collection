@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/victor-garcia-1075581-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121b10",
+        "foreground": "#c4ca9f",
+        "cursor": "#c4ca9f"
+    },
+    "colors": {
+        "color0": "#121b10",
+        "color1": "#4E504E",
+        "color2": "#696B67",
+        "color3": "#6E8B1B",
+        "color4": "#738C2D",
+        "color5": "#72904F",
+        "color6": "#95A32B",
+        "color7": "#c4ca9f",
+        "color8": "#898d6f",
+        "color9": "#4E504E",
+        "color10": "#696B67",
+        "color11": "#6E8B1B",
+        "color12": "#738C2D",
+        "color13": "#72904F",
+        "color14": "#95A32B",
+        "color15": "#c4ca9f"
+    }
+}

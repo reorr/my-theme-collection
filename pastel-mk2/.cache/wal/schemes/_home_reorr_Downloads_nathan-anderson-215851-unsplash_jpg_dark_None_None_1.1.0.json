@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/nathan-anderson-215851-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050709",
+        "foreground": "#c9a49f",
+        "cursor": "#c9a49f"
+    },
+    "colors": {
+        "color0": "#050709",
+        "color1": "#79433B",
+        "color2": "#053042",
+        "color3": "#263443",
+        "color4": "#7D4841",
+        "color5": "#873A2E",
+        "color6": "#8F463B",
+        "color7": "#c9a49f",
+        "color8": "#8c726f",
+        "color9": "#79433B",
+        "color10": "#053042",
+        "color11": "#263443",
+        "color12": "#7D4841",
+        "color13": "#873A2E",
+        "color14": "#8F463B",
+        "color15": "#c9a49f"
+    }
+}

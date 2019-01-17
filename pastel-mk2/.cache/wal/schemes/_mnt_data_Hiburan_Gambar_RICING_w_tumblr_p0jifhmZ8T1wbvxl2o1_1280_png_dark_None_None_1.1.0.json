@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/RICING/w/tumblr_p0jifhmZ8T1wbvxl2o1_1280.png",
+    "alpha": "100",
+    "special": {
+        "background": "#140c0b",
+        "foreground": "#e9e0ca",
+        "cursor": "#e9e0ca"
+    },
+    "colors": {
+        "color0": "#140c0b",
+        "color1": "#C9AB74",
+        "color2": "#DFC479",
+        "color3": "#467D82",
+        "color4": "#60A4AD",
+        "color5": "#AEA093",
+        "color6": "#CBB596",
+        "color7": "#e9e0ca",
+        "color8": "#a39c8d",
+        "color9": "#C9AB74",
+        "color10": "#DFC479",
+        "color11": "#467D82",
+        "color12": "#60A4AD",
+        "color13": "#AEA093",
+        "color14": "#CBB596",
+        "color15": "#e9e0ca"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/christian-lohner-194533-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#031738",
+        "foreground": "#d7d6da",
+        "cursor": "#d7d6da"
+    },
+    "colors": {
+        "color0": "#031738",
+        "color1": "#7388AA",
+        "color2": "#7198C7",
+        "color3": "#8B98AF",
+        "color4": "#9EA7B9",
+        "color5": "#94AED0",
+        "color6": "#AFB8C9",
+        "color7": "#d7d6da",
+        "color8": "#969598",
+        "color9": "#7388AA",
+        "color10": "#7198C7",
+        "color11": "#8B98AF",
+        "color12": "#9EA7B9",
+        "color13": "#94AED0",
+        "color14": "#AFB8C9",
+        "color15": "#d7d6da"
+    }
+}

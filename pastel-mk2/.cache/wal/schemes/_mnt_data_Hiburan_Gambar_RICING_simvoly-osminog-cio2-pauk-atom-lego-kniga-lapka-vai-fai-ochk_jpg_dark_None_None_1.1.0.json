@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/RICING/simvoly-osminog-cio2-pauk-atom-lego-kniga-lapka-vai-fai-ochk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101012",
+        "foreground": "#7ce1b3",
+        "cursor": "#7ce1b3"
+    },
+    "colors": {
+        "color0": "#101012",
+        "color1": "#194D50",
+        "color2": "#255665",
+        "color3": "#1A6E70",
+        "color4": "#574C6D",
+        "color5": "#93385D",
+        "color6": "#14966E",
+        "color7": "#7ce1b3",
+        "color8": "#569d7d",
+        "color9": "#194D50",
+        "color10": "#255665",
+        "color11": "#1A6E70",
+        "color12": "#574C6D",
+        "color13": "#93385D",
+        "color14": "#14966E",
+        "color15": "#7ce1b3"
+    }
+}

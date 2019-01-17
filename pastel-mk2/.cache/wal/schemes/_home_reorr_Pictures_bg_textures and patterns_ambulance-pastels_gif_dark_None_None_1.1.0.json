@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/textures and patterns/ambulance-pastels.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#4c4c4c",
+        "foreground": "#e8c7e2",
+        "cursor": "#e8c7e2"
+    },
+    "colors": {
+        "color0": "#4c4c4c",
+        "color1": "#11C5B6",
+        "color2": "#2CC8BB",
+        "color3": "#5FCFC6",
+        "color4": "#979898",
+        "color5": "#EB87BD",
+        "color6": "#E4B5CE",
+        "color7": "#e8c7e2",
+        "color8": "#a28b9e",
+        "color9": "#11C5B6",
+        "color10": "#2CC8BB",
+        "color11": "#5FCFC6",
+        "color12": "#979898",
+        "color13": "#EB87BD",
+        "color14": "#E4B5CE",
+        "color15": "#e8c7e2"
+    }
+}

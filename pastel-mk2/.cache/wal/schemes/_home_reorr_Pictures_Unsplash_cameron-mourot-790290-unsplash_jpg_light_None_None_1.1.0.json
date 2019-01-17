@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/cameron-mourot-790290-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f6eff6",
+        "foreground": "#0D0A11",
+        "cursor": "#0D0A11"
+    },
+    "colors": {
+        "color0": "#f6eff6",
+        "color1": "#A4286C",
+        "color2": "#8A5277",
+        "color3": "#544997",
+        "color4": "#6F538E",
+        "color5": "#6D5D9D",
+        "color6": "#9B63A1",
+        "color7": "#0D0A11",
+        "color8": "#755976",
+        "color9": "#A4286C",
+        "color10": "#8A5277",
+        "color11": "#544997",
+        "color12": "#6F538E",
+        "color13": "#6D5D9D",
+        "color14": "#9B63A1",
+        "color15": "#0D0A11"
+    }
+}

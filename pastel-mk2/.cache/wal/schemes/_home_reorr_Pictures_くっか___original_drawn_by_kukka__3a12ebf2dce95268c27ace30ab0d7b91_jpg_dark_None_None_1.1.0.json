@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/\u304f\u3063\u304b/__original_drawn_by_kukka__3a12ebf2dce95268c27ace30ab0d7b91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0A13",
+        "foreground": "#aebfca",
+        "cursor": "#aebfca"
+    },
+    "colors": {
+        "color0": "#0C0A13",
+        "color1": "#5A5263",
+        "color2": "#8E7870",
+        "color3": "#21239D",
+        "color4": "#586596",
+        "color5": "#3E3CCA",
+        "color6": "#A74DD0",
+        "color7": "#aebfca",
+        "color8": "#79858d",
+        "color9": "#5A5263",
+        "color10": "#8E7870",
+        "color11": "#21239D",
+        "color12": "#586596",
+        "color13": "#3E3CCA",
+        "color14": "#A74DD0",
+        "color15": "#aebfca"
+    }
+}

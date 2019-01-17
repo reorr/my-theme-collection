@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/lucie-jung-644391-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0D0A",
+        "foreground": "#c1bbb2",
+        "cursor": "#c1bbb2"
+    },
+    "colors": {
+        "color0": "#0C0D0A",
+        "color1": "#706559",
+        "color2": "#766C69",
+        "color3": "#855738",
+        "color4": "#856F5B",
+        "color5": "#887770",
+        "color6": "#7D8176",
+        "color7": "#c1bbb2",
+        "color8": "#87827c",
+        "color9": "#706559",
+        "color10": "#766C69",
+        "color11": "#855738",
+        "color12": "#856F5B",
+        "color13": "#887770",
+        "color14": "#7D8176",
+        "color15": "#c1bbb2"
+    }
+}

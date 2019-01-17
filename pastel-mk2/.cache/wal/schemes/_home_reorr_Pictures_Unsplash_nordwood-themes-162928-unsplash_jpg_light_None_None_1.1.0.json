@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nordwood-themes-162928-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfbfb",
+        "foreground": "#364129",
+        "cursor": "#364129"
+    },
+    "colors": {
+        "color0": "#fbfbfb",
+        "color1": "#8F8578",
+        "color2": "#DD9364",
+        "color3": "#95918D",
+        "color4": "#A69D99",
+        "color5": "#B4B2B0",
+        "color6": "#C7B8B5",
+        "color7": "#364129",
+        "color8": "#8a8a8b",
+        "color9": "#8F8578",
+        "color10": "#DD9364",
+        "color11": "#95918D",
+        "color12": "#A69D99",
+        "color13": "#B4B2B0",
+        "color14": "#C7B8B5",
+        "color15": "#364129"
+    }
+}

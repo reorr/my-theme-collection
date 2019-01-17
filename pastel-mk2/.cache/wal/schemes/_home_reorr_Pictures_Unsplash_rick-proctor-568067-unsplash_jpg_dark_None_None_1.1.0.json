@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/rick-proctor-568067-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0F0E",
+        "foreground": "#a3cfa2",
+        "cursor": "#a3cfa2"
+    },
+    "colors": {
+        "color0": "#0C0F0E",
+        "color1": "#7D757A",
+        "color2": "#21941C",
+        "color3": "#0B8B30",
+        "color4": "#55A724",
+        "color5": "#69C524",
+        "color6": "#249D4F",
+        "color7": "#a3cfa2",
+        "color8": "#729071",
+        "color9": "#7D757A",
+        "color10": "#21941C",
+        "color11": "#0B8B30",
+        "color12": "#55A724",
+        "color13": "#69C524",
+        "color14": "#249D4F",
+        "color15": "#a3cfa2"
+    }
+}

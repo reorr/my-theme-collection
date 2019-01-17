@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/olesia-misty-298105-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfd",
+        "foreground": "#573B56",
+        "cursor": "#573B56"
+    },
+    "colors": {
+        "color0": "#fcfcfd",
+        "color1": "#9F9294",
+        "color2": "#AA9193",
+        "color3": "#B4ADAF",
+        "color4": "#C7A097",
+        "color5": "#C6B7B4",
+        "color6": "#CCC3BC",
+        "color7": "#573B56",
+        "color8": "#8e8e91",
+        "color9": "#9F9294",
+        "color10": "#AA9193",
+        "color11": "#B4ADAF",
+        "color12": "#C7A097",
+        "color13": "#C6B7B4",
+        "color14": "#CCC3BC",
+        "color15": "#573B56"
+    }
+}

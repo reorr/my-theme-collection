@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-alpha" type="uint" value="80"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="65278"/>
+        <value type="uint" value="64507"/>
+        <value type="uint" value="65021"/>
+        <value type="uint" value="65535"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="14"/>
+        <value type="int" value="11"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="1"/>
+        <value type="int" value="9"/>
+        <value type="int" value="4"/>
+        <value type="int" value="2"/>
+        <value type="int" value="10"/>
+        <value type="int" value="8"/>
+        <value type="int" value="3"/>
+      </property>
+      <property name="position" type="string" value="p=6;x=800;y=15"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="28"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="clipman" type="empty">
+      <property name="settings" type="empty">
+        <property name="add-primary-clipboard" type="bool" value="true"/>
+        <property name="max-texts-in-history" type="uint" value="1000"/>
+        <property name="show-qr-code" type="bool" value="true"/>
+      </property>
+      <property name="tweaks" type="empty">
+        <property name="reverse-menu-order" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="empty">
+      <property name="orient" type="string" value="top"/>
+    </property>
+    <property name="plugin-1" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="x-tile"/>
+        <value type="string" value="screenkey"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="electron"/>
+        <value type="string" value="volumeicon"/>
+        <value type="string" value="clipit"/>
+        <value type="string" value="orage"/>
+        <value type="string" value="kde connect indicator"/>
+        <value type="string" value="vokoscreen"/>
+        <value type="string" value="ramme"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="virt-manager"/>
+        <value type="string" value="transmission"/>
+        <value type="string" value="ulauncher"/>
+      </property>
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="size-max" type="uint" value="16"/>
+    </property>
+    <property name="plugin-10" type="string" value="xfce4-orageclock-plugin"/>
+    <property name="plugin-11" type="string" value="appmenu">
+      <property name="plugins" type="empty">
+        <property name="plugin-11" type="empty">
+          <property name="bold-application-name" type="bool" value="false"/>
+          <property name="compact-mode" type="bool" value="false"/>
+          <property name="expand" type="bool" value="false"/>
+        </property>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="disable-tooltips" type="bool" value="true"/>
+      <property name="items" type="array">
+        <value type="string" value="15458338981.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="false"/>
+    </property>
+    <property name="plugin-2" type="string" value="notification-plugin"/>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="false"/>
+      <property name="mpris-players" type="string" value="spotify"/>
+      <property name="show-notifications" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="netload"/>
+    <property name="plugin-8" type="string" value="launcher">
+      <property name="disable-tooltips" type="bool" value="true"/>
+      <property name="items" type="array">
+        <value type="string" value="15296982261.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="false"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+  </property>
+</channel>

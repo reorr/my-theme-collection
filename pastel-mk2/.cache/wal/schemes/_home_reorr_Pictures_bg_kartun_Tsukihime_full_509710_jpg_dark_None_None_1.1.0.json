@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Tsukihime.full.509710.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050506",
+        "foreground": "#eaa3b2",
+        "cursor": "#eaa3b2"
+    },
+    "colors": {
+        "color0": "#050506",
+        "color1": "#B91257",
+        "color2": "#C2175D",
+        "color3": "#D2245A",
+        "color4": "#C51D62",
+        "color5": "#C92267",
+        "color6": "#9C606B",
+        "color7": "#eaa3b2",
+        "color8": "#a3727c",
+        "color9": "#B91257",
+        "color10": "#C2175D",
+        "color11": "#D2245A",
+        "color12": "#C51D62",
+        "color13": "#C92267",
+        "color14": "#9C606B",
+        "color15": "#eaa3b2"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/reorr/Pictures/solid_bg/kanna.png"
+let background = "#fefbfd"
+let foreground = "#755891"
+let cursor     = "#755891"
+
+" Colors
+let color0  = "#fefbfd"
+let color1  = "#D2A7B8"
+let color2  = "#B6A4D2"
+let color3  = "#E7D0B6"
+let color4  = "#D3B2CB"
+let color5  = "#CCADD7"
+let color6  = "#ECB8CD"
+let color7  = "#755891"
+let color8  = "#968c94"
+let color9  = "#D2A7B8"
+let color10 = "#B6A4D2"
+let color11 = "#E7D0B6"
+let color12 = "#D3B2CB"
+let color13 = "#CCADD7"
+let color14 = "#ECB8CD"
+let color15 = "#755891"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 164702 akibakeisena clouds flowers landscape nobody original scenic sky summer water.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0f",
+        "foreground": "#d0dae3",
+        "cursor": "#d0dae3"
+    },
+    "colors": {
+        "color0": "#0d0f0f",
+        "color1": "#1770C9",
+        "color2": "#5F96B7",
+        "color3": "#3387CF",
+        "color4": "#599DD2",
+        "color5": "#8EA3B8",
+        "color6": "#99B4CF",
+        "color7": "#d0dae3",
+        "color8": "#91989e",
+        "color9": "#1770C9",
+        "color10": "#5F96B7",
+        "color11": "#3387CF",
+        "color12": "#599DD2",
+        "color13": "#8EA3B8",
+        "color14": "#99B4CF",
+        "color15": "#d0dae3"
+    }
+}

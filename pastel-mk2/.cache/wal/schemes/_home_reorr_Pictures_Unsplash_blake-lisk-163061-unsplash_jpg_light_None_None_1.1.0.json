@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/blake-lisk-163061-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9fafb",
+        "foreground": "#1B2330",
+        "cursor": "#1B2330"
+    },
+    "colors": {
+        "color0": "#f9fafb",
+        "color1": "#34748C",
+        "color2": "#2E8CA2",
+        "color3": "#5C9AB0",
+        "color4": "#0CA8D2",
+        "color5": "#1BA8D0",
+        "color6": "#59B9D9",
+        "color7": "#1B2330",
+        "color8": "#81878c",
+        "color9": "#34748C",
+        "color10": "#2E8CA2",
+        "color11": "#5C9AB0",
+        "color12": "#0CA8D2",
+        "color13": "#1BA8D0",
+        "color14": "#59B9D9",
+        "color15": "#1B2330"
+    }
+}

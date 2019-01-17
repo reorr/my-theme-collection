@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nick-perez-1201657-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbf9f8",
+        "foreground": "#2F2F2F",
+        "cursor": "#2F2F2F"
+    },
+    "colors": {
+        "color0": "#fbf9f8",
+        "color1": "#357B84",
+        "color2": "#01918F",
+        "color3": "#12A1A1",
+        "color4": "#63979C",
+        "color5": "#A5A7A5",
+        "color6": "#D3AF96",
+        "color7": "#2F2F2F",
+        "color8": "#8a847f",
+        "color9": "#357B84",
+        "color10": "#01918F",
+        "color11": "#12A1A1",
+        "color12": "#63979C",
+        "color13": "#A5A7A5",
+        "color14": "#D3AF96",
+        "color15": "#2F2F2F"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/RICING/wallhaven-696139.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091018",
+        "foreground": "#c2a7a5",
+        "cursor": "#c2a7a5"
+    },
+    "colors": {
+        "color0": "#091018",
+        "color1": "#534C50",
+        "color2": "#6E5554",
+        "color3": "#685E64",
+        "color4": "#766C69",
+        "color5": "#A9363D",
+        "color6": "#AC3B42",
+        "color7": "#c2a7a5",
+        "color8": "#877473",
+        "color9": "#534C50",
+        "color10": "#6E5554",
+        "color11": "#685E64",
+        "color12": "#766C69",
+        "color13": "#A9363D",
+        "color14": "#AC3B42",
+        "color15": "#c2a7a5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 241198 animal_ears anthropomorphism catgirl fennec_(kemono_friends) foxgirl haruse_hiroki kaban kemono_friends serval sunset tail.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0519",
+        "foreground": "#ccb3c7",
+        "cursor": "#ccb3c7"
+    },
+    "colors": {
+        "color0": "#0a0519",
+        "color1": "#E47165",
+        "color2": "#F39849",
+        "color3": "#EC9A6E",
+        "color4": "#2F5A84",
+        "color5": "#6C6B9E",
+        "color6": "#9079A9",
+        "color7": "#ccb3c7",
+        "color8": "#8e7d8b",
+        "color9": "#E47165",
+        "color10": "#F39849",
+        "color11": "#EC9A6E",
+        "color12": "#2F5A84",
+        "color13": "#6C6B9E",
+        "color14": "#9079A9",
+        "color15": "#ccb3c7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/majk-m-661-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E3126",
+        "foreground": "#dde4a8",
+        "cursor": "#dde4a8"
+    },
+    "colors": {
+        "color0": "#0E3126",
+        "color1": "#96AD1E",
+        "color2": "#DCA53E",
+        "color3": "#B0CA17",
+        "color4": "#CEDC17",
+        "color5": "#9EAC55",
+        "color6": "#B4CB5B",
+        "color7": "#dde4a8",
+        "color8": "#9a9f75",
+        "color9": "#96AD1E",
+        "color10": "#DCA53E",
+        "color11": "#B0CA17",
+        "color12": "#CEDC17",
+        "color13": "#9EAC55",
+        "color14": "#B4CB5B",
+        "color15": "#dde4a8"
+    }
+}

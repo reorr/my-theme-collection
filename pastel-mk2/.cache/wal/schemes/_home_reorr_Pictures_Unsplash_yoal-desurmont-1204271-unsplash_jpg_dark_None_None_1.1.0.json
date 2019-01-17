@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/yoal-desurmont-1204271-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101012",
+        "foreground": "#c09c92",
+        "cursor": "#c09c92"
+    },
+    "colors": {
+        "color0": "#101012",
+        "color1": "#333C42",
+        "color2": "#453E41",
+        "color3": "#3A4448",
+        "color4": "#30506A",
+        "color5": "#4E504A",
+        "color6": "#696555",
+        "color7": "#c09c92",
+        "color8": "#866d66",
+        "color9": "#333C42",
+        "color10": "#453E41",
+        "color11": "#3A4448",
+        "color12": "#30506A",
+        "color13": "#4E504A",
+        "color14": "#696555",
+        "color15": "#c09c92"
+    }
+}

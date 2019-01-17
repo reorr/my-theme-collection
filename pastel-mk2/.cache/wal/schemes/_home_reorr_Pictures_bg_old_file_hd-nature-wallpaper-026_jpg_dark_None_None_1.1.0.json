@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/old_file/hd-nature-wallpaper-026.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#252618",
+        "foreground": "#b4bbc2",
+        "cursor": "#b4bbc2"
+    },
+    "colors": {
+        "color0": "#252618",
+        "color1": "#BCCC37",
+        "color2": "#9EA85D",
+        "color3": "#B8C75F",
+        "color4": "#CAD367",
+        "color5": "#5C63AA",
+        "color6": "#D95DA0",
+        "color7": "#b4bbc2",
+        "color8": "#7d8287",
+        "color9": "#BCCC37",
+        "color10": "#9EA85D",
+        "color11": "#B8C75F",
+        "color12": "#CAD367",
+        "color13": "#5C63AA",
+        "color14": "#D95DA0",
+        "color15": "#b4bbc2"
+    }
+}

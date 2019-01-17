@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/michael-h-673069-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#d5d9d7",
+        "foreground": "#191A1C",
+        "cursor": "#191A1C"
+    },
+    "colors": {
+        "color0": "#d5d9d7",
+        "color1": "#2F5A5F",
+        "color2": "#38696D",
+        "color3": "#46736F",
+        "color4": "#646264",
+        "color5": "#9C6964",
+        "color6": "#74837C",
+        "color7": "#191A1C",
+        "color8": "#807c7c",
+        "color9": "#2F5A5F",
+        "color10": "#38696D",
+        "color11": "#46736F",
+        "color12": "#646264",
+        "color13": "#9C6964",
+        "color14": "#74837C",
+        "color15": "#191A1C"
+    }
+}

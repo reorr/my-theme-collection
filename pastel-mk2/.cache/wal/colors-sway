@@ -1,0 +1,21 @@
+set $wallpaper /home/reorr/Pictures/solid_bg/kanna.png
+
+set $background #fefbfd
+set $foreground #755891
+
+set $color0 #fefbfd
+set $color1 #D2A7B8
+set $color2 #B6A4D2
+set $color3 #E7D0B6
+set $color4 #D3B2CB
+set $color5 #CCADD7
+set $color6 #ECB8CD
+set $color7 #755891
+set $color8 #968c94
+set $color9 #D2A7B8
+set $color10 #B6A4D2
+set $color11 #E7D0B6
+set $color12 #D3B2CB
+set $color13 #CCADD7
+set $color14 #ECB8CD
+set $color15 #755891

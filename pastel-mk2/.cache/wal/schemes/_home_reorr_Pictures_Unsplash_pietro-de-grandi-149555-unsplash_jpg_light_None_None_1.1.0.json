@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/pietro-de-grandi-149555-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfd",
+        "foreground": "#1E2E34",
+        "cursor": "#1E2E34"
+    },
+    "colors": {
+        "color0": "#fcfcfd",
+        "color1": "#50739E",
+        "color2": "#5095C0",
+        "color3": "#6BACE2",
+        "color4": "#9E9BA7",
+        "color5": "#C9BABA",
+        "color6": "#99B7DC",
+        "color7": "#1E2E34",
+        "color8": "#8e8e93",
+        "color9": "#50739E",
+        "color10": "#5095C0",
+        "color11": "#6BACE2",
+        "color12": "#9E9BA7",
+        "color13": "#C9BABA",
+        "color14": "#99B7DC",
+        "color15": "#1E2E34"
+    }
+}

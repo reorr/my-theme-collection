@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/.cache/mantablockscreen/resize.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdf9f0",
+        "foreground": "#2B0903",
+        "cursor": "#2B0903"
+    },
+    "colors": {
+        "color0": "#fdf9f0",
+        "color1": "#E5BC5C",
+        "color2": "#336D9D",
+        "color3": "#4C789C",
+        "color4": "#3D82B2",
+        "color5": "#4C8EB9",
+        "color6": "#6990AA",
+        "color7": "#2B0903",
+        "color8": "#93815d",
+        "color9": "#E5BC5C",
+        "color10": "#336D9D",
+        "color11": "#4C789C",
+        "color12": "#3D82B2",
+        "color13": "#4C8EB9",
+        "color14": "#6990AA",
+        "color15": "#2B0903"
+    }
+}

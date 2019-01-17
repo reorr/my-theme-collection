@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/laird-madison-533151-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f5f8",
+        "foreground": "#231625",
+        "cursor": "#231625"
+    },
+    "colors": {
+        "color0": "#f7f5f8",
+        "color1": "#074EDB",
+        "color2": "#0151EF",
+        "color3": "#016EFA",
+        "color4": "#96768F",
+        "color5": "#708DAD",
+        "color6": "#058BFC",
+        "color7": "#231625",
+        "color8": "#797280",
+        "color9": "#074EDB",
+        "color10": "#0151EF",
+        "color11": "#016EFA",
+        "color12": "#96768F",
+        "color13": "#708DAD",
+        "color14": "#058BFC",
+        "color15": "#231625"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/foodism360-397390-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#eff0ee",
+        "foreground": "#170E18",
+        "cursor": "#170E18"
+    },
+    "colors": {
+        "color0": "#eff0ee",
+        "color1": "#543453",
+        "color2": "#603C5E",
+        "color3": "#5E3B61",
+        "color4": "#633E63",
+        "color5": "#4E4C51",
+        "color6": "#70486E",
+        "color7": "#170E18",
+        "color8": "#5c6058",
+        "color9": "#543453",
+        "color10": "#603C5E",
+        "color11": "#5E3B61",
+        "color12": "#633E63",
+        "color13": "#4E4C51",
+        "color14": "#70486E",
+        "color15": "#170E18"
+    }
+}

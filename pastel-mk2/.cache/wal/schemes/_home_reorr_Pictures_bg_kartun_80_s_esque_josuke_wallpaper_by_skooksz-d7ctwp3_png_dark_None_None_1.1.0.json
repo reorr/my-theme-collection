@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/80_s_esque_josuke_wallpaper_by_skooksz-d7ctwp3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030404",
+        "foreground": "#e5c5c7",
+        "cursor": "#e5c5c7"
+    },
+    "colors": {
+        "color0": "#030404",
+        "color1": "#445E8F",
+        "color2": "#416399",
+        "color3": "#B56E88",
+        "color4": "#CE7E95",
+        "color5": "#DEAC83",
+        "color6": "#DF83A6",
+        "color7": "#e5c5c7",
+        "color8": "#a0898b",
+        "color9": "#445E8F",
+        "color10": "#416399",
+        "color11": "#B56E88",
+        "color12": "#CE7E95",
+        "color13": "#DEAC83",
+        "color14": "#DF83A6",
+        "color15": "#e5c5c7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/leo-rivas-25480-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c160e",
+        "foreground": "#d3d9be",
+        "cursor": "#d3d9be"
+    },
+    "colors": {
+        "color0": "#0c160e",
+        "color1": "#759165",
+        "color2": "#90A172",
+        "color3": "#94A877",
+        "color4": "#9CB282",
+        "color5": "#ADB986",
+        "color6": "#C3BD8C",
+        "color7": "#d3d9be",
+        "color8": "#939785",
+        "color9": "#759165",
+        "color10": "#90A172",
+        "color11": "#94A877",
+        "color12": "#9CB282",
+        "color13": "#ADB986",
+        "color14": "#C3BD8C",
+        "color15": "#d3d9be"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/power_level/1532872159814.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05101C",
+        "foreground": "#acbdd1",
+        "cursor": "#acbdd1"
+    },
+    "colors": {
+        "color0": "#05101C",
+        "color1": "#324762",
+        "color2": "#556372",
+        "color3": "#1E4B84",
+        "color4": "#27548C",
+        "color5": "#3A6396",
+        "color6": "#52749A",
+        "color7": "#acbdd1",
+        "color8": "#788492",
+        "color9": "#324762",
+        "color10": "#556372",
+        "color11": "#1E4B84",
+        "color12": "#27548C",
+        "color13": "#3A6396",
+        "color14": "#52749A",
+        "color15": "#acbdd1"
+    }
+}

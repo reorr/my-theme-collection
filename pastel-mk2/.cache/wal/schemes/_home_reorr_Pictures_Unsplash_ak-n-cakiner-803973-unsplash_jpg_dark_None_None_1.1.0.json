@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ak-n-cakiner-803973-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2012",
+        "foreground": "#e6cb7a",
+        "cursor": "#e6cb7a"
+    },
+    "colors": {
+        "color0": "#1f2012",
+        "color1": "#5B6C50",
+        "color2": "#927311",
+        "color3": "#8C7945",
+        "color4": "#72875C",
+        "color5": "#978A18",
+        "color6": "#AE8F02",
+        "color7": "#e6cb7a",
+        "color8": "#a18e55",
+        "color9": "#5B6C50",
+        "color10": "#927311",
+        "color11": "#8C7945",
+        "color12": "#72875C",
+        "color13": "#978A18",
+        "color14": "#AE8F02",
+        "color15": "#e6cb7a"
+    }
+}

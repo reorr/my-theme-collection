@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/--NhCHK_ZZY.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2b2727",
+        "foreground": "#e1eced",
+        "cursor": "#e1eced"
+    },
+    "colors": {
+        "color0": "#2b2727",
+        "color1": "#A8906F",
+        "color2": "#CA9C75",
+        "color3": "#939389",
+        "color4": "#ACA497",
+        "color5": "#CAB29C",
+        "color6": "#C6CDCB",
+        "color7": "#e1eced",
+        "color8": "#9da5a5",
+        "color9": "#A8906F",
+        "color10": "#CA9C75",
+        "color11": "#939389",
+        "color12": "#ACA497",
+        "color13": "#CAB29C",
+        "color14": "#C6CDCB",
+        "color15": "#e1eced"
+    }
+}

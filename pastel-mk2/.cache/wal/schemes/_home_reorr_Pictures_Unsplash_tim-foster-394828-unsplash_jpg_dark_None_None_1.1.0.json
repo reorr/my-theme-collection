@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/tim-foster-394828-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1a0b",
+        "foreground": "#bfca7f",
+        "cursor": "#bfca7f"
+    },
+    "colors": {
+        "color0": "#0f1a0b",
+        "color1": "#8C7558",
+        "color2": "#708F09",
+        "color3": "#609A0F",
+        "color4": "#41A410",
+        "color5": "#1C8A70",
+        "color6": "#538F72",
+        "color7": "#bfca7f",
+        "color8": "#858d58",
+        "color9": "#8C7558",
+        "color10": "#708F09",
+        "color11": "#609A0F",
+        "color12": "#41A410",
+        "color13": "#1C8A70",
+        "color14": "#538F72",
+        "color15": "#bfca7f"
+    }
+}

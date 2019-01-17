@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/asnim-asnim-142813-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#190501",
+        "foreground": "#a1c4d9",
+        "cursor": "#a1c4d9"
+    },
+    "colors": {
+        "color0": "#190501",
+        "color1": "#336D9D",
+        "color2": "#4C789C",
+        "color3": "#807F80",
+        "color4": "#3D82B2",
+        "color5": "#4C8EB9",
+        "color6": "#6A90AA",
+        "color7": "#a1c4d9",
+        "color8": "#708997",
+        "color9": "#336D9D",
+        "color10": "#4C789C",
+        "color11": "#807F80",
+        "color12": "#3D82B2",
+        "color13": "#4C8EB9",
+        "color14": "#6A90AA",
+        "color15": "#a1c4d9"
+    }
+}

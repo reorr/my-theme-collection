@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/tj-holowaychuk-621832-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfe",
+        "foreground": "#143231",
+        "cursor": "#143231"
+    },
+    "colors": {
+        "color0": "#fefdfe",
+        "color1": "#B875BF",
+        "color2": "#768699",
+        "color3": "#7697C6",
+        "color4": "#9292AB",
+        "color5": "#A196AD",
+        "color6": "#AFA6CD",
+        "color7": "#143231",
+        "color8": "#979396",
+        "color9": "#B875BF",
+        "color10": "#768699",
+        "color11": "#7697C6",
+        "color12": "#9292AB",
+        "color13": "#A196AD",
+        "color14": "#AFA6CD",
+        "color15": "#143231"
+    }
+}

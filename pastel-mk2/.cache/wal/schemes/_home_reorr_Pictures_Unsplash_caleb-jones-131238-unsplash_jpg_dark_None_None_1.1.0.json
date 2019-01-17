@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/caleb-jones-131238-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0F0B",
+        "foreground": "#d5d8d8",
+        "cursor": "#d5d8d8"
+    },
+    "colors": {
+        "color0": "#0B0F0B",
+        "color1": "#C0A77D",
+        "color2": "#778B87",
+        "color3": "#8D9791",
+        "color4": "#A2A799",
+        "color5": "#AEB5B1",
+        "color6": "#C6C3B5",
+        "color7": "#d5d8d8",
+        "color8": "#959797",
+        "color9": "#C0A77D",
+        "color10": "#778B87",
+        "color11": "#8D9791",
+        "color12": "#A2A799",
+        "color13": "#AEB5B1",
+        "color14": "#C6C3B5",
+        "color15": "#d5d8d8"
+    }
+}

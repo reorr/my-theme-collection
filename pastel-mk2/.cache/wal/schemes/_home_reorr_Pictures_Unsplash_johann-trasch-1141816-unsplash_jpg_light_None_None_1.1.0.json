@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/johann-trasch-1141816-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f9f8",
+        "foreground": "#0D0A09",
+        "cursor": "#0D0A09"
+    },
+    "colors": {
+        "color0": "#f9f9f8",
+        "color1": "#98A31A",
+        "color2": "#9FD217",
+        "color3": "#AACF07",
+        "color4": "#A4985E",
+        "color5": "#CAA85A",
+        "color6": "#B7CF4E",
+        "color7": "#0D0A09",
+        "color8": "#81847e",
+        "color9": "#98A31A",
+        "color10": "#9FD217",
+        "color11": "#AACF07",
+        "color12": "#A4985E",
+        "color13": "#CAA85A",
+        "color14": "#B7CF4E",
+        "color15": "#0D0A09"
+    }
+}

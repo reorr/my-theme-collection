@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__komadori_renge_sekai_seifuku_bouryaku_no_zvezda_drawn_by_ixy__4f742a6f341c012cde821aecb10b9d47.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fafcfc",
+        "foreground": "#36302F",
+        "cursor": "#36302F"
+    },
+    "colors": {
+        "color0": "#fafcfc",
+        "color1": "#915A66",
+        "color2": "#A45C6D",
+        "color3": "#715F81",
+        "color4": "#756385",
+        "color5": "#8A7795",
+        "color6": "#988982",
+        "color7": "#36302F",
+        "color8": "#88908d",
+        "color9": "#915A66",
+        "color10": "#A45C6D",
+        "color11": "#715F81",
+        "color12": "#756385",
+        "color13": "#8A7795",
+        "color14": "#988982",
+        "color15": "#36302F"
+    }
+}

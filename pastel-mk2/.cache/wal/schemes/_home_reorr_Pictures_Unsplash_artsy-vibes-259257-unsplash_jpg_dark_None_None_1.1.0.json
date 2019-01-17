@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/artsy-vibes-259257-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1b12",
+        "foreground": "#dcd7aa",
+        "cursor": "#dcd7aa"
+    },
+    "colors": {
+        "color0": "#1a1b12",
+        "color1": "#716F4B",
+        "color2": "#976F3A",
+        "color3": "#8C7759",
+        "color4": "#798645",
+        "color5": "#929536",
+        "color6": "#A09961",
+        "color7": "#dcd7aa",
+        "color8": "#9a9676",
+        "color9": "#716F4B",
+        "color10": "#976F3A",
+        "color11": "#8C7759",
+        "color12": "#798645",
+        "color13": "#929536",
+        "color14": "#A09961",
+        "color15": "#dcd7aa"
+    }
+}

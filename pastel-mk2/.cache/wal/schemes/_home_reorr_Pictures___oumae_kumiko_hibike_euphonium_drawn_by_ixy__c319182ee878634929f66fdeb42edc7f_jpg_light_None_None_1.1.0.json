@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__oumae_kumiko_hibike_euphonium_drawn_by_ixy__c319182ee878634929f66fdeb42edc7f.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfc",
+        "foreground": "#231716",
+        "cursor": "#231716"
+    },
+    "colors": {
+        "color0": "#fefdfc",
+        "color1": "#854E3D",
+        "color2": "#983950",
+        "color3": "#995B53",
+        "color4": "#C2455F",
+        "color5": "#C24561",
+        "color6": "#BC9764",
+        "color7": "#231716",
+        "color8": "#97918d",
+        "color9": "#854E3D",
+        "color10": "#983950",
+        "color11": "#995B53",
+        "color12": "#C2455F",
+        "color13": "#C24561",
+        "color14": "#BC9764",
+        "color15": "#231716"
+    }
+}

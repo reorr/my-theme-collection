@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sara-dubler-996447-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131311",
+        "foreground": "#d3acbd",
+        "cursor": "#d3acbd"
+    },
+    "colors": {
+        "color0": "#131311",
+        "color1": "#986C5C",
+        "color2": "#589C49",
+        "color3": "#A79664",
+        "color4": "#CFAA42",
+        "color5": "#D5A85D",
+        "color6": "#4D619E",
+        "color7": "#d3acbd",
+        "color8": "#937884",
+        "color9": "#986C5C",
+        "color10": "#589C49",
+        "color11": "#A79664",
+        "color12": "#CFAA42",
+        "color13": "#D5A85D",
+        "color14": "#4D619E",
+        "color15": "#d3acbd"
+    }
+}

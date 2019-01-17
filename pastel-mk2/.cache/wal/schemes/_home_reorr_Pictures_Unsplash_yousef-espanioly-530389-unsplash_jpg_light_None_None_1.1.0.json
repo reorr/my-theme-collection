@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/yousef-espanioly-530389-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f6f4f7",
+        "foreground": "#090B14",
+        "cursor": "#090B14"
+    },
+    "colors": {
+        "color0": "#f6f4f7",
+        "color1": "#4E4070",
+        "color2": "#956774",
+        "color3": "#3A4594",
+        "color4": "#394B9A",
+        "color5": "#595AA4",
+        "color6": "#5A74CA",
+        "color7": "#090B14",
+        "color8": "#766f79",
+        "color9": "#4E4070",
+        "color10": "#956774",
+        "color11": "#3A4594",
+        "color12": "#394B9A",
+        "color13": "#595AA4",
+        "color14": "#5A74CA",
+        "color15": "#090B14"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/waqas-akhtar-605775-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161212",
+        "foreground": "#c8cac4",
+        "cursor": "#c8cac4"
+    },
+    "colors": {
+        "color0": "#161212",
+        "color1": "#4C726B",
+        "color2": "#B6573A",
+        "color3": "#5A847A",
+        "color4": "#DA9368",
+        "color5": "#717E80",
+        "color6": "#6C9189",
+        "color7": "#c8cac4",
+        "color8": "#8c8d89",
+        "color9": "#4C726B",
+        "color10": "#B6573A",
+        "color11": "#5A847A",
+        "color12": "#DA9368",
+        "color13": "#717E80",
+        "color14": "#6C9189",
+        "color15": "#c8cac4"
+    }
+}

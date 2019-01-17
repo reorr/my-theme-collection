@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/Wallpaper 1.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1317",
+        "foreground": "#b8b1a5",
+        "cursor": "#b8b1a5"
+    },
+    "colors": {
+        "color0": "#0E1317",
+        "color1": "#154F4F",
+        "color2": "#2A524E",
+        "color3": "#2E6559",
+        "color4": "#186767",
+        "color5": "#307269",
+        "color6": "#536659",
+        "color7": "#b8b1a5",
+        "color8": "#807b73",
+        "color9": "#154F4F",
+        "color10": "#2A524E",
+        "color11": "#2E6559",
+        "color12": "#186767",
+        "color13": "#307269",
+        "color14": "#536659",
+        "color15": "#b8b1a5"
+    }
+}

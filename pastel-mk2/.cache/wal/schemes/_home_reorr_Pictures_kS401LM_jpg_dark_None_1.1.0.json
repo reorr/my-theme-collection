@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/kS401LM.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020708",
+        "foreground": "#c5d7d9",
+        "cursor": "#c5d7d9"
+    },
+    "colors": {
+        "color0": "#020708",
+        "color1": "#44757B",
+        "color2": "#3E7881",
+        "color3": "#4A7C83",
+        "color4": "#659197",
+        "color5": "#8FB1B6",
+        "color6": "#A0BEC2",
+        "color7": "#c5d7d9",
+        "color8": "#899697",
+        "color9": "#44757B",
+        "color10": "#3E7881",
+        "color11": "#4A7C83",
+        "color12": "#659197",
+        "color13": "#8FB1B6",
+        "color14": "#A0BEC2",
+        "color15": "#c5d7d9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/lothar-bodingbauer-490981-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#cadee7",
+        "foreground": "#161E17",
+        "cursor": "#161E17"
+    },
+    "colors": {
+        "color0": "#cadee7",
+        "color1": "#CAD039",
+        "color2": "#C5CA55",
+        "color3": "#3076AF",
+        "color4": "#53739B",
+        "color5": "#3985BA",
+        "color6": "#5093B0",
+        "color7": "#161E17",
+        "color8": "#6c6f6f",
+        "color9": "#CAD039",
+        "color10": "#C5CA55",
+        "color11": "#3076AF",
+        "color12": "#53739B",
+        "color13": "#3985BA",
+        "color14": "#5093B0",
+        "color15": "#161E17"
+    }
+}

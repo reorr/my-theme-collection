@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/annie-spratt-199471-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0f12",
+        "foreground": "#bdb1c3",
+        "cursor": "#bdb1c3"
+    },
+    "colors": {
+        "color0": "#0a0f12",
+        "color1": "#314951",
+        "color2": "#265164",
+        "color3": "#555B67",
+        "color4": "#79836E",
+        "color5": "#346688",
+        "color6": "#636E8E",
+        "color7": "#bdb1c3",
+        "color8": "#847b88",
+        "color9": "#314951",
+        "color10": "#265164",
+        "color11": "#555B67",
+        "color12": "#79836E",
+        "color13": "#346688",
+        "color14": "#636E8E",
+        "color15": "#bdb1c3"
+    }
+}

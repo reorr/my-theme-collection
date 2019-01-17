@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/kumiko-shimizu-725521-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101712",
+        "foreground": "#a5c4da",
+        "cursor": "#a5c4da"
+    },
+    "colors": {
+        "color0": "#101712",
+        "color1": "#0475A8",
+        "color2": "#4A79A4",
+        "color3": "#2787AA",
+        "color4": "#5190B3",
+        "color5": "#6997AF",
+        "color6": "#2F92C5",
+        "color7": "#a5c4da",
+        "color8": "#738998",
+        "color9": "#0475A8",
+        "color10": "#4A79A4",
+        "color11": "#2787AA",
+        "color12": "#5190B3",
+        "color13": "#6997AF",
+        "color14": "#2F92C5",
+        "color15": "#a5c4da"
+    }
+}

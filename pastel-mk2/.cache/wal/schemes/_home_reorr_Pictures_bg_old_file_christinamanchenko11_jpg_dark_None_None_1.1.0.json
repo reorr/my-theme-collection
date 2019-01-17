@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/old_file/christinamanchenko11.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d0f12",
+        "foreground": "#d1bc9c",
+        "cursor": "#d1bc9c"
+    },
+    "colors": {
+        "color0": "#1d0f12",
+        "color1": "#A5555D",
+        "color2": "#AE6F53",
+        "color3": "#B46D6C",
+        "color4": "#C74046",
+        "color5": "#C95263",
+        "color6": "#C8706D",
+        "color7": "#d1bc9c",
+        "color8": "#92836d",
+        "color9": "#A5555D",
+        "color10": "#AE6F53",
+        "color11": "#B46D6C",
+        "color12": "#C74046",
+        "color13": "#C95263",
+        "color14": "#C8706D",
+        "color15": "#d1bc9c"
+    }
+}

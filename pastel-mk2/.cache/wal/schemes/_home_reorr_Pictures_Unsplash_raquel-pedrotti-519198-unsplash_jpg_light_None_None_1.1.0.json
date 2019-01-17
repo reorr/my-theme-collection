@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/raquel-pedrotti-519198-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#edf1ee",
+        "foreground": "#080F0A",
+        "cursor": "#080F0A"
+    },
+    "colors": {
+        "color0": "#edf1ee",
+        "color1": "#464F36",
+        "color2": "#325647",
+        "color3": "#376751",
+        "color4": "#33715B",
+        "color5": "#4C5D50",
+        "color6": "#496A57",
+        "color7": "#080F0A",
+        "color8": "#536357",
+        "color9": "#464F36",
+        "color10": "#325647",
+        "color11": "#376751",
+        "color12": "#33715B",
+        "color13": "#4C5D50",
+        "color14": "#496A57",
+        "color15": "#080F0A"
+    }
+}

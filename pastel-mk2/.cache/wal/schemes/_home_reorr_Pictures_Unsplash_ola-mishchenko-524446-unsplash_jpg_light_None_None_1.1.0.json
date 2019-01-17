@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ola-mishchenko-524446-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f9f9",
+        "foreground": "#1D1918",
+        "cursor": "#1D1918"
+    },
+    "colors": {
+        "color0": "#f9f9f9",
+        "color1": "#8E715D",
+        "color2": "#9E836A",
+        "color3": "#AF9174",
+        "color4": "#D9A25B",
+        "color5": "#867F81",
+        "color6": "#AE9D93",
+        "color7": "#1D1918",
+        "color8": "#848484",
+        "color9": "#8E715D",
+        "color10": "#9E836A",
+        "color11": "#AF9174",
+        "color12": "#D9A25B",
+        "color13": "#867F81",
+        "color14": "#AE9D93",
+        "color15": "#1D1918"
+    }
+}

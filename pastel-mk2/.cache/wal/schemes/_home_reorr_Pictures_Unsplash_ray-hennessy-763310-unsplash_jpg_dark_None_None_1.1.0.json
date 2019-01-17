@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ray-hennessy-763310-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#271816",
+        "foreground": "#f2c88f",
+        "cursor": "#f2c88f"
+    },
+    "colors": {
+        "color0": "#271816",
+        "color1": "#D76803",
+        "color2": "#F57001",
+        "color3": "#DE722D",
+        "color4": "#FB8D03",
+        "color5": "#FDA803",
+        "color6": "#F4932B",
+        "color7": "#f2c88f",
+        "color8": "#a98c64",
+        "color9": "#D76803",
+        "color10": "#F57001",
+        "color11": "#DE722D",
+        "color12": "#FB8D03",
+        "color13": "#FDA803",
+        "color14": "#F4932B",
+        "color15": "#f2c88f"
+    }
+}

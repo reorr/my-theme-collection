@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/oliver-maxwell-98767-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0B11",
+        "foreground": "#a3c5e9",
+        "cursor": "#a3c5e9"
+    },
+    "colors": {
+        "color0": "#0F0B11",
+        "color1": "#536CA3",
+        "color2": "#3B74C7",
+        "color3": "#437ACE",
+        "color4": "#667FC0",
+        "color5": "#4687D9",
+        "color6": "#5295E7",
+        "color7": "#a3c5e9",
+        "color8": "#7289a3",
+        "color9": "#536CA3",
+        "color10": "#3B74C7",
+        "color11": "#437ACE",
+        "color12": "#667FC0",
+        "color13": "#4687D9",
+        "color14": "#5295E7",
+        "color15": "#a3c5e9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/eugenia-vysochyna-1154316-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f8fcf6",
+        "foreground": "#021209",
+        "cursor": "#021209"
+    },
+    "colors": {
+        "color0": "#f8fcf6",
+        "color1": "#5D9726",
+        "color2": "#6B9E53",
+        "color3": "#ADC21E",
+        "color4": "#A4D416",
+        "color5": "#8FB464",
+        "color6": "#A2CC68",
+        "color7": "#021209",
+        "color8": "#808d78",
+        "color9": "#5D9726",
+        "color10": "#6B9E53",
+        "color11": "#ADC21E",
+        "color12": "#A4D416",
+        "color13": "#8FB464",
+        "color14": "#A2CC68",
+        "color15": "#021209"
+    }
+}

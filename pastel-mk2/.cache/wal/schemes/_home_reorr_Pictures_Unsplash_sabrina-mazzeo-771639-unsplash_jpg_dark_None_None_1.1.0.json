@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sabrina-mazzeo-771639-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a130e",
+        "foreground": "#a9c7bd",
+        "cursor": "#a9c7bd"
+    },
+    "colors": {
+        "color0": "#0a130e",
+        "color1": "#576D57",
+        "color2": "#338A39",
+        "color3": "#2C8D5F",
+        "color4": "#5E996C",
+        "color5": "#4A9174",
+        "color6": "#948B67",
+        "color7": "#a9c7bd",
+        "color8": "#768b84",
+        "color9": "#576D57",
+        "color10": "#338A39",
+        "color11": "#2C8D5F",
+        "color12": "#5E996C",
+        "color13": "#4A9174",
+        "color14": "#948B67",
+        "color15": "#a9c7bd"
+    }
+}

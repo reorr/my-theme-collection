@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/the-roaming-platypus-311630-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0C0F",
+        "foreground": "#c2ccca",
+        "cursor": "#c2ccca"
+    },
+    "colors": {
+        "color0": "#0B0C0F",
+        "color1": "#7F6983",
+        "color2": "#379286",
+        "color3": "#5BA79E",
+        "color4": "#5DC2B3",
+        "color5": "#75C8B7",
+        "color6": "#78CEC4",
+        "color7": "#c2ccca",
+        "color8": "#878e8d",
+        "color9": "#7F6983",
+        "color10": "#379286",
+        "color11": "#5BA79E",
+        "color12": "#5DC2B3",
+        "color13": "#75C8B7",
+        "color14": "#78CEC4",
+        "color15": "#c2ccca"
+    }
+}

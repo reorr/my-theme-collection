@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/toa-heftiba-243296-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0E0D",
+        "foreground": "#9fb1bf",
+        "cursor": "#9fb1bf"
+    },
+    "colors": {
+        "color0": "#0B0E0D",
+        "color1": "#2A4553",
+        "color2": "#375868",
+        "color3": "#585D63",
+        "color4": "#9F5C5E",
+        "color5": "#76916B",
+        "color6": "#3D6885",
+        "color7": "#9fb1bf",
+        "color8": "#6f7b85",
+        "color9": "#2A4553",
+        "color10": "#375868",
+        "color11": "#585D63",
+        "color12": "#9F5C5E",
+        "color13": "#76916B",
+        "color14": "#3D6885",
+        "color15": "#9fb1bf"
+    }
+}

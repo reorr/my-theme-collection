@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/blur/blurrr.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#271E1C",
+        "cursor": "#271E1C"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#86394C",
+        "color2": "#986671",
+        "color3": "#797A8A",
+        "color4": "#9F7A85",
+        "color5": "#9F9199",
+        "color6": "#B1ABB1",
+        "color7": "#271E1C",
+        "color8": "#979797",
+        "color9": "#86394C",
+        "color10": "#986671",
+        "color11": "#797A8A",
+        "color12": "#9F7A85",
+        "color13": "#9F9199",
+        "color14": "#B1ABB1",
+        "color15": "#271E1C"
+    }
+}

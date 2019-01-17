@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 242372 fate_(series) fate_stay_night fate_unlimited_codes kote-sensei saber saber_lily.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1525",
+        "foreground": "#dfcdd0",
+        "cursor": "#dfcdd0"
+    },
+    "colors": {
+        "color0": "#1b1525",
+        "color1": "#8F6C99",
+        "color2": "#9B739D",
+        "color3": "#A775B5",
+        "color4": "#AC8C9E",
+        "color5": "#B48EA9",
+        "color6": "#CB9DA7",
+        "color7": "#dfcdd0",
+        "color8": "#9c8f91",
+        "color9": "#8F6C99",
+        "color10": "#9B739D",
+        "color11": "#A775B5",
+        "color12": "#AC8C9E",
+        "color13": "#B48EA9",
+        "color14": "#CB9DA7",
+        "color15": "#dfcdd0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/.cache/today-wal",
+    "alpha": "100",
+    "special": {
+        "background": "#121621",
+        "foreground": "#90b9d2",
+        "cursor": "#90b9d2"
+    },
+    "colors": {
+        "color0": "#121621",
+        "color1": "#FFB26F",
+        "color2": "#FFC57A",
+        "color3": "#085690",
+        "color4": "#17679F",
+        "color5": "#056DB0",
+        "color6": "#127ABF",
+        "color7": "#90b9d2",
+        "color8": "#648193",
+        "color9": "#FFB26F",
+        "color10": "#FFC57A",
+        "color11": "#085690",
+        "color12": "#17679F",
+        "color13": "#056DB0",
+        "color14": "#127ABF",
+        "color15": "#90b9d2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/gems.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#573945",
+        "cursor": "#573945"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#9C7DA0",
+        "color2": "#6E91A0",
+        "color3": "#A79A9D",
+        "color4": "#B09594",
+        "color5": "#C3A39D",
+        "color6": "#DDAE91",
+        "color7": "#573945",
+        "color8": "#969696",
+        "color9": "#9C7DA0",
+        "color10": "#6E91A0",
+        "color11": "#A79A9D",
+        "color12": "#B09594",
+        "color13": "#C3A39D",
+        "color14": "#DDAE91",
+        "color15": "#573945"
+    }
+}

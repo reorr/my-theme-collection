@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/scott-webb-476290-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a121e",
+        "foreground": "#ebd6b5",
+        "cursor": "#ebd6b5"
+    },
+    "colors": {
+        "color0": "#1a121e",
+        "color1": "#534748",
+        "color2": "#6D5D54",
+        "color3": "#8B623D",
+        "color4": "#8C735C",
+        "color5": "#A28B6D",
+        "color6": "#DAB072",
+        "color7": "#ebd6b5",
+        "color8": "#a4957e",
+        "color9": "#534748",
+        "color10": "#6D5D54",
+        "color11": "#8B623D",
+        "color12": "#8C735C",
+        "color13": "#A28B6D",
+        "color14": "#DAB072",
+        "color15": "#ebd6b5"
+    }
+}

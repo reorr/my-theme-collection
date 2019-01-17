@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/aj-tamayo-781739-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1D5B",
+        "foreground": "#91bced",
+        "cursor": "#91bced"
+    },
+    "colors": {
+        "color0": "#0B1D5B",
+        "color1": "#034BAF",
+        "color2": "#105DB4",
+        "color3": "#5A719C",
+        "color4": "#0D6DCD",
+        "color5": "#1871D1",
+        "color6": "#6F8AA9",
+        "color7": "#91bced",
+        "color8": "#6583a5",
+        "color9": "#034BAF",
+        "color10": "#105DB4",
+        "color11": "#5A719C",
+        "color12": "#0D6DCD",
+        "color13": "#1871D1",
+        "color14": "#6F8AA9",
+        "color15": "#91bced"
+    }
+}

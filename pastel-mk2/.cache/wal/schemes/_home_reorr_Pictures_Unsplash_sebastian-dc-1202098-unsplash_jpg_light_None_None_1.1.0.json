@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sebastian-dc-1202098-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fef7ec",
+        "foreground": "#3F3511",
+        "cursor": "#3F3511"
+    },
+    "colors": {
+        "color0": "#fef7ec",
+        "color1": "#D2AC03",
+        "color2": "#DDAF0B",
+        "color3": "#ECC40E",
+        "color4": "#B98745",
+        "color5": "#CD954B",
+        "color6": "#DBA454",
+        "color7": "#3F3511",
+        "color8": "#987b4d",
+        "color9": "#D2AC03",
+        "color10": "#DDAF0B",
+        "color11": "#ECC40E",
+        "color12": "#B98745",
+        "color13": "#CD954B",
+        "color14": "#DBA454",
+        "color15": "#3F3511"
+    }
+}

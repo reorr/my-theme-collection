@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/james-coleman-533479-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f8f9fb",
+        "foreground": "#3C3D45",
+        "cursor": "#3C3D45"
+    },
+    "colors": {
+        "color0": "#f8f9fb",
+        "color1": "#5966B5",
+        "color2": "#8B759E",
+        "color3": "#7788BF",
+        "color4": "#B6B18F",
+        "color5": "#A6A4A8",
+        "color6": "#C1BD9A",
+        "color7": "#3C3D45",
+        "color8": "#7d8189",
+        "color9": "#5966B5",
+        "color10": "#8B759E",
+        "color11": "#7788BF",
+        "color12": "#B6B18F",
+        "color13": "#A6A4A8",
+        "color14": "#C1BD9A",
+        "color15": "#3C3D45"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/a-silent-voice-new-visual.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0835",
+        "foreground": "#83adb9",
+        "cursor": "#83adb9"
+    },
+    "colors": {
+        "color0": "#0A0835",
+        "color1": "#6B4A5E",
+        "color2": "#724857",
+        "color3": "#935360",
+        "color4": "#CE6A6F",
+        "color5": "#9E807F",
+        "color6": "#165E81",
+        "color7": "#83adb9",
+        "color8": "#5b7981",
+        "color9": "#6B4A5E",
+        "color10": "#724857",
+        "color11": "#935360",
+        "color12": "#CE6A6F",
+        "color13": "#9E807F",
+        "color14": "#165E81",
+        "color15": "#83adb9"
+    }
+}

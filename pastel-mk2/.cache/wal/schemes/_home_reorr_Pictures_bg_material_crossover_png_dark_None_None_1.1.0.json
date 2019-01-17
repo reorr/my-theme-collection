@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/crossover.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1249",
+        "foreground": "#d7d5db",
+        "cursor": "#d7d5db"
+    },
+    "colors": {
+        "color0": "#1f1249",
+        "color1": "#8776B4",
+        "color2": "#8059C4",
+        "color3": "#9A8FB6",
+        "color4": "#B5B1BB",
+        "color5": "#A492C9",
+        "color6": "#BCB6C8",
+        "color7": "#d7d5db",
+        "color8": "#969599",
+        "color9": "#8776B4",
+        "color10": "#8059C4",
+        "color11": "#9A8FB6",
+        "color12": "#B5B1BB",
+        "color13": "#A492C9",
+        "color14": "#BCB6C8",
+        "color15": "#d7d5db"
+    }
+}

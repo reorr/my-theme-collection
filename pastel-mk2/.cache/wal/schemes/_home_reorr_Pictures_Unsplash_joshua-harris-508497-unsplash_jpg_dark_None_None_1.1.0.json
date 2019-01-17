@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/joshua-harris-508497-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0e0d",
+        "foreground": "#be8cab",
+        "cursor": "#be8cab"
+    },
+    "colors": {
+        "color0": "#0e0e0d",
+        "color1": "#3A244B",
+        "color2": "#372B4A",
+        "color3": "#4A2952",
+        "color4": "#5E2A64",
+        "color5": "#3D4142",
+        "color6": "#504771",
+        "color7": "#be8cab",
+        "color8": "#856277",
+        "color9": "#3A244B",
+        "color10": "#372B4A",
+        "color11": "#4A2952",
+        "color12": "#5E2A64",
+        "color13": "#3D4142",
+        "color14": "#504771",
+        "color15": "#be8cab"
+    }
+}

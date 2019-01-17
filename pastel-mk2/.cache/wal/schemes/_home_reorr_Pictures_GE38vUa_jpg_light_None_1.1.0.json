@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/GE38vUa.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f2f3fa",
+        "foreground": "#0C0D10",
+        "cursor": "#0C0D10"
+    },
+    "colors": {
+        "color0": "#f2f3fa",
+        "color1": "#272096",
+        "color2": "#295C93",
+        "color3": "#58599E",
+        "color4": "#544EC0",
+        "color5": "#817DA4",
+        "color6": "#4B9FB9",
+        "color7": "#0C0D10",
+        "color8": "#666987",
+        "color9": "#272096",
+        "color10": "#295C93",
+        "color11": "#58599E",
+        "color12": "#544EC0",
+        "color13": "#817DA4",
+        "color14": "#4B9FB9",
+        "color15": "#0C0D10"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/charlie-solorzano-1100210-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0a0a",
+        "foreground": "#c6c5c0",
+        "cursor": "#c6c5c0"
+    },
+    "colors": {
+        "color0": "#0b0a0a",
+        "color1": "#66625B",
+        "color2": "#966839",
+        "color3": "#6C8A2E",
+        "color4": "#A39B5E",
+        "color5": "#B2A25C",
+        "color6": "#7D7C84",
+        "color7": "#c6c5c0",
+        "color8": "#8a8986",
+        "color9": "#66625B",
+        "color10": "#966839",
+        "color11": "#6C8A2E",
+        "color12": "#A39B5E",
+        "color13": "#B2A25C",
+        "color14": "#7D7C84",
+        "color15": "#c6c5c0"
+    }
+}

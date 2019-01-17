@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/micah-williams-512420-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121212",
+        "foreground": "#d1dbe6",
+        "cursor": "#d1dbe6"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#447CB1",
+        "color2": "#3C84BC",
+        "color3": "#5088BA",
+        "color4": "#5692C8",
+        "color5": "#6D9CCD",
+        "color6": "#88AED8",
+        "color7": "#d1dbe6",
+        "color8": "#9299a1",
+        "color9": "#447CB1",
+        "color10": "#3C84BC",
+        "color11": "#5088BA",
+        "color12": "#5692C8",
+        "color13": "#6D9CCD",
+        "color14": "#88AED8",
+        "color15": "#d1dbe6"
+    }
+}

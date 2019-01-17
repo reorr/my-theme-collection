@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/saiw.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080B13",
+        "foreground": "#bdbbbc",
+        "cursor": "#bdbbbc"
+    },
+    "colors": {
+        "color0": "#080B13",
+        "color1": "#963253",
+        "color2": "#95586E",
+        "color3": "#032491",
+        "color4": "#6D718A",
+        "color5": "#9E728E",
+        "color6": "#C2769C",
+        "color7": "#bdbbbc",
+        "color8": "#848283",
+        "color9": "#963253",
+        "color10": "#95586E",
+        "color11": "#032491",
+        "color12": "#6D718A",
+        "color13": "#9E728E",
+        "color14": "#C2769C",
+        "color15": "#bdbbbc"
+    }
+}

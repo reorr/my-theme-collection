@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/Bike.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#161d21",
+        "foreground": "#cdc8c9",
+        "cursor": "#cdc8c9"
+    },
+    "colors": {
+        "color0": "#161d21",
+        "color1": "#934537",
+        "color2": "#94635C",
+        "color3": "#857A78",
+        "color4": "#928871",
+        "color5": "#6A9097",
+        "color6": "#908B8B",
+        "color7": "#cdc8c9",
+        "color8": "#8f8c8c",
+        "color9": "#934537",
+        "color10": "#94635C",
+        "color11": "#857A78",
+        "color12": "#928871",
+        "color13": "#6A9097",
+        "color14": "#908B8B",
+        "color15": "#cdc8c9"
+    }
+}

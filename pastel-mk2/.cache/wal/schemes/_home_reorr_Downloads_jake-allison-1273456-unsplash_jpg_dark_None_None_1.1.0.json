@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/jake-allison-1273456-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1012",
+        "foreground": "#a6b9a7",
+        "cursor": "#a6b9a7"
+    },
+    "colors": {
+        "color0": "#0c1012",
+        "color1": "#24534A",
+        "color2": "#076A57",
+        "color3": "#047A67",
+        "color4": "#4C5F61",
+        "color5": "#039077",
+        "color6": "#238A74",
+        "color7": "#a6b9a7",
+        "color8": "#748174",
+        "color9": "#24534A",
+        "color10": "#076A57",
+        "color11": "#047A67",
+        "color12": "#4C5F61",
+        "color13": "#039077",
+        "color14": "#238A74",
+        "color15": "#a6b9a7"
+    }
+}

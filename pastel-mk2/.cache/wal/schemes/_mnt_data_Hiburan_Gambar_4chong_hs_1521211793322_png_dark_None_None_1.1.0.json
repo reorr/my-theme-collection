@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/4chong/hs/1521211793322.png",
+    "alpha": "100",
+    "special": {
+        "background": "#160e11",
+        "foreground": "#d0c9bc",
+        "cursor": "#d0c9bc"
+    },
+    "colors": {
+        "color0": "#160e11",
+        "color1": "#A35759",
+        "color2": "#AC5A5B",
+        "color3": "#CC645E",
+        "color4": "#D97367",
+        "color5": "#E47A6B",
+        "color6": "#D98E77",
+        "color7": "#d0c9bc",
+        "color8": "#918c83",
+        "color9": "#A35759",
+        "color10": "#AC5A5B",
+        "color11": "#CC645E",
+        "color12": "#D97367",
+        "color13": "#E47A6B",
+        "color14": "#D98E77",
+        "color15": "#d0c9bc"
+    }
+}

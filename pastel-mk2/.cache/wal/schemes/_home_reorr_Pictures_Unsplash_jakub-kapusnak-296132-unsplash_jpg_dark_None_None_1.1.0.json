@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jakub-kapusnak-296132-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#19120b",
+        "foreground": "#e3cfc6",
+        "cursor": "#e3cfc6"
+    },
+    "colors": {
+        "color0": "#19120b",
+        "color1": "#A78D6B",
+        "color2": "#D79F4A",
+        "color3": "#027787",
+        "color4": "#5A7C83",
+        "color5": "#4F9CA7",
+        "color6": "#ABA69D",
+        "color7": "#e3cfc6",
+        "color8": "#9e908a",
+        "color9": "#A78D6B",
+        "color10": "#D79F4A",
+        "color11": "#027787",
+        "color12": "#5A7C83",
+        "color13": "#4F9CA7",
+        "color14": "#ABA69D",
+        "color15": "#e3cfc6"
+    }
+}

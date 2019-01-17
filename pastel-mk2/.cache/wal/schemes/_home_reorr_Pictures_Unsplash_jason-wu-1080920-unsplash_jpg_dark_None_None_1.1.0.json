@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jason-wu-1080920-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a030a",
+        "foreground": "#9896d8",
+        "cursor": "#9896d8"
+    },
+    "colors": {
+        "color0": "#0a030a",
+        "color1": "#4E2466",
+        "color2": "#242197",
+        "color3": "#3235B7",
+        "color4": "#53329B",
+        "color5": "#6049AE",
+        "color6": "#303AC8",
+        "color7": "#9896d8",
+        "color8": "#6a6997",
+        "color9": "#4E2466",
+        "color10": "#242197",
+        "color11": "#3235B7",
+        "color12": "#53329B",
+        "color13": "#6049AE",
+        "color14": "#303AC8",
+        "color15": "#9896d8"
+    }
+}

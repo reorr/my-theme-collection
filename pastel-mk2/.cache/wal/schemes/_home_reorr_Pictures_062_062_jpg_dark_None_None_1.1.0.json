@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/062_062.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c120f",
+        "foreground": "#add2db",
+        "cursor": "#add2db"
+    },
+    "colors": {
+        "color0": "#0c120f",
+        "color1": "#304C4C",
+        "color2": "#565E5A",
+        "color3": "#878C68",
+        "color4": "#2A758D",
+        "color5": "#2798A1",
+        "color6": "#53A7AE",
+        "color7": "#add2db",
+        "color8": "#799399",
+        "color9": "#304C4C",
+        "color10": "#565E5A",
+        "color11": "#878C68",
+        "color12": "#2A758D",
+        "color13": "#2798A1",
+        "color14": "#53A7AE",
+        "color15": "#add2db"
+    }
+}

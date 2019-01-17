@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/khai-sze-ong-308080-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1f10",
+        "foreground": "#dce3e3",
+        "cursor": "#dce3e3"
+    },
+    "colors": {
+        "color0": "#1c1f10",
+        "color1": "#A8B2B0",
+        "color2": "#9CCEDD",
+        "color3": "#B5CAD3",
+        "color4": "#9DCFE1",
+        "color5": "#B4D9E7",
+        "color6": "#BEE0EB",
+        "color7": "#dce3e3",
+        "color8": "#9a9e9e",
+        "color9": "#A8B2B0",
+        "color10": "#9CCEDD",
+        "color11": "#B5CAD3",
+        "color12": "#9DCFE1",
+        "color13": "#B4D9E7",
+        "color14": "#BEE0EB",
+        "color15": "#dce3e3"
+    }
+}

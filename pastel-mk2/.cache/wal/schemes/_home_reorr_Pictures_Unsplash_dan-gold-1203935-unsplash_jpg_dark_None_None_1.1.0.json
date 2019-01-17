@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/dan-gold-1203935-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#011C4C",
+        "foreground": "#aac6d9",
+        "cursor": "#aac6d9"
+    },
+    "colors": {
+        "color0": "#011C4C",
+        "color1": "#036DC7",
+        "color2": "#0178EC",
+        "color3": "#857898",
+        "color4": "#0793DC",
+        "color5": "#018FF3",
+        "color6": "#01AFF7",
+        "color7": "#aac6d9",
+        "color8": "#768a97",
+        "color9": "#036DC7",
+        "color10": "#0178EC",
+        "color11": "#857898",
+        "color12": "#0793DC",
+        "color13": "#018FF3",
+        "color14": "#01AFF7",
+        "color15": "#aac6d9"
+    }
+}

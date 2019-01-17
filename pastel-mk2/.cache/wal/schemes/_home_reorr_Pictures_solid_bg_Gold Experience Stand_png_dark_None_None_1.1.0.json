@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/Gold Experience Stand.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12100a",
+        "foreground": "#e1ddb0",
+        "cursor": "#e1ddb0"
+    },
+    "colors": {
+        "color0": "#12100a",
+        "color1": "#D05F68",
+        "color2": "#CB7F7D",
+        "color3": "#E56974",
+        "color4": "#A69C5C",
+        "color5": "#D1AB64",
+        "color6": "#B1C35C",
+        "color7": "#e1ddb0",
+        "color8": "#9d9a7b",
+        "color9": "#D05F68",
+        "color10": "#CB7F7D",
+        "color11": "#E56974",
+        "color12": "#A69C5C",
+        "color13": "#D1AB64",
+        "color14": "#B1C35C",
+        "color15": "#e1ddb0"
+    }
+}

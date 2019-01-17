@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/flat-simple-wallpaper-3.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#243440",
+        "foreground": "#7eb6d8",
+        "cursor": "#7eb6d8"
+    },
+    "colors": {
+        "color0": "#243440",
+        "color1": "#F49A11",
+        "color2": "#F6A413",
+        "color3": "#0B5893",
+        "color4": "#11629B",
+        "color5": "#0E6CAD",
+        "color6": "#497787",
+        "color7": "#7eb6d8",
+        "color8": "#587f97",
+        "color9": "#F49A11",
+        "color10": "#F6A413",
+        "color11": "#0B5893",
+        "color12": "#11629B",
+        "color13": "#0E6CAD",
+        "color14": "#497787",
+        "color15": "#7eb6d8"
+    }
+}

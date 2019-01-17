@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/timothy-dykes-757687-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120a11",
+        "foreground": "#e77796",
+        "cursor": "#e77796"
+    },
+    "colors": {
+        "color0": "#120a11",
+        "color1": "#602A31",
+        "color2": "#6B404D",
+        "color3": "#910129",
+        "color4": "#B1012F",
+        "color5": "#932D32",
+        "color6": "#CB0138",
+        "color7": "#e77796",
+        "color8": "#a15369",
+        "color9": "#602A31",
+        "color10": "#6B404D",
+        "color11": "#910129",
+        "color12": "#B1012F",
+        "color13": "#932D32",
+        "color14": "#CB0138",
+        "color15": "#e77796"
+    }
+}

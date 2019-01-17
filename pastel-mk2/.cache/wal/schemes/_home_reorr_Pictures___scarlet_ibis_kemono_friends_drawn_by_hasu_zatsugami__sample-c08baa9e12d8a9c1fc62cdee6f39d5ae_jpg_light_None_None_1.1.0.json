@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__scarlet_ibis_kemono_friends_drawn_by_hasu_zatsugami__sample-c08baa9e12d8a9c1fc62cdee6f39d5ae.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfdfb",
+        "foreground": "#6F5A62",
+        "cursor": "#6F5A62"
+    },
+    "colors": {
+        "color0": "#fbfdfb",
+        "color1": "#B77D84",
+        "color2": "#B19E9D",
+        "color3": "#D3AC9B",
+        "color4": "#ECA395",
+        "color5": "#D3B5A6",
+        "color6": "#EDD694",
+        "color7": "#6F5A62",
+        "color8": "#8a948a",
+        "color9": "#B77D84",
+        "color10": "#B19E9D",
+        "color11": "#D3AC9B",
+        "color12": "#ECA395",
+        "color13": "#D3B5A6",
+        "color14": "#EDD694",
+        "color15": "#6F5A62"
+    }
+}

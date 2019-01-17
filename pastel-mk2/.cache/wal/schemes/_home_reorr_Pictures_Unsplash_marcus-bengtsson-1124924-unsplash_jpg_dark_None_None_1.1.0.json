@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/marcus-bengtsson-1124924-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e2019",
+        "foreground": "#c9cda0",
+        "cursor": "#c9cda0"
+    },
+    "colors": {
+        "color0": "#1e2019",
+        "color1": "#768C4C",
+        "color2": "#8FB112",
+        "color3": "#95AD2B",
+        "color4": "#AAC913",
+        "color5": "#B3CD2E",
+        "color6": "#C8DC33",
+        "color7": "#c9cda0",
+        "color8": "#8c8f70",
+        "color9": "#768C4C",
+        "color10": "#8FB112",
+        "color11": "#95AD2B",
+        "color12": "#AAC913",
+        "color13": "#B3CD2E",
+        "color14": "#C8DC33",
+        "color15": "#c9cda0"
+    }
+}

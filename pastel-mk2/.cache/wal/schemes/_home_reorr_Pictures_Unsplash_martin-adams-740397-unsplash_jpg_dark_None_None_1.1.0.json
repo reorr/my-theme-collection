@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/martin-adams-740397-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#824b01",
+        "foreground": "#eae4de",
+        "cursor": "#eae4de"
+    },
+    "colors": {
+        "color0": "#824b01",
+        "color1": "#FED790",
+        "color2": "#FDDDA4",
+        "color3": "#E8D3B1",
+        "color4": "#FFE4B2",
+        "color5": "#BCCFD6",
+        "color6": "#C7D8DD",
+        "color7": "#eae4de",
+        "color8": "#a39f9b",
+        "color9": "#FED790",
+        "color10": "#FDDDA4",
+        "color11": "#E8D3B1",
+        "color12": "#FFE4B2",
+        "color13": "#BCCFD6",
+        "color14": "#C7D8DD",
+        "color15": "#eae4de"
+    }
+}

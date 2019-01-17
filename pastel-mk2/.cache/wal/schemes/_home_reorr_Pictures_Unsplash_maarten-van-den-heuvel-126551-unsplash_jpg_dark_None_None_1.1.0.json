@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/maarten-van-den-heuvel-126551-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#c5c7c7",
+        "cursor": "#c5c7c7"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#706F6F",
+        "color2": "#9F2109",
+        "color3": "#CB4E24",
+        "color4": "#A18767",
+        "color5": "#738189",
+        "color6": "#909190",
+        "color7": "#c5c7c7",
+        "color8": "#898b8b",
+        "color9": "#706F6F",
+        "color10": "#9F2109",
+        "color11": "#CB4E24",
+        "color12": "#A18767",
+        "color13": "#738189",
+        "color14": "#909190",
+        "color15": "#c5c7c7"
+    }
+}

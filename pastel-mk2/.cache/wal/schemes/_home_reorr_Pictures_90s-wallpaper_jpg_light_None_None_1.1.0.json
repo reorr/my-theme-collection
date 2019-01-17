@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/90s-wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#2A2325",
+        "cursor": "#2A2325"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#EF8FBB",
+        "color2": "#D3ABAB",
+        "color3": "#95D2B8",
+        "color4": "#A5CBBB",
+        "color5": "#F8EE9E",
+        "color6": "#B39BCD",
+        "color7": "#2A2325",
+        "color8": "#989898",
+        "color9": "#EF8FBB",
+        "color10": "#D3ABAB",
+        "color11": "#95D2B8",
+        "color12": "#A5CBBB",
+        "color13": "#F8EE9E",
+        "color14": "#B39BCD",
+        "color15": "#2A2325"
+    }
+}

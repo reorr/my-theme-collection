@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sharon-mccutcheon-601014-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fafde8",
+        "foreground": "#5F5C0F",
+        "cursor": "#5F5C0F"
+    },
+    "colors": {
+        "color0": "#fafde8",
+        "color1": "#B7C820",
+        "color2": "#B9C62A",
+        "color3": "#C9C61F",
+        "color4": "#CCD028",
+        "color5": "#D6E52F",
+        "color6": "#E4ED33",
+        "color7": "#5F5C0F",
+        "color8": "#88933e",
+        "color9": "#B7C820",
+        "color10": "#B9C62A",
+        "color11": "#C9C61F",
+        "color12": "#CCD028",
+        "color13": "#D6E52F",
+        "color14": "#E4ED33",
+        "color15": "#5F5C0F"
+    }
+}

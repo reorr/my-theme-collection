@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/derek-truninger-41783-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fef8b3",
+        "foreground": "#23140C",
+        "cursor": "#23140C"
+    },
+    "colors": {
+        "color0": "#fef8b3",
+        "color1": "#B67C63",
+        "color2": "#C47C5A",
+        "color3": "#E1AC04",
+        "color4": "#DBBD38",
+        "color5": "#F5CE01",
+        "color6": "#FDE804",
+        "color7": "#23140C",
+        "color8": "#7d6252",
+        "color9": "#B67C63",
+        "color10": "#C47C5A",
+        "color11": "#E1AC04",
+        "color12": "#DBBD38",
+        "color13": "#F5CE01",
+        "color14": "#FDE804",
+        "color15": "#23140C"
+    }
+}

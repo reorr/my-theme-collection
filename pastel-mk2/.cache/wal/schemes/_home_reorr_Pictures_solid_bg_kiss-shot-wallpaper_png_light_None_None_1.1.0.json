@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/kiss-shot-wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfafa",
+        "foreground": "#551D1D",
+        "cursor": "#551D1D"
+    },
+    "colors": {
+        "color0": "#fcfafa",
+        "color1": "#BD8E75",
+        "color2": "#AA9E78",
+        "color3": "#C5947B",
+        "color4": "#EF9C6E",
+        "color5": "#967D81",
+        "color6": "#CD9C83",
+        "color7": "#551D1D",
+        "color8": "#8d8887",
+        "color9": "#BD8E75",
+        "color10": "#AA9E78",
+        "color11": "#C5947B",
+        "color12": "#EF9C6E",
+        "color13": "#967D81",
+        "color14": "#CD9C83",
+        "color15": "#551D1D"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/motif-propre-au-style-memphis.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0300",
+        "foreground": "#cac7c5",
+        "cursor": "#cac7c5"
+    },
+    "colors": {
+        "color0": "#0c0300",
+        "color1": "#245A9F",
+        "color2": "#1E7CF0",
+        "color3": "#2378E8",
+        "color4": "#73D1AB",
+        "color5": "#75E8BF",
+        "color6": "#53BCD5",
+        "color7": "#cac7c5",
+        "color8": "#8d8b89",
+        "color9": "#245A9F",
+        "color10": "#1E7CF0",
+        "color11": "#2378E8",
+        "color12": "#73D1AB",
+        "color13": "#75E8BF",
+        "color14": "#53BCD5",
+        "color15": "#cac7c5"
+    }
+}

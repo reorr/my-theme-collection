@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/life.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#393939",
+        "cursor": "#393939"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#CCCCCC",
+        "color2": "#D4D4D4",
+        "color3": "#DBDBDB",
+        "color4": "#E4E4E4",
+        "color5": "#EDEDED",
+        "color6": "#EEEEEE",
+        "color7": "#393939",
+        "color8": "#959595",
+        "color9": "#CCCCCC",
+        "color10": "#D4D4D4",
+        "color11": "#DBDBDB",
+        "color12": "#E4E4E4",
+        "color13": "#EDEDED",
+        "color14": "#EEEEEE",
+        "color15": "#393939"
+    }
+}

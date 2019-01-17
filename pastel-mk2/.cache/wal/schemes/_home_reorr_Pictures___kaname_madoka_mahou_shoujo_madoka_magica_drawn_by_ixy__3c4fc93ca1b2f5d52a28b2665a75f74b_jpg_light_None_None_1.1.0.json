@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__kaname_madoka_mahou_shoujo_madoka_magica_drawn_by_ixy__3c4fc93ca1b2f5d52a28b2665a75f74b.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfbfb",
+        "foreground": "#71595A",
+        "cursor": "#71595A"
+    },
+    "colors": {
+        "color0": "#fdfbfb",
+        "color1": "#FD8DA3",
+        "color2": "#D1ADB3",
+        "color3": "#F1ADB4",
+        "color4": "#DDCEB7",
+        "color5": "#CEBAC4",
+        "color6": "#F5B8C9",
+        "color7": "#71595A",
+        "color8": "#948b8c",
+        "color9": "#FD8DA3",
+        "color10": "#D1ADB3",
+        "color11": "#F1ADB4",
+        "color12": "#DDCEB7",
+        "color13": "#CEBAC4",
+        "color14": "#F5B8C9",
+        "color15": "#71595A"
+    }
+}

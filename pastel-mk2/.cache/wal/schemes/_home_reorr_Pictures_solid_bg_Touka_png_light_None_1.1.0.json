@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/Touka.png",
+    "alpha": "100",
+    "special": {
+        "background": "#FAFBFB",
+        "foreground": "#514F4B",
+        "cursor": "#514F4B"
+    },
+    "colors": {
+        "color0": "#FAFBFB",
+        "color1": "#768D94",
+        "color2": "#59A7B4",
+        "color3": "#A3A59D",
+        "color4": "#D19B97",
+        "color5": "#BEC6BB",
+        "color6": "#D3D2D0",
+        "color7": "#514F4B",
+        "color8": "#87898a",
+        "color9": "#768D94",
+        "color10": "#59A7B4",
+        "color11": "#A3A59D",
+        "color12": "#D19B97",
+        "color13": "#BEC6BB",
+        "color14": "#D3D2D0",
+        "color15": "#514F4B"
+    }
+}

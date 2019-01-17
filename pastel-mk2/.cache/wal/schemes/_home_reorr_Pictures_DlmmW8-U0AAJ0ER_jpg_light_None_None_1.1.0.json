@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/DlmmW8-U0AAJ0ER.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfb",
+        "foreground": "#0D3336",
+        "cursor": "#0D3336"
+    },
+    "colors": {
+        "color0": "#fefdfb",
+        "color1": "#249DB2",
+        "color2": "#5E969B",
+        "color3": "#3EAFC3",
+        "color4": "#9D9E9A",
+        "color5": "#ABACAC",
+        "color6": "#E2B3A3",
+        "color7": "#0D3336",
+        "color8": "#97938a",
+        "color9": "#249DB2",
+        "color10": "#5E969B",
+        "color11": "#3EAFC3",
+        "color12": "#9D9E9A",
+        "color13": "#ABACAC",
+        "color14": "#E2B3A3",
+        "color15": "#0D3336"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Near-HakureiReimu-Cosplay-by-KitamiEri-37.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090809",
+        "foreground": "#e2cdbe",
+        "cursor": "#e2cdbe"
+    },
+    "colors": {
+        "color0": "#090809",
+        "color1": "#A06F56",
+        "color2": "#D0813E",
+        "color3": "#B48C6B",
+        "color4": "#CC9777",
+        "color5": "#B07B83",
+        "color6": "#B39396",
+        "color7": "#e2cdbe",
+        "color8": "#9e8f85",
+        "color9": "#A06F56",
+        "color10": "#D0813E",
+        "color11": "#B48C6B",
+        "color12": "#CC9777",
+        "color13": "#B07B83",
+        "color14": "#B39396",
+        "color15": "#e2cdbe"
+    }
+}

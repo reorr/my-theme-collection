@@ -1,0 +1,32 @@
+#!/bin/env bash
+#requirements amixer, fn-notify
+
+change_volume() {
+    amixer set Master "$1"
+    vol=$(amixer get Master | awk '$0~/%/{print $4}' | tr -d '[]' |awk NR==1| awk 'BEGIN{RS="%\n"}1')
+    stat=$(amixer get Master | awk '$0~/%/{print $6}' | tr -d '[]' |awk NR==1| awk 'BEGIN{RS="%\n"}1')
+    #notify-send --expire-time=50 "Volume $anu"
+
+    fn-notify vol $vol
+}
+
+main() {
+    case "$1" in
+      up)
+         change_volume 2%+
+         ;;
+      down)
+         change_volume 2%-
+         ;;
+      toggle)
+	 change_volume toggle
+	 ;;
+     *)
+         printf "volume <command>\n"
+         printf "         up \n"
+         printf "         down\n"
+	 printf "	  toggle\n"
+    esac
+}
+
+main "$@"

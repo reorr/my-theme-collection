@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/1480355327175.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#212B36",
+        "cursor": "#212B36"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#498FCB",
+        "color2": "#52ACD4",
+        "color3": "#6BB2D9",
+        "color4": "#62C5DF",
+        "color5": "#69C4DD",
+        "color6": "#75CEE2",
+        "color7": "#212B36",
+        "color8": "#969798",
+        "color9": "#498FCB",
+        "color10": "#52ACD4",
+        "color11": "#6BB2D9",
+        "color12": "#62C5DF",
+        "color13": "#69C4DD",
+        "color14": "#75CEE2",
+        "color15": "#212B36"
+    }
+}

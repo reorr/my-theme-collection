@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/komadori2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#221e1d",
+        "foreground": "#c9c4c7",
+        "cursor": "#c9c4c7"
+    },
+    "colors": {
+        "color0": "#221e1d",
+        "color1": "#A45C6D",
+        "color2": "#AE616A",
+        "color3": "#725F81",
+        "color4": "#766385",
+        "color5": "#8B7791",
+        "color6": "#918687",
+        "color7": "#c9c4c7",
+        "color8": "#8c898b",
+        "color9": "#A45C6D",
+        "color10": "#AE616A",
+        "color11": "#725F81",
+        "color12": "#766385",
+        "color13": "#8B7791",
+        "color14": "#918687",
+        "color15": "#c9c4c7"
+    }
+}

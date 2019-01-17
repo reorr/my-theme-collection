@@ -1,0 +1,23 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[Filesystem root]
+row=0
+col=0
+
+[boot]
+row=1
+col=0
+
+[home]
+row=2
+col=0
+
+[/]
+row=3
+col=0
+
+[/home/reorr]
+row=4
+col=0
+

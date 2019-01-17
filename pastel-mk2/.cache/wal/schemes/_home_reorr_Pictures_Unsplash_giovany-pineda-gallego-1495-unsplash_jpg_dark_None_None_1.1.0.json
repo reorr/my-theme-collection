@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/giovany-pineda-gallego-1495-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#061B2B",
+        "foreground": "#c1c9cc",
+        "cursor": "#c1c9cc"
+    },
+    "colors": {
+        "color0": "#061B2B",
+        "color1": "#276591",
+        "color2": "#4E768C",
+        "color3": "#5A7996",
+        "color4": "#6B8C98",
+        "color5": "#5098B9",
+        "color6": "#638FA2",
+        "color7": "#c1c9cc",
+        "color8": "#878c8e",
+        "color9": "#276591",
+        "color10": "#4E768C",
+        "color11": "#5A7996",
+        "color12": "#6B8C98",
+        "color13": "#5098B9",
+        "color14": "#638FA2",
+        "color15": "#c1c9cc"
+    }
+}

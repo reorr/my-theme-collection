@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/light-like-pastel.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#4B3652",
+        "cursor": "#4B3652"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#D79AA1",
+        "color2": "#D0B3B3",
+        "color3": "#E2CCB4",
+        "color4": "#B7B2C8",
+        "color5": "#CDB9CB",
+        "color6": "#F3B4CB",
+        "color7": "#4B3652",
+        "color8": "#979797",
+        "color9": "#D79AA1",
+        "color10": "#D0B3B3",
+        "color11": "#E2CCB4",
+        "color12": "#B7B2C8",
+        "color13": "#CDB9CB",
+        "color14": "#F3B4CB",
+        "color15": "#4B3652"
+    }
+}

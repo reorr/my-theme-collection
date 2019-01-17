@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/tomoko-uji-710338-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1119",
+        "foreground": "#a7bab5",
+        "cursor": "#a7bab5"
+    },
+    "colors": {
+        "color0": "#0E1119",
+        "color1": "#1A3749",
+        "color2": "#283B48",
+        "color3": "#2A4B4B",
+        "color4": "#2A555C",
+        "color5": "#61625C",
+        "color6": "#8A7969",
+        "color7": "#a7bab5",
+        "color8": "#74827e",
+        "color9": "#1A3749",
+        "color10": "#283B48",
+        "color11": "#2A4B4B",
+        "color12": "#2A555C",
+        "color13": "#61625C",
+        "color14": "#8A7969",
+        "color15": "#a7bab5"
+    }
+}

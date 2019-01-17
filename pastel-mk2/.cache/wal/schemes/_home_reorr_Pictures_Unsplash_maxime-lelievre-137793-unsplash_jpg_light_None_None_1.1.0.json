@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/maxime-lelievre-137793-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfb",
+        "foreground": "#182227",
+        "cursor": "#182227"
+    },
+    "colors": {
+        "color0": "#fcfcfb",
+        "color1": "#A19D94",
+        "color2": "#B4B6AF",
+        "color3": "#C7B7A5",
+        "color4": "#BDC2BB",
+        "color5": "#C7C5B8",
+        "color6": "#E2C9A1",
+        "color7": "#182227",
+        "color8": "#8f908c",
+        "color9": "#A19D94",
+        "color10": "#B4B6AF",
+        "color11": "#C7B7A5",
+        "color12": "#BDC2BB",
+        "color13": "#C7C5B8",
+        "color14": "#E2C9A1",
+        "color15": "#182227"
+    }
+}

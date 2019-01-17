@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/dowman-s/tumblr_o00lpxEJ8l1qal9wqo1_1280.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040404",
+        "foreground": "#e2d9d4",
+        "cursor": "#e2d9d4"
+    },
+    "colors": {
+        "color0": "#040404",
+        "color1": "#A4A594",
+        "color2": "#EB8C88",
+        "color3": "#CCB2AA",
+        "color4": "#9EC18E",
+        "color5": "#A1C390",
+        "color6": "#B4D4A3",
+        "color7": "#e2d9d4",
+        "color8": "#9e9794",
+        "color9": "#A4A594",
+        "color10": "#EB8C88",
+        "color11": "#CCB2AA",
+        "color12": "#9EC18E",
+        "color13": "#A1C390",
+        "color14": "#B4D4A3",
+        "color15": "#e2d9d4"
+    }
+}

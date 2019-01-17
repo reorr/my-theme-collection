@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__mitsumine_mashiro_mikakunin_de_shinkoukei_drawn_by_ixy__ff338a611be93bdaf467af9e1f036b20.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefd",
+        "foreground": "#262529",
+        "cursor": "#262529"
+    },
+    "colors": {
+        "color0": "#fefefd",
+        "color1": "#946461",
+        "color2": "#A08B75",
+        "color3": "#596B8B",
+        "color4": "#677985",
+        "color5": "#7B8E98",
+        "color6": "#959497",
+        "color7": "#262529",
+        "color8": "#979694",
+        "color9": "#946461",
+        "color10": "#A08B75",
+        "color11": "#596B8B",
+        "color12": "#677985",
+        "color13": "#7B8E98",
+        "color14": "#959497",
+        "color15": "#262529"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 246576 alice_in_wonderland animal_ears apron aqua_eyes blush bow bunny_ears dress headband izuminanase kafuu_chino loli long_hair thighhighs.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#362746",
+        "foreground": "#eedfe2",
+        "cursor": "#eedfe2"
+    },
+    "colors": {
+        "color0": "#362746",
+        "color1": "#A7A3DD",
+        "color2": "#B2B0D4",
+        "color3": "#D6B7D0",
+        "color4": "#B3C7D8",
+        "color5": "#BCD1EB",
+        "color6": "#D5CCD0",
+        "color7": "#eedfe2",
+        "color8": "#a69c9e",
+        "color9": "#A7A3DD",
+        "color10": "#B2B0D4",
+        "color11": "#D6B7D0",
+        "color12": "#B3C7D8",
+        "color13": "#BCD1EB",
+        "color14": "#D5CCD0",
+        "color15": "#eedfe2"
+    }
+}

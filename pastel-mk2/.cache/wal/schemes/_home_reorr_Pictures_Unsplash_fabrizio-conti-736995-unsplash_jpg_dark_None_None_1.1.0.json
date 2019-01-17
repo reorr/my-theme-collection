@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/fabrizio-conti-736995-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111e1c",
+        "foreground": "#bfcec9",
+        "cursor": "#bfcec9"
+    },
+    "colors": {
+        "color0": "#111e1c",
+        "color1": "#4D725C",
+        "color2": "#3B835A",
+        "color3": "#5D8D5F",
+        "color4": "#719776",
+        "color5": "#378586",
+        "color6": "#689993",
+        "color7": "#bfcec9",
+        "color8": "#85908c",
+        "color9": "#4D725C",
+        "color10": "#3B835A",
+        "color11": "#5D8D5F",
+        "color12": "#719776",
+        "color13": "#378586",
+        "color14": "#689993",
+        "color15": "#bfcec9"
+    }
+}

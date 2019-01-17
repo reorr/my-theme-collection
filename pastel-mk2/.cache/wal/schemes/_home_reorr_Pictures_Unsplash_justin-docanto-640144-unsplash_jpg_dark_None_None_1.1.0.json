@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/justin-docanto-640144-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#c7868c",
+        "cursor": "#c7868c"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#672227",
+        "color2": "#40453A",
+        "color3": "#504739",
+        "color4": "#5C584F",
+        "color5": "#8F0913",
+        "color6": "#B00B14",
+        "color7": "#c7868c",
+        "color8": "#8b5d62",
+        "color9": "#672227",
+        "color10": "#40453A",
+        "color11": "#504739",
+        "color12": "#5C584F",
+        "color13": "#8F0913",
+        "color14": "#B00B14",
+        "color15": "#c7868c"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/philippe-toupet-319849-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1215",
+        "foreground": "#ecbca3",
+        "cursor": "#ecbca3"
+    },
+    "colors": {
+        "color0": "#1b1215",
+        "color1": "#C65A2C",
+        "color2": "#D2632E",
+        "color3": "#D16838",
+        "color4": "#D87445",
+        "color5": "#E27B48",
+        "color6": "#B58774",
+        "color7": "#ecbca3",
+        "color8": "#a58372",
+        "color9": "#C65A2C",
+        "color10": "#D2632E",
+        "color11": "#D16838",
+        "color12": "#D87445",
+        "color13": "#E27B48",
+        "color14": "#B58774",
+        "color15": "#ecbca3"
+    }
+}

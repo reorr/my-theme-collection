@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Konachan.com - 261405 2girls blue_hair blush kagamihara_nadeshiko neps-l pink_hair purple_eyes scarf seifuku shima_rin signed skirt tie waifu2x yuru_camp.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fffffd",
+        "foreground": "#4F4B63",
+        "cursor": "#4F4B63"
+    },
+    "colors": {
+        "color0": "#fffffd",
+        "color1": "#6578A2",
+        "color2": "#A27990",
+        "color3": "#B0949A",
+        "color4": "#E5AD8E",
+        "color5": "#D9A0A5",
+        "color6": "#F3D3AB",
+        "color7": "#4F4B63",
+        "color8": "#999994",
+        "color9": "#6578A2",
+        "color10": "#A27990",
+        "color11": "#B0949A",
+        "color12": "#E5AD8E",
+        "color13": "#D9A0A5",
+        "color14": "#F3D3AB",
+        "color15": "#4F4B63"
+    }
+}

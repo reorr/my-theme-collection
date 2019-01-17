@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/joshua-coleman-763674-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3f4546",
+        "foreground": "#cae6eb",
+        "cursor": "#cae6eb"
+    },
+    "colors": {
+        "color0": "#3f4546",
+        "color1": "#03EAF8",
+        "color2": "#31E5EB",
+        "color3": "#67E0E7",
+        "color4": "#95A7B1",
+        "color5": "#A6B9CA",
+        "color6": "#BBBCCA",
+        "color7": "#cae6eb",
+        "color8": "#8da1a4",
+        "color9": "#03EAF8",
+        "color10": "#31E5EB",
+        "color11": "#67E0E7",
+        "color12": "#95A7B1",
+        "color13": "#A6B9CA",
+        "color14": "#BBBCCA",
+        "color15": "#cae6eb"
+    }
+}

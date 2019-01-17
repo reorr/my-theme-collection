@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/luke-van-zyl-548786-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1214",
+        "foreground": "#d7d5c5",
+        "cursor": "#d7d5c5"
+    },
+    "colors": {
+        "color0": "#0c1214",
+        "color1": "#6D9366",
+        "color2": "#7F8670",
+        "color3": "#8D9C74",
+        "color4": "#8AC775",
+        "color5": "#94AA8F",
+        "color6": "#A3AD98",
+        "color7": "#d7d5c5",
+        "color8": "#969589",
+        "color9": "#6D9366",
+        "color10": "#7F8670",
+        "color11": "#8D9C74",
+        "color12": "#8AC775",
+        "color13": "#94AA8F",
+        "color14": "#A3AD98",
+        "color15": "#d7d5c5"
+    }
+}

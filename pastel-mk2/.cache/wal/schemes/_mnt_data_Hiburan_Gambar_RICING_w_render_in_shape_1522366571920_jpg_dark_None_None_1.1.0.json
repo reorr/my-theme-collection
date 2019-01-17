@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/RICING/w/render_in_shape/1522366571920.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#d5d9e0",
+        "cursor": "#d5d9e0"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#A09D9A",
+        "color2": "#D4B196",
+        "color3": "#FBF195",
+        "color4": "#DACCAF",
+        "color5": "#94A3DA",
+        "color6": "#A6B3E5",
+        "color7": "#d5d9e0",
+        "color8": "#95979c",
+        "color9": "#A09D9A",
+        "color10": "#D4B196",
+        "color11": "#FBF195",
+        "color12": "#DACCAF",
+        "color13": "#94A3DA",
+        "color14": "#A6B3E5",
+        "color15": "#d5d9e0"
+    }
+}

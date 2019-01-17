@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/kanna.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#fefbfd",
+        "foreground": "#755891",
+        "cursor": "#755891"
+    },
+    "colors": {
+        "color0": "#fefbfd",
+        "color1": "#D2A7B8",
+        "color2": "#B6A4D2",
+        "color3": "#E7D0B6",
+        "color4": "#D3B2CB",
+        "color5": "#CCADD7",
+        "color6": "#ECB8CD",
+        "color7": "#755891",
+        "color8": "#968c94",
+        "color9": "#D2A7B8",
+        "color10": "#B6A4D2",
+        "color11": "#E7D0B6",
+        "color12": "#D3B2CB",
+        "color13": "#CCADD7",
+        "color14": "#ECB8CD",
+        "color15": "#755891"
+    }
+}

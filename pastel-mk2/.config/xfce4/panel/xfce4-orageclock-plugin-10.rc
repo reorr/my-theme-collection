@@ -1,0 +1,13 @@
+show_frame=false
+fg_set=true
+bg_set=false
+timezone=
+width_set=true
+width=120
+height_set=false
+data0=%a %d  %I:%M %p
+font0=Abel 10
+tooltip=%a %b %d
+hib_timing=false
+fg=63222R 49601G 52171B
+

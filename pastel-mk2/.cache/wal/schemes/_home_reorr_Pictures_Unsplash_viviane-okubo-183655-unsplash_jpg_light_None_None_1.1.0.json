@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/viviane-okubo-183655-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#ebf5ff",
+        "foreground": "#0E317B",
+        "cursor": "#0E317B"
+    },
+    "colors": {
+        "color0": "#ebf5ff",
+        "color1": "#2665D7",
+        "color2": "#2F75F2",
+        "color3": "#4475DD",
+        "color4": "#3587D9",
+        "color5": "#3A88FE",
+        "color6": "#5E86D5",
+        "color7": "#0E317B",
+        "color8": "#4c7399",
+        "color9": "#2665D7",
+        "color10": "#2F75F2",
+        "color11": "#4475DD",
+        "color12": "#3587D9",
+        "color13": "#3A88FE",
+        "color14": "#5E86D5",
+        "color15": "#0E317B"
+    }
+}

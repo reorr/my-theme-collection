@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 226700 sample.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#251f1e",
+        "foreground": "#d3cfd2",
+        "cursor": "#d3cfd2"
+    },
+    "colors": {
+        "color0": "#251f1e",
+        "color1": "#3D75B4",
+        "color2": "#646B89",
+        "color3": "#6B93AE",
+        "color4": "#5896D8",
+        "color5": "#6DB0F7",
+        "color6": "#A2A8A4",
+        "color7": "#d3cfd2",
+        "color8": "#939093",
+        "color9": "#3D75B4",
+        "color10": "#646B89",
+        "color11": "#6B93AE",
+        "color12": "#5896D8",
+        "color13": "#6DB0F7",
+        "color14": "#A2A8A4",
+        "color15": "#d3cfd2"
+    }
+}

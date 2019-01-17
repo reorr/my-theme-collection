@@ -1,0 +1,82 @@
+#!/usr/bin/env bash
+#source "$HOME/Saus/sys-admin/scripts/rofi-widgets/wrapper/rofi.sh"
+
+# Redirect stdout to /dev/null
+#exec 1>/dev/null
+# Redirect stderr to stdout
+#exec 2>&1
+
+# Override definitions in rofi-effects.sh
+source "$HOME/.bin/rofi-effects";
+source "$HOME/.bin/albumart"
+COVER=/tmp/rofi-cover.png
+get_cover
+
+title="$(mpc --format "%artist% - %title%" current -p 6600)"
+mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+
+if [[ $(pgrep "rofi") ]]; then
+	exit 1
+fi
+
+config="~/.cache/wal/music-background.rasi"
+
+if [[ -n "$src" ]] ; then
+	convert "$src" -resize 230x "$COVER"
+fi
+
+echo $COVER
+
+if [[ -z $title ]]; then
+    current="No Song Playing"
+else
+    current="Now Playing: $title"
+fi
+
+current_number="$(mpc | sed -n "2p" | cut -d "#" -f 2 | cut -d "/" -f 1)"
+
+rofi_commands="rofi -dmenu -i -config $config  -fake-transparency -fake-background $COVER -location 6"
+
+display() {
+	TITLE="$(mpc playlist | $rofi_commands -selected-row $((current_number - 1)) -mesg "$current")"
+	if [ "$TITLE" = "" ]; then exit; fi
+	POS=$(mpc playlist | grep -n "^$TITLE$" | sed -n '1p' | cut -d ":" -f 1)
+	echo "$TITLE"
+	echo "$POS"
+	mpc play "$POS"
+	mpc-notif
+}
+
+action() {
+	options=$'List\nPlay/Pause\nNext\nPrev\nRandom'
+	list=$(echo "$options" | $rofi_commands -selected-row 1  -mesg "$current")
+	case $list in
+		"List" )
+			display &
+			sleep 0.8
+			rofi_window_pop +
+			;;
+		"Play/Pause" )
+			mpc toggle
+			mpc-notif
+			;;
+		"Prev" )
+			mpc prev
+			mpc-notif
+			;;
+		"Next" )
+			mpc next
+			mpc-notif
+			;;
+		"Random" )
+			mpc random
+			mpc-notif
+			;;
+	esac
+
+}
+
+action &
+#display &
+sleep 0.8
+rofi_window_pop +

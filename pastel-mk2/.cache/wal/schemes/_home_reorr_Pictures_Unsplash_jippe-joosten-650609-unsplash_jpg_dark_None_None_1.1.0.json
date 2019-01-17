@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jippe-joosten-650609-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#320722",
+        "foreground": "#a187d2",
+        "cursor": "#a187d2"
+    },
+    "colors": {
+        "color0": "#320722",
+        "color1": "#B20050",
+        "color2": "#950869",
+        "color3": "#CF0052",
+        "color4": "#EB005A",
+        "color5": "#F60068",
+        "color6": "#5A1CA1",
+        "color7": "#a187d2",
+        "color8": "#705e93",
+        "color9": "#B20050",
+        "color10": "#950869",
+        "color11": "#CF0052",
+        "color12": "#EB005A",
+        "color13": "#F60068",
+        "color14": "#5A1CA1",
+        "color15": "#a187d2"
+    }
+}

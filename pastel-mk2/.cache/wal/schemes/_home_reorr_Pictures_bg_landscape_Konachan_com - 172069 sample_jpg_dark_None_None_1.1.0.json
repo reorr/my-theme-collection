@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 172069 sample.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#041237",
+        "foreground": "#adbccb",
+        "cursor": "#adbccb"
+    },
+    "colors": {
+        "color0": "#041237",
+        "color1": "#57546B",
+        "color2": "#967279",
+        "color3": "#0A398A",
+        "color4": "#1B5598",
+        "color5": "#5B6E94",
+        "color6": "#0D76C6",
+        "color7": "#adbccb",
+        "color8": "#79838e",
+        "color9": "#57546B",
+        "color10": "#967279",
+        "color11": "#0A398A",
+        "color12": "#1B5598",
+        "color13": "#5B6E94",
+        "color14": "#0D76C6",
+        "color15": "#adbccb"
+    }
+}

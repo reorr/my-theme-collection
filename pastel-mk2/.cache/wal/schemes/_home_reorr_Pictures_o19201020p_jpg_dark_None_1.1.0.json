@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/o19201020p.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091E21",
+        "foreground": "#bfe1ee",
+        "cursor": "#bfe1ee"
+    },
+    "colors": {
+        "color0": "#091E21",
+        "color1": "#0A9ACF",
+        "color2": "#75CBEC",
+        "color3": "#9DB1AF",
+        "color4": "#95B1B2",
+        "color5": "#A8C8CF",
+        "color6": "#BFD0D4",
+        "color7": "#bfe1ee",
+        "color8": "#859da6",
+        "color9": "#0A9ACF",
+        "color10": "#75CBEC",
+        "color11": "#9DB1AF",
+        "color12": "#95B1B2",
+        "color13": "#A8C8CF",
+        "color14": "#BFD0D4",
+        "color15": "#bfe1ee"
+    }
+}

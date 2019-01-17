@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/textures and patterns/one23.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#392523",
+        "foreground": "#e1bbbd",
+        "cursor": "#e1bbbd"
+    },
+    "colors": {
+        "color0": "#392523",
+        "color1": "#C3737D",
+        "color2": "#B68976",
+        "color3": "#C5927A",
+        "color4": "#A97C81",
+        "color5": "#D37D88",
+        "color6": "#AA918F",
+        "color7": "#e1bbbd",
+        "color8": "#9d8284",
+        "color9": "#C3737D",
+        "color10": "#B68976",
+        "color11": "#C5927A",
+        "color12": "#A97C81",
+        "color13": "#D37D88",
+        "color14": "#AA918F",
+        "color15": "#e1bbbd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/laura-lefurgey-smith-106938-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#d4dbe3",
+        "foreground": "#3A3A3A",
+        "cursor": "#3A3A3A"
+    },
+    "colors": {
+        "color0": "#d4dbe3",
+        "color1": "#9B6B54",
+        "color2": "#6F8A49",
+        "color3": "#B3946A",
+        "color4": "#5D738D",
+        "color5": "#AB7187",
+        "color6": "#7189A3",
+        "color7": "#3A3A3A",
+        "color8": "#919291",
+        "color9": "#9B6B54",
+        "color10": "#6F8A49",
+        "color11": "#B3946A",
+        "color12": "#5D738D",
+        "color13": "#AB7187",
+        "color14": "#7189A3",
+        "color15": "#3A3A3A"
+    }
+}

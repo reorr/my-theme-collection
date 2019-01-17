@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/rich-hay-1065194-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131a0d",
+        "foreground": "#85c0bf",
+        "cursor": "#85c0bf"
+    },
+    "colors": {
+        "color0": "#131a0d",
+        "color1": "#708D23",
+        "color2": "#4F885E",
+        "color3": "#90A22E",
+        "color4": "#A2A355",
+        "color5": "#BFC55D",
+        "color6": "#457C83",
+        "color7": "#85c0bf",
+        "color8": "#5d8685",
+        "color9": "#708D23",
+        "color10": "#4F885E",
+        "color11": "#90A22E",
+        "color12": "#A2A355",
+        "color13": "#BFC55D",
+        "color14": "#457C83",
+        "color15": "#85c0bf"
+    }
+}

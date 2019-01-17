@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/morning.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#112008",
+        "foreground": "#d0d6bb",
+        "cursor": "#d0d6bb"
+    },
+    "colors": {
+        "color0": "#112008",
+        "color1": "#AA9B5B",
+        "color2": "#D9B164",
+        "color3": "#FAD55B",
+        "color4": "#FBD074",
+        "color5": "#FEEE75",
+        "color6": "#7FB886",
+        "color7": "#d0d6bb",
+        "color8": "#919582",
+        "color9": "#AA9B5B",
+        "color10": "#D9B164",
+        "color11": "#FAD55B",
+        "color12": "#FBD074",
+        "color13": "#FEEE75",
+        "color14": "#7FB886",
+        "color15": "#d0d6bb"
+    }
+}

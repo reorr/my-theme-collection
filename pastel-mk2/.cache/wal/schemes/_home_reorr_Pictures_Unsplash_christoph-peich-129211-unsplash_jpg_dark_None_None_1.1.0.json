@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/christoph-peich-129211-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151220",
+        "foreground": "#e0cca5",
+        "cursor": "#e0cca5"
+    },
+    "colors": {
+        "color0": "#151220",
+        "color1": "#6B544B",
+        "color2": "#756250",
+        "color3": "#98763B",
+        "color4": "#906E52",
+        "color5": "#C49C34",
+        "color6": "#AF8C51",
+        "color7": "#e0cca5",
+        "color8": "#9c8e73",
+        "color9": "#6B544B",
+        "color10": "#756250",
+        "color11": "#98763B",
+        "color12": "#906E52",
+        "color13": "#C49C34",
+        "color14": "#AF8C51",
+        "color15": "#e0cca5"
+    }
+}

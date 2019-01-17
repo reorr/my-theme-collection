@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/paola-aguilar-422313-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#242021",
+        "foreground": "#dcabcc",
+        "cursor": "#dcabcc"
+    },
+    "colors": {
+        "color0": "#242021",
+        "color1": "#CBAE48",
+        "color2": "#DCAB69",
+        "color3": "#ECCB50",
+        "color4": "#E2D366",
+        "color5": "#156E9C",
+        "color6": "#B36298",
+        "color7": "#dcabcc",
+        "color8": "#9a778e",
+        "color9": "#CBAE48",
+        "color10": "#DCAB69",
+        "color11": "#ECCB50",
+        "color12": "#E2D366",
+        "color13": "#156E9C",
+        "color14": "#B36298",
+        "color15": "#dcabcc"
+    }
+}

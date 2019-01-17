@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/Our Night Under The Stars.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#01050B",
+        "foreground": "#aebbc7",
+        "cursor": "#aebbc7"
+    },
+    "colors": {
+        "color0": "#01050B",
+        "color1": "#284862",
+        "color2": "#2B4F6E",
+        "color3": "#455E77",
+        "color4": "#3B6284",
+        "color5": "#4D708F",
+        "color6": "#617D99",
+        "color7": "#aebbc7",
+        "color8": "#79828b",
+        "color9": "#284862",
+        "color10": "#2B4F6E",
+        "color11": "#455E77",
+        "color12": "#3B6284",
+        "color13": "#4D708F",
+        "color14": "#617D99",
+        "color15": "#aebbc7"
+    }
+}

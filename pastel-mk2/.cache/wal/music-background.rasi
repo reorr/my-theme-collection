@@ -1,0 +1,93 @@
+* {
+    active-background: #fefbfd;
+    active-foreground: @foreground;
+    normal-background: @background;
+    normal-foreground: @foreground;
+    urgent-background: #fefbfd;
+    urgent-foreground: @foreground;
+
+    alternate-active-background: @background;
+    alternate-active-foreground: @foreground;
+    alternate-normal-background: @background;
+    alternate-normal-foreground: @foreground;
+    alternate-urgent-background: @background;
+    alternate-urgent-foreground: @foreground;
+
+    selected-active-background: #fefbfd;
+    selected-active-foreground: @foreground;
+    selected-normal-background: #5a89af;
+    selected-normal-foreground: @foreground;
+    selected-urgent-background: #b4575e;
+    selected-urgent-foreground: @foreground;
+
+    background-color: @background;
+    background: #00000000;
+    foreground: #755891;
+    border-color: @background;
+
+    font: "Abel 11";
+    padding: 5px 10px;
+    
+    spacing: 0;
+    border: 0;
+    padding: 0;
+}
+
+#window {
+    background-color: @background;
+	orientation: horizontal;
+	children: [coverbox, horibox];
+    height: 230px;
+    width: 600px;
+}
+
+#horibox {
+    children: [entry, message, listview];
+	orientation: vertical;
+}
+
+#textbox {
+    expand: false;
+    height: 30px;
+    width: 100%;
+    padding: 10px 20px 10px 20px;
+    background-color: #fefbfd;
+    color: #755891;
+}
+
+#entry {
+    font: "Abel 15";
+    layout:     horizontal;
+    expand:     false;
+    width: 100%;
+    height: 30px;
+    padding: 20px 20px 0 20px;
+    background-color: #fefbfd;
+    color: #755891;
+}
+
+#coverbox {
+    border: 0px;
+    border-color: #fefbfd;
+	expand: false;
+	width: 230px;
+}
+
+#listview {
+    border: 0 20px 20px 10px;
+    border-color: #fefbfd;
+	background-color: #fefbfd;
+    fixed-height: 0;
+    padding: 10px 10px 0px 10px;
+    spacing: 0.5em;
+    scrollbar: false;
+}
+
+#element {
+	text-color: #755891;
+    padding: 0 0 10px;
+}
+
+#element selected {
+  text-color: #B6A4D2;
+}

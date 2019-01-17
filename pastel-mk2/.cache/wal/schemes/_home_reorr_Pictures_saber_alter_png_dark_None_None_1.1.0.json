@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/saber_alter.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1125",
+        "foreground": "#dfcdd5",
+        "cursor": "#dfcdd5"
+    },
+    "colors": {
+        "color0": "#0D1125",
+        "color1": "#5C729F",
+        "color2": "#6B8B9C",
+        "color3": "#7293AD",
+        "color4": "#7497C9",
+        "color5": "#8C9BAB",
+        "color6": "#8EA7B8",
+        "color7": "#dfcdd5",
+        "color8": "#9c8f95",
+        "color9": "#5C729F",
+        "color10": "#6B8B9C",
+        "color11": "#7293AD",
+        "color12": "#7497C9",
+        "color13": "#8C9BAB",
+        "color14": "#8EA7B8",
+        "color15": "#dfcdd5"
+    }
+}

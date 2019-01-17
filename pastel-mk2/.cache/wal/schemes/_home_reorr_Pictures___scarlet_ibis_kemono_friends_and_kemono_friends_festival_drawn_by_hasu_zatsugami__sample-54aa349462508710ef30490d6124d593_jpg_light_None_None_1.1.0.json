@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__scarlet_ibis_kemono_friends_and_kemono_friends_festival_drawn_by_hasu_zatsugami__sample-54aa349462508710ef30490d6124d593.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfc",
+        "foreground": "#784C56",
+        "cursor": "#784C56"
+    },
+    "colors": {
+        "color0": "#fefdfc",
+        "color1": "#FFC251",
+        "color2": "#AE5B8A",
+        "color3": "#C94C9D",
+        "color4": "#DC6493",
+        "color5": "#F78B91",
+        "color6": "#CB9DAD",
+        "color7": "#784C56",
+        "color8": "#96948d",
+        "color9": "#FFC251",
+        "color10": "#AE5B8A",
+        "color11": "#C94C9D",
+        "color12": "#DC6493",
+        "color13": "#F78B91",
+        "color14": "#CB9DAD",
+        "color15": "#784C56"
+    }
+}

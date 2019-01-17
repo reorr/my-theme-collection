@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/omaily-lucas-1105074-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3c1b0f",
+        "foreground": "#f0d3da",
+        "cursor": "#f0d3da"
+    },
+    "colors": {
+        "color0": "#3c1b0f",
+        "color1": "#E99E1D",
+        "color2": "#E5AD5C",
+        "color3": "#F9CA66",
+        "color4": "#AFA9A7",
+        "color5": "#E5A4A7",
+        "color6": "#F3D5A2",
+        "color7": "#f0d3da",
+        "color8": "#a89398",
+        "color9": "#E99E1D",
+        "color10": "#E5AD5C",
+        "color11": "#F9CA66",
+        "color12": "#AFA9A7",
+        "color13": "#E5A4A7",
+        "color14": "#F3D5A2",
+        "color15": "#f0d3da"
+    }
+}

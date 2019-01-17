@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/artsfon.com-75876.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C2A76",
+        "foreground": "#92a4c4",
+        "cursor": "#92a4c4"
+    },
+    "colors": {
+        "color0": "#0C2A76",
+        "color1": "#F1B407",
+        "color2": "#EFAB23",
+        "color3": "#F6C409",
+        "color4": "#062C88",
+        "color5": "#0C3CAD",
+        "color6": "#1E4D9A",
+        "color7": "#92a4c4",
+        "color8": "#667289",
+        "color9": "#F1B407",
+        "color10": "#EFAB23",
+        "color11": "#F6C409",
+        "color12": "#062C88",
+        "color13": "#0C3CAD",
+        "color14": "#1E4D9A",
+        "color15": "#92a4c4"
+    }
+}

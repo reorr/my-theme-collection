@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/fon116 2160x1920.png",
+    "alpha": "100",
+    "special": {
+        "background": "#253746",
+        "foreground": "#b5d7f2",
+        "cursor": "#b5d7f2"
+    },
+    "colors": {
+        "color0": "#253746",
+        "color1": "#099BE4",
+        "color2": "#278EE6",
+        "color3": "#04A8F2",
+        "color4": "#2FAFF2",
+        "color5": "#5DA4DA",
+        "color6": "#76BAF0",
+        "color7": "#b5d7f2",
+        "color8": "#7e96a9",
+        "color9": "#099BE4",
+        "color10": "#278EE6",
+        "color11": "#04A8F2",
+        "color12": "#2FAFF2",
+        "color13": "#5DA4DA",
+        "color14": "#76BAF0",
+        "color15": "#b5d7f2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/anton-darius-thesollers-424266-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f5f4",
+        "foreground": "#2E1909",
+        "cursor": "#2E1909"
+    },
+    "colors": {
+        "color0": "#f3f5f4",
+        "color1": "#916E4D",
+        "color2": "#B48806",
+        "color3": "#D18C03",
+        "color4": "#DF9E07",
+        "color5": "#EDAE03",
+        "color6": "#FBD002",
+        "color7": "#2E1909",
+        "color8": "#6a7170",
+        "color9": "#916E4D",
+        "color10": "#B48806",
+        "color11": "#D18C03",
+        "color12": "#DF9E07",
+        "color13": "#EDAE03",
+        "color14": "#FBD002",
+        "color15": "#2E1909"
+    }
+}

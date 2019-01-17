@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/matteo-kutufa-1135337-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0B0A",
+        "foreground": "#d8d5d2",
+        "cursor": "#d8d5d2"
+    },
+    "colors": {
+        "color0": "#0D0B0A",
+        "color1": "#9E6265",
+        "color2": "#BD768B",
+        "color3": "#7C8381",
+        "color4": "#A79999",
+        "color5": "#BAB8B0",
+        "color6": "#D193A1",
+        "color7": "#d8d5d2",
+        "color8": "#979593",
+        "color9": "#9E6265",
+        "color10": "#BD768B",
+        "color11": "#7C8381",
+        "color12": "#A79999",
+        "color13": "#BAB8B0",
+        "color14": "#D193A1",
+        "color15": "#d8d5d2"
+    }
+}

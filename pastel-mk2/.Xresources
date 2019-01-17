@@ -1,0 +1,83 @@
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+Xft.lcdfilter: lcddefault
+Xft.autohint: true
+
+URxvt.intensityStyles:  false
+!URxvt.font: -misc-fixed-medium-r-normal--15-140-75-75-c-90-iso8859-1
+!URxvt.font: -misc-fixed-bold-r-normal--15-140-75-75-c-90-iso8859-1
+URxvt.font:             xft:Iosevka Nerd Font:regular:size=9:antialias=true:hinting=true, \
+			xft:EmojiOne Color:antialias=false, \
+			xft:Noto Mono:size=10:antialias=true:hinting=true,\
+			xft:Blobmoji, \
+			xft:Noto Emoji:size=13
+!            xft:Kochi Gothic:antialias=false,\
+!            xft:Baekmuk Gulim
+URxvt.boldFont:         xft:Iosevka Nerd Font:bold:size=9:antialias=true:hinting=true, \
+			xft:EmojiOne Color:antialias=false, \
+			xft:Noto Mono:size=10:antialias=true:hinting=true,\
+			xft:Blobmoji,\
+			xft:Noto Emoji:size=13
+!            xft:Kochi Gothic:antialias=false,\
+!            xft:Baekmuk Gulim
+URxvt.saveLines:        8192
+
+URxvt*scrollTtyOutput:    false
+URxvt*scrollWithBuffer:   true
+URxvt*scrollTtyKeypress:  true
+URxvt.scrollBar:          false
+URxvt.internalBorder:     30
+URxvt.cursorBlink:        false
+URxvt.cursorUnderline:    true
+URxvt*skipBuiltinGlyphs:    true
+
+!URxvt.perl-ext-common: font-size,keyboards-select
+URxvt.perl-ext-common: font-size
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+URxvt.keysym.M-s: perl:keyboard-select:search
+
+!! Common Keybinds for Navigations
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+URxvt.keysym.Control-Right: \033[1;5C
+URxvt.keysym.Control-Left: \033[1;5D
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.keysym.C-Up:     font-size:increase
+URxvt.keysym.C-Down:   font-size:decrease
+URxvt.keysym.C-S-Up:   font-size:incglobal
+URxvt.keysym.C-S-Down: font-size:decglobal
+URxvt.keysym.C-equal:  font-size:reset
+URxvt.keysym.C-slash:  font-size:show
+!URxvt.letterSpace: -1
+!URxvt.lineSpace: -1
+URxvt.geometry:	80x10
+
+!rofi.modi:                           drun
+!rofi.sidebar-mode:                   true
+!rofi.terminal:                       urxvt
+!rofi.ssh-client:                     ssh
+!rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+!rofi.opacity:                        100
+!rofi.width:                          40
+!rofi.lines:                          5
+!rofi.columns:                        1
+!rofi.font:                           Iosevka 9
+!rofi.bw:                             0
+!rofi.location:                       0
+!rofi.padding:                        30
+!rofi.levenshtein-sort:               true
+!rofi.case-sensitive:                 false
+!rofi.fuzzy:                          false
+!rofi.line-margin:                    5
+!rofi.separator-style:                solid
+!rofi.hide-scrollbar:                 true
+!rofi.markup-rows:                    false
+!rofi.scrollbar-width: 0
+!rofi.color-enabled: true
+
+#include "/home/reorr/.cache/wal/colors.Xresources"

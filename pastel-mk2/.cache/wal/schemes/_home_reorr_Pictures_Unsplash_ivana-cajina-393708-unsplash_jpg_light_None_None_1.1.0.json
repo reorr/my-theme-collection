@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ivana-cajina-393708-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f5f6f7",
+        "foreground": "#11120D",
+        "cursor": "#11120D"
+    },
+    "colors": {
+        "color0": "#f5f6f7",
+        "color1": "#503E81",
+        "color2": "#205E94",
+        "color3": "#566F99",
+        "color4": "#8D7489",
+        "color5": "#6F8CB5",
+        "color6": "#7293C2",
+        "color7": "#11120D",
+        "color8": "#74787c",
+        "color9": "#503E81",
+        "color10": "#205E94",
+        "color11": "#566F99",
+        "color12": "#8D7489",
+        "color13": "#6F8CB5",
+        "color14": "#7293C2",
+        "color15": "#11120D"
+    }
+}

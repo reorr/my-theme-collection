@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/aes_shinobu1080p_by_sadweebs420-dao8qb8.png",
+    "alpha": "100",
+    "special": {
+        "background": "#566144",
+        "foreground": "#bae8f6",
+        "cursor": "#bae8f6"
+    },
+    "colors": {
+        "color0": "#566144",
+        "color1": "#EBE9B8",
+        "color2": "#E5B4C6",
+        "color3": "#D6BAFB",
+        "color4": "#F5AAFA",
+        "color5": "#95DBFD",
+        "color6": "#AFCEFC",
+        "color7": "#bae8f6",
+        "color8": "#82a2ac",
+        "color9": "#EBE9B8",
+        "color10": "#E5B4C6",
+        "color11": "#D6BAFB",
+        "color12": "#F5AAFA",
+        "color13": "#95DBFD",
+        "color14": "#AFCEFC",
+        "color15": "#bae8f6"
+    }
+}

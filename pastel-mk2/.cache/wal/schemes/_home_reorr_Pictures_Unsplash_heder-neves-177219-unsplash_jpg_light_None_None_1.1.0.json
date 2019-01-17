@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/heder-neves-177219-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f5f5f4",
+        "foreground": "#202014",
+        "cursor": "#202014"
+    },
+    "colors": {
+        "color0": "#f5f5f4",
+        "color1": "#B00E07",
+        "color2": "#A42A18",
+        "color3": "#D82513",
+        "color4": "#E15117",
+        "color5": "#A05B45",
+        "color6": "#E6625E",
+        "color7": "#202014",
+        "color8": "#737270",
+        "color9": "#B00E07",
+        "color10": "#A42A18",
+        "color11": "#D82513",
+        "color12": "#E15117",
+        "color13": "#A05B45",
+        "color14": "#E6625E",
+        "color15": "#202014"
+    }
+}

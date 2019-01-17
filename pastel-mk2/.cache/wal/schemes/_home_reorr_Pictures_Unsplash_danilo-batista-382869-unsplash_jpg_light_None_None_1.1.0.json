@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/danilo-batista-382869-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#e5e8de",
+        "foreground": "#473B32",
+        "cursor": "#473B32"
+    },
+    "colors": {
+        "color0": "#e5e8de",
+        "color1": "#887661",
+        "color2": "#78904C",
+        "color3": "#9BA16E",
+        "color4": "#BEC453",
+        "color5": "#B2C66A",
+        "color6": "#A9B493",
+        "color7": "#473B32",
+        "color8": "#808991",
+        "color9": "#887661",
+        "color10": "#78904C",
+        "color11": "#9BA16E",
+        "color12": "#BEC453",
+        "color13": "#B2C66A",
+        "color14": "#A9B493",
+        "color15": "#473B32"
+    }
+}

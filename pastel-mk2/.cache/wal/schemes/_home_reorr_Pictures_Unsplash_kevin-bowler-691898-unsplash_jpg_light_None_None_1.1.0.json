@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/kevin-bowler-691898-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfbf9",
+        "foreground": "#04170D",
+        "cursor": "#04170D"
+    },
+    "colors": {
+        "color0": "#fcfbf9",
+        "color1": "#67952C",
+        "color2": "#349266",
+        "color3": "#67955B",
+        "color4": "#97A558",
+        "color5": "#A3C041",
+        "color6": "#3A6A98",
+        "color7": "#04170D",
+        "color8": "#908a84",
+        "color9": "#67952C",
+        "color10": "#349266",
+        "color11": "#67955B",
+        "color12": "#97A558",
+        "color13": "#A3C041",
+        "color14": "#3A6A98",
+        "color15": "#04170D"
+    }
+}

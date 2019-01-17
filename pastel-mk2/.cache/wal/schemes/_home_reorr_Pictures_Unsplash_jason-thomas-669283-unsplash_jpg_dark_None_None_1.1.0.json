@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jason-thomas-669283-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091B31",
+        "foreground": "#c3ccc3",
+        "cursor": "#c3ccc3"
+    },
+    "colors": {
+        "color0": "#091B31",
+        "color1": "#B4C556",
+        "color2": "#10768A",
+        "color3": "#B37A85",
+        "color4": "#099798",
+        "color5": "#47A4C7",
+        "color6": "#78C4EF",
+        "color7": "#c3ccc3",
+        "color8": "#888e88",
+        "color9": "#B4C556",
+        "color10": "#10768A",
+        "color11": "#B37A85",
+        "color12": "#099798",
+        "color13": "#47A4C7",
+        "color14": "#78C4EF",
+        "color15": "#c3ccc3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/scenic/13.02.2015.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1634",
+        "foreground": "#b0ccdb",
+        "cursor": "#b0ccdb"
+    },
+    "colors": {
+        "color0": "#0a1634",
+        "color1": "#907B91",
+        "color2": "#2A89B6",
+        "color3": "#5E8DB1",
+        "color4": "#6C8FB2",
+        "color5": "#31ABD2",
+        "color6": "#61A4C7",
+        "color7": "#b0ccdb",
+        "color8": "#7b8e99",
+        "color9": "#907B91",
+        "color10": "#2A89B6",
+        "color11": "#5E8DB1",
+        "color12": "#6C8FB2",
+        "color13": "#31ABD2",
+        "color14": "#61A4C7",
+        "color15": "#b0ccdb"
+    }
+}

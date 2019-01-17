@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/peter-nelson-718052-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F130C",
+        "foreground": "#bdaccc",
+        "cursor": "#bdaccc"
+    },
+    "colors": {
+        "color0": "#0F130C",
+        "color1": "#877855",
+        "color2": "#B19F5F",
+        "color3": "#57348C",
+        "color4": "#6D55A3",
+        "color5": "#7D63C2",
+        "color6": "#8C3C95",
+        "color7": "#bdaccc",
+        "color8": "#84788e",
+        "color9": "#877855",
+        "color10": "#B19F5F",
+        "color11": "#57348C",
+        "color12": "#6D55A3",
+        "color13": "#7D63C2",
+        "color14": "#8C3C95",
+        "color15": "#bdaccc"
+    }
+}

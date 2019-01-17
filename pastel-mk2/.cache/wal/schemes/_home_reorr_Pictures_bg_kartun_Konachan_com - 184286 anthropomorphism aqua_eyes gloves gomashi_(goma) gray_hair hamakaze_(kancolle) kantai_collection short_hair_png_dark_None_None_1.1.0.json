@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 184286 anthropomorphism aqua_eyes gloves gomashi_(goma) gray_hair hamakaze_(kancolle) kantai_collection short_hair.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#c0bddc",
+        "cursor": "#c0bddc"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#6AA0D0",
+        "color2": "#8D9393",
+        "color3": "#A89C97",
+        "color4": "#ABACAA",
+        "color5": "#CEB39D",
+        "color6": "#F2DDA5",
+        "color7": "#c0bddc",
+        "color8": "#86849a",
+        "color9": "#6AA0D0",
+        "color10": "#8D9393",
+        "color11": "#A89C97",
+        "color12": "#ABACAA",
+        "color13": "#CEB39D",
+        "color14": "#F2DDA5",
+        "color15": "#c0bddc"
+    }
+}

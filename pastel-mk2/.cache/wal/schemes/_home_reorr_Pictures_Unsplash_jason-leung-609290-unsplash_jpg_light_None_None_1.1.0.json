@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jason-leung-609290-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfafa",
+        "foreground": "#060F15",
+        "cursor": "#060F15"
+    },
+    "colors": {
+        "color0": "#fbfafa",
+        "color1": "#738F0C",
+        "color2": "#579268",
+        "color3": "#97A715",
+        "color4": "#BAAA58",
+        "color5": "#367194",
+        "color6": "#987B89",
+        "color7": "#060F15",
+        "color8": "#8c8886",
+        "color9": "#738F0C",
+        "color10": "#579268",
+        "color11": "#97A715",
+        "color12": "#BAAA58",
+        "color13": "#367194",
+        "color14": "#987B89",
+        "color15": "#060F15"
+    }
+}

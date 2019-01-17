@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nathan-anderson-89138-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0810",
+        "foreground": "#cdc3da",
+        "cursor": "#cdc3da"
+    },
+    "colors": {
+        "color0": "#0D0810",
+        "color1": "#8879A8",
+        "color2": "#9A77BD",
+        "color3": "#7189A6",
+        "color4": "#9486B6",
+        "color5": "#A690BA",
+        "color6": "#9A90C4",
+        "color7": "#cdc3da",
+        "color8": "#8f8898",
+        "color9": "#8879A8",
+        "color10": "#9A77BD",
+        "color11": "#7189A6",
+        "color12": "#9486B6",
+        "color13": "#A690BA",
+        "color14": "#9A90C4",
+        "color15": "#cdc3da"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/old_file/Wet Green leafes.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081C04",
+        "foreground": "#a4eb7e",
+        "cursor": "#a4eb7e"
+    },
+    "colors": {
+        "color0": "#081C04",
+        "color1": "#2E9107",
+        "color2": "#34AC09",
+        "color3": "#499F15",
+        "color4": "#47B409",
+        "color5": "#4CCE0B",
+        "color6": "#41C414",
+        "color7": "#a4eb7e",
+        "color8": "#72a458",
+        "color9": "#2E9107",
+        "color10": "#34AC09",
+        "color11": "#499F15",
+        "color12": "#47B409",
+        "color13": "#4CCE0B",
+        "color14": "#41C414",
+        "color15": "#a4eb7e"
+    }
+}

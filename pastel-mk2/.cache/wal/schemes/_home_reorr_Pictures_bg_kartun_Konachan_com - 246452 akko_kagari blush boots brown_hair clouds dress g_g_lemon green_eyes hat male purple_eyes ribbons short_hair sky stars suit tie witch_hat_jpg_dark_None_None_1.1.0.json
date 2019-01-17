@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 246452 akko_kagari blush boots brown_hair clouds dress g.g.lemon green_eyes hat male purple_eyes ribbons short_hair sky stars suit tie witch_hat.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#c0cfe1",
+        "cursor": "#c0cfe1"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#1570DC",
+        "color2": "#BE5CA4",
+        "color3": "#6D8AB2",
+        "color4": "#609FE3",
+        "color5": "#47A9EB",
+        "color6": "#BFA0B6",
+        "color7": "#c0cfe1",
+        "color8": "#86909d",
+        "color9": "#1570DC",
+        "color10": "#BE5CA4",
+        "color11": "#6D8AB2",
+        "color12": "#609FE3",
+        "color13": "#47A9EB",
+        "color14": "#BFA0B6",
+        "color15": "#c0cfe1"
+    }
+}

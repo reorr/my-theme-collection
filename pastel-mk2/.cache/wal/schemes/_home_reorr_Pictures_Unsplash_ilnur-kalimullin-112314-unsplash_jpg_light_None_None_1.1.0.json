@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ilnur-kalimullin-112314-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfbfa",
+        "foreground": "#5E3D12",
+        "cursor": "#5E3D12"
+    },
+    "colors": {
+        "color0": "#fdfbfa",
+        "color1": "#FCCE08",
+        "color2": "#FBD931",
+        "color3": "#DABA5A",
+        "color4": "#5F8180",
+        "color5": "#5AB0BD",
+        "color6": "#08BBDA",
+        "color7": "#5E3D12",
+        "color8": "#948b85",
+        "color9": "#FCCE08",
+        "color10": "#FBD931",
+        "color11": "#DABA5A",
+        "color12": "#5F8180",
+        "color13": "#5AB0BD",
+        "color14": "#08BBDA",
+        "color15": "#5E3D12"
+    }
+}

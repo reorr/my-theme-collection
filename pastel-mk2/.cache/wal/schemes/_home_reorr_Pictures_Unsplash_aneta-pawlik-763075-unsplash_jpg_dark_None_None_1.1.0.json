@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/aneta-pawlik-763075-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151511",
+        "foreground": "#d8d8d5",
+        "cursor": "#d8d8d5"
+    },
+    "colors": {
+        "color0": "#151511",
+        "color1": "#FBC930",
+        "color2": "#938E70",
+        "color3": "#FBD157",
+        "color4": "#768281",
+        "color5": "#999B95",
+        "color6": "#AFB2B0",
+        "color7": "#d8d8d5",
+        "color8": "#979795",
+        "color9": "#FBC930",
+        "color10": "#938E70",
+        "color11": "#FBD157",
+        "color12": "#768281",
+        "color13": "#999B95",
+        "color14": "#AFB2B0",
+        "color15": "#d8d8d5"
+    }
+}

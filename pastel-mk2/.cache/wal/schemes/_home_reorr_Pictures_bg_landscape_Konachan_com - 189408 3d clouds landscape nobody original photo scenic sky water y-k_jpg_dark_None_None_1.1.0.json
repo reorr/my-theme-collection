@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 189408 3d clouds landscape nobody original photo scenic sky water y-k.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b33",
+        "foreground": "#e0dfcc",
+        "cursor": "#e0dfcc"
+    },
+    "colors": {
+        "color0": "#0c0b33",
+        "color1": "#5C7683",
+        "color2": "#9C6A85",
+        "color3": "#C7778D",
+        "color4": "#708D8C",
+        "color5": "#9FA597",
+        "color6": "#CAAF9E",
+        "color7": "#e0dfcc",
+        "color8": "#9c9c8e",
+        "color9": "#5C7683",
+        "color10": "#9C6A85",
+        "color11": "#C7778D",
+        "color12": "#708D8C",
+        "color13": "#9FA597",
+        "color14": "#CAAF9E",
+        "color15": "#e0dfcc"
+    }
+}

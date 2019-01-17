@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/franck-v-515184-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfcfb",
+        "foreground": "#1E2326",
+        "cursor": "#1E2326"
+    },
+    "colors": {
+        "color0": "#fbfcfb",
+        "color1": "#58C8C5",
+        "color2": "#71D0CC",
+        "color3": "#9BA3A1",
+        "color4": "#ACC0BF",
+        "color5": "#8FD7D4",
+        "color6": "#AAD8D6",
+        "color7": "#1E2326",
+        "color8": "#8b8d8b",
+        "color9": "#58C8C5",
+        "color10": "#71D0CC",
+        "color11": "#9BA3A1",
+        "color12": "#ACC0BF",
+        "color13": "#8FD7D4",
+        "color14": "#AAD8D6",
+        "color15": "#1E2326"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/g/dekstop 1/1527758186190.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#faf9f9",
+        "foreground": "#24281F",
+        "cursor": "#24281F"
+    },
+    "colors": {
+        "color0": "#faf9f9",
+        "color1": "#5A87AB",
+        "color2": "#6E93A9",
+        "color3": "#6995B7",
+        "color4": "#709EC1",
+        "color5": "#78A7C6",
+        "color6": "#A0A4A1",
+        "color7": "#24281F",
+        "color8": "#868283",
+        "color9": "#5A87AB",
+        "color10": "#6E93A9",
+        "color11": "#6995B7",
+        "color12": "#709EC1",
+        "color13": "#78A7C6",
+        "color14": "#A0A4A1",
+        "color15": "#24281F"
+    }
+}

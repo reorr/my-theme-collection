@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/wang-xi-601771-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#faf9fa",
+        "foreground": "#181411",
+        "cursor": "#181411"
+    },
+    "colors": {
+        "color0": "#faf9fa",
+        "color1": "#AD9993",
+        "color2": "#B4A49B",
+        "color3": "#A29EA2",
+        "color4": "#B3AEB0",
+        "color5": "#C6B09A",
+        "color6": "#C3BABA",
+        "color7": "#181411",
+        "color8": "#888487",
+        "color9": "#AD9993",
+        "color10": "#B4A49B",
+        "color11": "#A29EA2",
+        "color12": "#B3AEB0",
+        "color13": "#C6B09A",
+        "color14": "#C3BABA",
+        "color15": "#181411"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 202533 archer barefoot black_hair blonde_hair fate_(series) fate_stay_night male popoccpo saber skirt tohsaka_rin yuri.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1818",
+        "foreground": "#ccb4c0",
+        "cursor": "#ccb4c0"
+    },
+    "colors": {
+        "color0": "#1b1818",
+        "color1": "#A95F56",
+        "color2": "#B16C69",
+        "color3": "#C16764",
+        "color4": "#B08973",
+        "color5": "#C89279",
+        "color6": "#55649E",
+        "color7": "#ccb4c0",
+        "color8": "#8e7d86",
+        "color9": "#A95F56",
+        "color10": "#B16C69",
+        "color11": "#C16764",
+        "color12": "#B08973",
+        "color13": "#C89279",
+        "color14": "#55649E",
+        "color15": "#ccb4c0"
+    }
+}

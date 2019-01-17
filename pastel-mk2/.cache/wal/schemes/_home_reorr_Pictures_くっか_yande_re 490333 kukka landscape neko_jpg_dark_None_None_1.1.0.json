@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/\u304f\u3063\u304b/yande.re 490333 kukka landscape neko.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a0c",
+        "foreground": "#b4b7b4",
+        "cursor": "#b4b7b4"
+    },
+    "colors": {
+        "color0": "#090a0c",
+        "color1": "#38474E",
+        "color2": "#3C5364",
+        "color3": "#4B5051",
+        "color4": "#5A6165",
+        "color5": "#6B7376",
+        "color6": "#8E766A",
+        "color7": "#b4b7b4",
+        "color8": "#7d807d",
+        "color9": "#38474E",
+        "color10": "#3C5364",
+        "color11": "#4B5051",
+        "color12": "#5A6165",
+        "color13": "#6B7376",
+        "color14": "#8E766A",
+        "color15": "#b4b7b4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/patrick-tomasso-1203415-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a0d",
+        "foreground": "#d1cfe3",
+        "cursor": "#d1cfe3"
+    },
+    "colors": {
+        "color0": "#0f0a0d",
+        "color1": "#B18EA7",
+        "color2": "#CD9B9F",
+        "color3": "#D6AFB0",
+        "color4": "#DEC3BA",
+        "color5": "#E1C9BB",
+        "color6": "#B399C3",
+        "color7": "#d1cfe3",
+        "color8": "#92909e",
+        "color9": "#B18EA7",
+        "color10": "#CD9B9F",
+        "color11": "#D6AFB0",
+        "color12": "#DEC3BA",
+        "color13": "#E1C9BB",
+        "color14": "#B399C3",
+        "color15": "#d1cfe3"
+    }
+}

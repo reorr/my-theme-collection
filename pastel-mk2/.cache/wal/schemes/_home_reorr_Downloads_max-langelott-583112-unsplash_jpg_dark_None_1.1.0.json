@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Downloads/max-langelott-583112-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f0f",
+        "foreground": "#d6d4d5",
+        "cursor": "#d6d4d5"
+    },
+    "colors": {
+        "color0": "#0e0f0f",
+        "color1": "#1E4B57",
+        "color2": "#5E585B",
+        "color3": "#985745",
+        "color4": "#998A73",
+        "color5": "#636F86",
+        "color6": "#9D9EA1",
+        "color7": "#d6d4d5",
+        "color8": "#959495",
+        "color9": "#1E4B57",
+        "color10": "#5E585B",
+        "color11": "#985745",
+        "color12": "#998A73",
+        "color13": "#636F86",
+        "color14": "#9D9EA1",
+        "color15": "#d6d4d5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/should-wang-703440-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101210",
+        "foreground": "#d0c4c2",
+        "cursor": "#d0c4c2"
+    },
+    "colors": {
+        "color0": "#101210",
+        "color1": "#A96B55",
+        "color2": "#6E953E",
+        "color3": "#9E936E",
+        "color4": "#D4B046",
+        "color5": "#296B9C",
+        "color6": "#5896BC",
+        "color7": "#d0c4c2",
+        "color8": "#918987",
+        "color9": "#A96B55",
+        "color10": "#6E953E",
+        "color11": "#9E936E",
+        "color12": "#D4B046",
+        "color13": "#296B9C",
+        "color14": "#5896BC",
+        "color15": "#d0c4c2"
+    }
+}

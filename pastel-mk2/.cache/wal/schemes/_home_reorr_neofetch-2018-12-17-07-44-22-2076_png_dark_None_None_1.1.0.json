@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/neofetch-2018-12-17-07-44-22-2076.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060608",
+        "foreground": "#caaed1",
+        "cursor": "#caaed1"
+    },
+    "colors": {
+        "color0": "#060608",
+        "color1": "#5734AA",
+        "color2": "#595A9F",
+        "color3": "#6B3AD8",
+        "color4": "#6D44D9",
+        "color5": "#7747ED",
+        "color6": "#6868E6",
+        "color7": "#caaed1",
+        "color8": "#8d7992",
+        "color9": "#5734AA",
+        "color10": "#595A9F",
+        "color11": "#6B3AD8",
+        "color12": "#6D44D9",
+        "color13": "#7747ED",
+        "color14": "#6868E6",
+        "color15": "#caaed1"
+    }
+}

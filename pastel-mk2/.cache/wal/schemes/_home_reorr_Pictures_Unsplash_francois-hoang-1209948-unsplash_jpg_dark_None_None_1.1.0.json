@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/francois-hoang-1209948-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b020d",
+        "foreground": "#9b9ac6",
+        "cursor": "#9b9ac6"
+    },
+    "colors": {
+        "color0": "#0b020d",
+        "color1": "#602262",
+        "color2": "#504A74",
+        "color3": "#9C031D",
+        "color4": "#E7120C",
+        "color5": "#C23448",
+        "color6": "#FD9F1B",
+        "color7": "#9b9ac6",
+        "color8": "#6c6b8a",
+        "color9": "#602262",
+        "color10": "#504A74",
+        "color11": "#9C031D",
+        "color12": "#E7120C",
+        "color13": "#C23448",
+        "color14": "#FD9F1B",
+        "color15": "#9b9ac6"
+    }
+}

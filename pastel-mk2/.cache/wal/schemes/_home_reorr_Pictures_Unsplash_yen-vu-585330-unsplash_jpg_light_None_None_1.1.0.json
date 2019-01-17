@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/yen-vu-585330-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fafaf8",
+        "foreground": "#1D231E",
+        "cursor": "#1D231E"
+    },
+    "colors": {
+        "color0": "#fafaf8",
+        "color1": "#8E6D7F",
+        "color2": "#659427",
+        "color3": "#38895A",
+        "color4": "#66945E",
+        "color5": "#95A768",
+        "color6": "#AFCA49",
+        "color7": "#1D231E",
+        "color8": "#86877f",
+        "color9": "#8E6D7F",
+        "color10": "#659427",
+        "color11": "#38895A",
+        "color12": "#66945E",
+        "color13": "#95A768",
+        "color14": "#AFCA49",
+        "color15": "#1D231E"
+    }
+}

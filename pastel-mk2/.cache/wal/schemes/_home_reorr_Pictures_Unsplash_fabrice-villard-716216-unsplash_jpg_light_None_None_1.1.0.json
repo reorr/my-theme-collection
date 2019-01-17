@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/fabrice-villard-716216-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfbfb",
+        "foreground": "#373633",
+        "cursor": "#373633"
+    },
+    "colors": {
+        "color0": "#fbfbfb",
+        "color1": "#8F9291",
+        "color2": "#9EA1A1",
+        "color3": "#AEB1B4",
+        "color4": "#C7C2B9",
+        "color5": "#BABDC3",
+        "color6": "#BEC1C6",
+        "color7": "#373633",
+        "color8": "#8b8b8b",
+        "color9": "#8F9291",
+        "color10": "#9EA1A1",
+        "color11": "#AEB1B4",
+        "color12": "#C7C2B9",
+        "color13": "#BABDC3",
+        "color14": "#BEC1C6",
+        "color15": "#373633"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/pineapple-supply-co-74964-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f7f7",
+        "foreground": "#1F2D15",
+        "cursor": "#1F2D15"
+    },
+    "colors": {
+        "color0": "#f7f7f7",
+        "color1": "#3A8532",
+        "color2": "#629434",
+        "color3": "#6E914F",
+        "color4": "#65965D",
+        "color5": "#72AB4F",
+        "color6": "#959F32",
+        "color7": "#1F2D15",
+        "color8": "#7a7c7b",
+        "color9": "#3A8532",
+        "color10": "#629434",
+        "color11": "#6E914F",
+        "color12": "#65965D",
+        "color13": "#72AB4F",
+        "color14": "#959F32",
+        "color15": "#1F2D15"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/banter-snaps-1205333-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0206",
+        "foreground": "#e5c7dd",
+        "cursor": "#e5c7dd"
+    },
+    "colors": {
+        "color0": "#0C0206",
+        "color1": "#B3728C",
+        "color2": "#C67C93",
+        "color3": "#D38D9F",
+        "color4": "#D593AC",
+        "color5": "#D4A6A3",
+        "color6": "#E5A8B9",
+        "color7": "#e5c7dd",
+        "color8": "#a08b9a",
+        "color9": "#B3728C",
+        "color10": "#C67C93",
+        "color11": "#D38D9F",
+        "color12": "#D593AC",
+        "color13": "#D4A6A3",
+        "color14": "#E5A8B9",
+        "color15": "#e5c7dd"
+    }
+}

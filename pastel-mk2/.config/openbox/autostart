@@ -1,0 +1,37 @@
+#dunst &
+
+#mpd &
+
+#tint2 &
+
+#plank &
+
+#vala-panel &
+
+#/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+compton --config ~/.config/compton_blu.conf  --dbus &
+
+#sh ~/.config/openbox/applets &
+
+xcape -e "Super_L=Control_L|Shift_L|z" &
+
+#polybar -c ~/.config/polybar/config firstrice &
+
+#sh ~/.fehbg
+
+udiskie &
+
+xfce4-panel &
+
+#lead &
+
+#clipit &
+
+orcsome &
+
+cornora -tl "skippy" -br "xdotool key super+d" &
+
+#volumeicon &
+
+greenclip daemon &

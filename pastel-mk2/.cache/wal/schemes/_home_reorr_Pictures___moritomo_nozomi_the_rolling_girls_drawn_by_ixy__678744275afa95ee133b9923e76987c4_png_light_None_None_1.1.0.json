@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__moritomo_nozomi_the_rolling_girls_drawn_by_ixy__678744275afa95ee133b9923e76987c4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfc",
+        "foreground": "#3C3646",
+        "cursor": "#3C3646"
+    },
+    "colors": {
+        "color0": "#fefdfc",
+        "color1": "#73BACA",
+        "color2": "#9CA69D",
+        "color3": "#D8BBBE",
+        "color4": "#E3A7A1",
+        "color5": "#D8CF9B",
+        "color6": "#FFFF9E",
+        "color7": "#3C3646",
+        "color8": "#98928f",
+        "color9": "#73BACA",
+        "color10": "#9CA69D",
+        "color11": "#D8BBBE",
+        "color12": "#E3A7A1",
+        "color13": "#D8CF9B",
+        "color14": "#FFFF9E",
+        "color15": "#3C3646"
+    }
+}

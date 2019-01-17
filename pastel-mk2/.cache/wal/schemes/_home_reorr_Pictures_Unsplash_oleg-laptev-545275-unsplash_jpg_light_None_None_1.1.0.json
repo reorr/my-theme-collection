@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/oleg-laptev-545275-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfdfd",
+        "foreground": "#58332C",
+        "cursor": "#58332C"
+    },
+    "colors": {
+        "color0": "#fcfdfd",
+        "color1": "#BF946A",
+        "color2": "#777B85",
+        "color3": "#788B96",
+        "color4": "#7BD6FB",
+        "color5": "#A5A7AC",
+        "color6": "#8BDBFD",
+        "color7": "#58332C",
+        "color8": "#8e9294",
+        "color9": "#BF946A",
+        "color10": "#777B85",
+        "color11": "#788B96",
+        "color12": "#7BD6FB",
+        "color13": "#A5A7AC",
+        "color14": "#8BDBFD",
+        "color15": "#58332C"
+    }
+}

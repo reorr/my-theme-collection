@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/alexey-lin-27778-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfdfa",
+        "foreground": "#664F2C",
+        "cursor": "#664F2C"
+    },
+    "colors": {
+        "color0": "#fdfdfa",
+        "color1": "#DBC64E",
+        "color2": "#F0D74F",
+        "color3": "#FDE859",
+        "color4": "#F3D869",
+        "color5": "#FDEE69",
+        "color6": "#B9AF8A",
+        "color7": "#664F2C",
+        "color8": "#939387",
+        "color9": "#DBC64E",
+        "color10": "#F0D74F",
+        "color11": "#FDE859",
+        "color12": "#F3D869",
+        "color13": "#FDEE69",
+        "color14": "#B9AF8A",
+        "color15": "#664F2C"
+    }
+}

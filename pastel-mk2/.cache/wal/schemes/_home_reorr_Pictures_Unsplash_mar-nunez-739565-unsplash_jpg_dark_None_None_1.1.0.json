@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/mar-nunez-739565-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1b10",
+        "foreground": "#c7c9c3",
+        "cursor": "#c7c9c3"
+    },
+    "colors": {
+        "color0": "#1b1b10",
+        "color1": "#908E44",
+        "color2": "#979668",
+        "color3": "#8F8A73",
+        "color4": "#807B84",
+        "color5": "#789A89",
+        "color6": "#93938E",
+        "color7": "#c7c9c3",
+        "color8": "#8b8c88",
+        "color9": "#908E44",
+        "color10": "#979668",
+        "color11": "#8F8A73",
+        "color12": "#807B84",
+        "color13": "#789A89",
+        "color14": "#93938E",
+        "color15": "#c7c9c3"
+    }
+}

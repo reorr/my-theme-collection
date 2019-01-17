@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/joe-gardner-98180-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0000",
+        "foreground": "#eda57e",
+        "cursor": "#eda57e"
+    },
+    "colors": {
+        "color0": "#0b0000",
+        "color1": "#6D3532",
+        "color2": "#7B413D",
+        "color3": "#5A3646",
+        "color4": "#73434B",
+        "color5": "#963211",
+        "color6": "#8C4337",
+        "color7": "#eda57e",
+        "color8": "#a57358",
+        "color9": "#6D3532",
+        "color10": "#7B413D",
+        "color11": "#5A3646",
+        "color12": "#73434B",
+        "color13": "#963211",
+        "color14": "#8C4337",
+        "color15": "#eda57e"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jamie-street-94242-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#053533",
+        "foreground": "#dcd2d1",
+        "cursor": "#dcd2d1"
+    },
+    "colors": {
+        "color0": "#053533",
+        "color1": "#9F5859",
+        "color2": "#D36561",
+        "color3": "#C3A269",
+        "color4": "#71708B",
+        "color5": "#8E7A8B",
+        "color6": "#A69EA9",
+        "color7": "#dcd2d1",
+        "color8": "#9a9392",
+        "color9": "#9F5859",
+        "color10": "#D36561",
+        "color11": "#C3A269",
+        "color12": "#71708B",
+        "color13": "#8E7A8B",
+        "color14": "#A69EA9",
+        "color15": "#dcd2d1"
+    }
+}

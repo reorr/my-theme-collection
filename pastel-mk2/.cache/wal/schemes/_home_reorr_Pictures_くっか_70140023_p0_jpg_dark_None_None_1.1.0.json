@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/\u304f\u3063\u304b/70140023_p0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c090c",
+        "foreground": "#cdc5bc",
+        "cursor": "#cdc5bc"
+    },
+    "colors": {
+        "color0": "#0c090c",
+        "color1": "#6C6359",
+        "color2": "#925336",
+        "color3": "#8F6F5A",
+        "color4": "#788466",
+        "color5": "#A28C6F",
+        "color6": "#CAA065",
+        "color7": "#cdc5bc",
+        "color8": "#8f8983",
+        "color9": "#6C6359",
+        "color10": "#925336",
+        "color11": "#8F6F5A",
+        "color12": "#788466",
+        "color13": "#A28C6F",
+        "color14": "#CAA065",
+        "color15": "#cdc5bc"
+    }
+}

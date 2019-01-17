@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/omar-prestwich-91708-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfd",
+        "foreground": "#061825",
+        "cursor": "#061825"
+    },
+    "colors": {
+        "color0": "#fcfcfd",
+        "color1": "#376885",
+        "color2": "#717987",
+        "color3": "#7B8490",
+        "color4": "#888D98",
+        "color5": "#949AA5",
+        "color6": "#9EA2AB",
+        "color7": "#061825",
+        "color8": "#8f9091",
+        "color9": "#376885",
+        "color10": "#717987",
+        "color11": "#7B8490",
+        "color12": "#888D98",
+        "color13": "#949AA5",
+        "color14": "#9EA2AB",
+        "color15": "#061825"
+    }
+}

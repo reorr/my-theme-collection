@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/textures and patterns/bg12.png",
+    "alpha": "100",
+    "special": {
+        "background": "#968637",
+        "foreground": "#e1e6be",
+        "cursor": "#e1e6be"
+    },
+    "colors": {
+        "color0": "#968637",
+        "color1": "#72B2FE",
+        "color2": "#39C8F2",
+        "color3": "#67D0D4",
+        "color4": "#50CDF2",
+        "color5": "#68CFF5",
+        "color6": "#A5D7A8",
+        "color7": "#e1e6be",
+        "color8": "#9da185",
+        "color9": "#72B2FE",
+        "color10": "#39C8F2",
+        "color11": "#67D0D4",
+        "color12": "#50CDF2",
+        "color13": "#68CFF5",
+        "color14": "#A5D7A8",
+        "color15": "#e1e6be"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 216724 animal bird brown_eyes brown_hair city landscape long_hair original scenic seifuku syego.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1c1d",
+        "foreground": "#aaccdf",
+        "cursor": "#aaccdf"
+    },
+    "colors": {
+        "color0": "#1e1c1d",
+        "color1": "#909F70",
+        "color2": "#A9B37B",
+        "color3": "#637988",
+        "color4": "#877C87",
+        "color5": "#6AA2A3",
+        "color6": "#68ACCA",
+        "color7": "#aaccdf",
+        "color8": "#768e9c",
+        "color9": "#909F70",
+        "color10": "#A9B37B",
+        "color11": "#637988",
+        "color12": "#877C87",
+        "color13": "#6AA2A3",
+        "color14": "#68ACCA",
+        "color15": "#aaccdf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__japanese_crested_ibis_kemono_friends_drawn_by_hasu_zatsugami__sample-c496f78378316e1be8962274f6f6bff9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfd",
+        "foreground": "#757271",
+        "cursor": "#757271"
+    },
+    "colors": {
+        "color0": "#fefdfd",
+        "color1": "#D2958D",
+        "color2": "#E99B93",
+        "color3": "#EBA397",
+        "color4": "#D2B1A4",
+        "color5": "#F1B4AB",
+        "color6": "#BDC0BC",
+        "color7": "#757271",
+        "color8": "#979491",
+        "color9": "#D2958D",
+        "color10": "#E99B93",
+        "color11": "#EBA397",
+        "color12": "#D2B1A4",
+        "color13": "#F1B4AB",
+        "color14": "#BDC0BC",
+        "color15": "#757271"
+    }
+}

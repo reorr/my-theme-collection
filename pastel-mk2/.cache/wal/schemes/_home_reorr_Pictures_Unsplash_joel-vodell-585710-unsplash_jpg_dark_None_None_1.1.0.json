@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/joel-vodell-585710-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d190d",
+        "foreground": "#b0bc9d",
+        "cursor": "#b0bc9d"
+    },
+    "colors": {
+        "color0": "#0d190d",
+        "color1": "#536B2B",
+        "color2": "#1F3646",
+        "color3": "#30495B",
+        "color4": "#576261",
+        "color5": "#728C15",
+        "color6": "#738C29",
+        "color7": "#b0bc9d",
+        "color8": "#7b836d",
+        "color9": "#536B2B",
+        "color10": "#1F3646",
+        "color11": "#30495B",
+        "color12": "#576261",
+        "color13": "#728C15",
+        "color14": "#738C29",
+        "color15": "#b0bc9d"
+    }
+}

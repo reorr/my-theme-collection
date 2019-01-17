@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/jeff-golenski-1208697-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090D11",
+        "foreground": "#bdaa91",
+        "cursor": "#bdaa91"
+    },
+    "colors": {
+        "color0": "#090D11",
+        "color1": "#635024",
+        "color2": "#6E5229",
+        "color3": "#183447",
+        "color4": "#213C4E",
+        "color5": "#284961",
+        "color6": "#665E4E",
+        "color7": "#bdaa91",
+        "color8": "#847665",
+        "color9": "#635024",
+        "color10": "#6E5229",
+        "color11": "#183447",
+        "color12": "#213C4E",
+        "color13": "#284961",
+        "color14": "#665E4E",
+        "color15": "#bdaa91"
+    }
+}

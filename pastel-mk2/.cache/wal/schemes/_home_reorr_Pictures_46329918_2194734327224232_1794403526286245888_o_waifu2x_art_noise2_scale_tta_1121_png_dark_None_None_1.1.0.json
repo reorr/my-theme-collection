@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/46329918_2194734327224232_1794403526286245888_o_waifu2x_art_noise2_scale_tta_1121.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#c5c5c9",
+        "cursor": "#c5c5c9"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#3A4891",
+        "color2": "#3F4FA0",
+        "color3": "#4251A1",
+        "color4": "#515FA2",
+        "color5": "#7D829B",
+        "color6": "#8E8E8E",
+        "color7": "#c5c5c9",
+        "color8": "#89898c",
+        "color9": "#3A4891",
+        "color10": "#3F4FA0",
+        "color11": "#4251A1",
+        "color12": "#515FA2",
+        "color13": "#7D829B",
+        "color14": "#8E8E8E",
+        "color15": "#c5c5c9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/solidbg/mukuro.png",
+    "alpha": "100",
+    "special": {
+        "background": "#140b03",
+        "foreground": "#eae5dd",
+        "cursor": "#eae5dd"
+    },
+    "colors": {
+        "color0": "#140b03",
+        "color1": "#816B5E",
+        "color2": "#8B7779",
+        "color3": "#998779",
+        "color4": "#887B84",
+        "color5": "#B09F92",
+        "color6": "#CBBBAC",
+        "color7": "#eae5dd",
+        "color8": "#a3a09a",
+        "color9": "#816B5E",
+        "color10": "#8B7779",
+        "color11": "#998779",
+        "color12": "#887B84",
+        "color13": "#B09F92",
+        "color14": "#CBBBAC",
+        "color15": "#eae5dd"
+    }
+}

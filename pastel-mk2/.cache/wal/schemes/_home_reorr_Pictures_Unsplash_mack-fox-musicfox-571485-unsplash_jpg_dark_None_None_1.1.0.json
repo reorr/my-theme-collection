@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/mack-fox-musicfox-571485-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#001919",
+        "foreground": "#f3c779",
+        "cursor": "#f3c779"
+    },
+    "colors": {
+        "color0": "#001919",
+        "color1": "#32706A",
+        "color2": "#477573",
+        "color3": "#DF2704",
+        "color4": "#F76701",
+        "color5": "#21906F",
+        "color6": "#509269",
+        "color7": "#f3c779",
+        "color8": "#aa8b54",
+        "color9": "#32706A",
+        "color10": "#477573",
+        "color11": "#DF2704",
+        "color12": "#F76701",
+        "color13": "#21906F",
+        "color14": "#509269",
+        "color15": "#f3c779"
+    }
+}

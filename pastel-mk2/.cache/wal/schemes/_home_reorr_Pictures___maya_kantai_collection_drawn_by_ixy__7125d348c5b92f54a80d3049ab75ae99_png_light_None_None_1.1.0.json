@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__maya_kantai_collection_drawn_by_ixy__7125d348c5b92f54a80d3049ab75ae99.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfdfd",
+        "foreground": "#2A292B",
+        "cursor": "#2A292B"
+    },
+    "colors": {
+        "color0": "#fdfdfd",
+        "color1": "#6C758C",
+        "color2": "#779694",
+        "color3": "#A69EA3",
+        "color4": "#D4AB9C",
+        "color5": "#F9B6A3",
+        "color6": "#F6CBB5",
+        "color7": "#2A292B",
+        "color8": "#939393",
+        "color9": "#6C758C",
+        "color10": "#779694",
+        "color11": "#A69EA3",
+        "color12": "#D4AB9C",
+        "color13": "#F9B6A3",
+        "color14": "#F6CBB5",
+        "color15": "#2A292B"
+    }
+}

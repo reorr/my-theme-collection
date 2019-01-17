@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/pierre-leverrier-54495-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040915",
+        "foreground": "#bdd2f0",
+        "cursor": "#bdd2f0"
+    },
+    "colors": {
+        "color0": "#040915",
+        "color1": "#497299",
+        "color2": "#3C66DE",
+        "color3": "#4E76E3",
+        "color4": "#5E8AAC",
+        "color5": "#6A96EB",
+        "color6": "#8EA0B1",
+        "color7": "#bdd2f0",
+        "color8": "#8493a8",
+        "color9": "#497299",
+        "color10": "#3C66DE",
+        "color11": "#4E76E3",
+        "color12": "#5E8AAC",
+        "color13": "#6A96EB",
+        "color14": "#8EA0B1",
+        "color15": "#bdd2f0"
+    }
+}

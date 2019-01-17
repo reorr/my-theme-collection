@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 160034 2girls animal bird black_hair blue_eyes brown_eyes brown_hair building bunny_ears clouds cojibou dress landscape original scenic shorts sky.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2c2325",
+        "foreground": "#ebe0cc",
+        "cursor": "#ebe0cc"
+    },
+    "colors": {
+        "color0": "#2c2325",
+        "color1": "#6C95A5",
+        "color2": "#5D96CD",
+        "color3": "#61ADD7",
+        "color4": "#75ABD6",
+        "color5": "#98A0A5",
+        "color6": "#DDB39E",
+        "color7": "#ebe0cc",
+        "color8": "#a49c8e",
+        "color9": "#6C95A5",
+        "color10": "#5D96CD",
+        "color11": "#61ADD7",
+        "color12": "#75ABD6",
+        "color13": "#98A0A5",
+        "color14": "#DDB39E",
+        "color15": "#ebe0cc"
+    }
+}

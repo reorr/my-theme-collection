@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sebastian-holgado-1093614-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07120A",
+        "foreground": "#c1d0db",
+        "cursor": "#c1d0db"
+    },
+    "colors": {
+        "color0": "#07120A",
+        "color1": "#88A96F",
+        "color2": "#317691",
+        "color3": "#3688A7",
+        "color4": "#5F97A6",
+        "color5": "#68AAC7",
+        "color6": "#91AEA7",
+        "color7": "#c1d0db",
+        "color8": "#879199",
+        "color9": "#88A96F",
+        "color10": "#317691",
+        "color11": "#3688A7",
+        "color12": "#5F97A6",
+        "color13": "#68AAC7",
+        "color14": "#91AEA7",
+        "color15": "#c1d0db"
+    }
+}

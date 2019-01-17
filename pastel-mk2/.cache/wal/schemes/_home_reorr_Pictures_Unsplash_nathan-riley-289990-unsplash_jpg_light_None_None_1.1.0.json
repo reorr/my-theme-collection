@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nathan-riley-289990-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcf9f7",
+        "foreground": "#04150B",
+        "cursor": "#04150B"
+    },
+    "colors": {
+        "color0": "#fcf9f7",
+        "color1": "#B88D52",
+        "color2": "#E8B460",
+        "color3": "#F8C25A",
+        "color4": "#F6C576",
+        "color5": "#857887",
+        "color6": "#A79695",
+        "color7": "#04150B",
+        "color8": "#8e8179",
+        "color9": "#B88D52",
+        "color10": "#E8B460",
+        "color11": "#F8C25A",
+        "color12": "#F6C576",
+        "color13": "#857887",
+        "color14": "#A79695",
+        "color15": "#04150B"
+    }
+}

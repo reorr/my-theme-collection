@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ting-ting-794446-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04100B",
+        "foreground": "#b9d5a7",
+        "cursor": "#b9d5a7"
+    },
+    "colors": {
+        "color0": "#04100B",
+        "color1": "#0B8A32",
+        "color2": "#309939",
+        "color3": "#45A248",
+        "color4": "#52AA49",
+        "color5": "#6EB753",
+        "color6": "#64AC64",
+        "color7": "#b9d5a7",
+        "color8": "#819574",
+        "color9": "#0B8A32",
+        "color10": "#309939",
+        "color11": "#45A248",
+        "color12": "#52AA49",
+        "color13": "#6EB753",
+        "color14": "#64AC64",
+        "color15": "#b9d5a7"
+    }
+}

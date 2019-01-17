@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/suishoshizuku/ShizukuWP4_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfcfa",
+        "foreground": "#1A131D",
+        "cursor": "#1A131D"
+    },
+    "colors": {
+        "color0": "#fdfcfa",
+        "color1": "#E39E63",
+        "color2": "#3A649A",
+        "color3": "#36ADDF",
+        "color4": "#AFA68E",
+        "color5": "#D3B198",
+        "color6": "#E2CEAD",
+        "color7": "#1A131D",
+        "color8": "#938f85",
+        "color9": "#E39E63",
+        "color10": "#3A649A",
+        "color11": "#36ADDF",
+        "color12": "#AFA68E",
+        "color13": "#D3B198",
+        "color14": "#E2CEAD",
+        "color15": "#1A131D"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/scenic/Konachan.com - 202939 apple arsenixc fruit leaves nobody original realistic scenic stairs watermark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161413",
+        "foreground": "#dcd6aa",
+        "cursor": "#dcd6aa"
+    },
+    "colors": {
+        "color0": "#161413",
+        "color1": "#955639",
+        "color2": "#956F54",
+        "color3": "#C37744",
+        "color4": "#768A60",
+        "color5": "#A1926B",
+        "color6": "#D1A365",
+        "color7": "#dcd6aa",
+        "color8": "#9a9576",
+        "color9": "#955639",
+        "color10": "#956F54",
+        "color11": "#C37744",
+        "color12": "#768A60",
+        "color13": "#A1926B",
+        "color14": "#D1A365",
+        "color15": "#dcd6aa"
+    }
+}

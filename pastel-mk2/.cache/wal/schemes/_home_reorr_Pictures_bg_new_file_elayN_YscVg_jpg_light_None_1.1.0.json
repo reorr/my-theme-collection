@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/new_file/elayN_YscVg.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfbfb",
+        "foreground": "#3B3B39",
+        "cursor": "#3B3B39"
+    },
+    "colors": {
+        "color0": "#fcfbfb",
+        "color1": "#DDA464",
+        "color2": "#7A8788",
+        "color3": "#989795",
+        "color4": "#B1B0B1",
+        "color5": "#CAB7A7",
+        "color6": "#CEC6BA",
+        "color7": "#3B3B39",
+        "color8": "#8d8b89",
+        "color9": "#DDA464",
+        "color10": "#7A8788",
+        "color11": "#989795",
+        "color12": "#B1B0B1",
+        "color13": "#CAB7A7",
+        "color14": "#CEC6BA",
+        "color15": "#3B3B39"
+    }
+}

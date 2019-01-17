@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/travis-yewell-273488-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191315",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#191315",
+        "color1": "#916B59",
+        "color2": "#967565",
+        "color3": "#DA6845",
+        "color4": "#F5892B",
+        "color5": "#968678",
+        "color6": "#728091",
+        "color7": "#c4c4c4",
+        "color8": "#898989",
+        "color9": "#916B59",
+        "color10": "#967565",
+        "color11": "#DA6845",
+        "color12": "#F5892B",
+        "color13": "#968678",
+        "color14": "#728091",
+        "color15": "#c4c4c4"
+    }
+}

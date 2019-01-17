@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 235651 akko_kagari apon little_witch_academia lotte_yanson sucy_manbavaran witch.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151220",
+        "foreground": "#d1cfe8",
+        "cursor": "#d1cfe8"
+    },
+    "colors": {
+        "color0": "#151220",
+        "color1": "#7A69A6",
+        "color2": "#8E729A",
+        "color3": "#8972AC",
+        "color4": "#DE5E87",
+        "color5": "#A49DA4",
+        "color6": "#D4C0AC",
+        "color7": "#d1cfe8",
+        "color8": "#9290a2",
+        "color9": "#7A69A6",
+        "color10": "#8E729A",
+        "color11": "#8972AC",
+        "color12": "#DE5E87",
+        "color13": "#A49DA4",
+        "color14": "#D4C0AC",
+        "color15": "#d1cfe8"
+    }
+}

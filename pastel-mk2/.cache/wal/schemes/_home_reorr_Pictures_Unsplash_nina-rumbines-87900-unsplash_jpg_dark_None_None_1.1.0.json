@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nina-rumbines-87900-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#152312",
+        "foreground": "#abd179",
+        "cursor": "#abd179"
+    },
+    "colors": {
+        "color0": "#152312",
+        "color1": "#457617",
+        "color2": "#2B6F46",
+        "color3": "#37890C",
+        "color4": "#2C931F",
+        "color5": "#499209",
+        "color6": "#53A905",
+        "color7": "#abd179",
+        "color8": "#779254",
+        "color9": "#457617",
+        "color10": "#2B6F46",
+        "color11": "#37890C",
+        "color12": "#2C931F",
+        "color13": "#499209",
+        "color14": "#53A905",
+        "color15": "#abd179"
+    }
+}

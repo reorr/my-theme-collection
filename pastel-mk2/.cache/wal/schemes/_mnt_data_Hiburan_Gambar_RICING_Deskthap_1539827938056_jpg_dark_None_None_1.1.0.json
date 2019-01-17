@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/RICING/Deskthap/1539827938056.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f171b",
+        "foreground": "#b686b7",
+        "cursor": "#b686b7"
+    },
+    "colors": {
+        "color0": "#0f171b",
+        "color1": "#702E69",
+        "color2": "#9E3561",
+        "color3": "#8F3371",
+        "color4": "#CA554E",
+        "color5": "#FA9D35",
+        "color6": "#FBA160",
+        "color7": "#b686b7",
+        "color8": "#7f5d80",
+        "color9": "#702E69",
+        "color10": "#9E3561",
+        "color11": "#8F3371",
+        "color12": "#CA554E",
+        "color13": "#FA9D35",
+        "color14": "#FBA160",
+        "color15": "#b686b7"
+    }
+}

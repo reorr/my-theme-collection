@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/minimalist/1440273926727.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010001",
+        "foreground": "#bda2cf",
+        "cursor": "#bda2cf"
+    },
+    "colors": {
+        "color0": "#010001",
+        "color1": "#633C7B",
+        "color2": "#65417D",
+        "color3": "#683E83",
+        "color4": "#734790",
+        "color5": "#7F4DA1",
+        "color6": "#8955A8",
+        "color7": "#bda2cf",
+        "color8": "#847190",
+        "color9": "#633C7B",
+        "color10": "#65417D",
+        "color11": "#683E83",
+        "color12": "#734790",
+        "color13": "#7F4DA1",
+        "color14": "#8955A8",
+        "color15": "#bda2cf"
+    }
+}

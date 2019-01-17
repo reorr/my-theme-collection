@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/douglas-alves-766701-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7fded",
+        "foreground": "#020901",
+        "cursor": "#020901"
+    },
+    "colors": {
+        "color0": "#f7fded",
+        "color1": "#3B850B",
+        "color2": "#4F900B",
+        "color3": "#5D9C19",
+        "color4": "#6EAE13",
+        "color5": "#72B32A",
+        "color6": "#77C037",
+        "color7": "#020901",
+        "color8": "#799254",
+        "color9": "#3B850B",
+        "color10": "#4F900B",
+        "color11": "#5D9C19",
+        "color12": "#6EAE13",
+        "color13": "#72B32A",
+        "color14": "#77C037",
+        "color15": "#020901"
+    }
+}

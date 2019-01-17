@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/steve-johnson-549703-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#45040c",
+        "foreground": "#dbb4b8",
+        "cursor": "#dbb4b8"
+    },
+    "colors": {
+        "color0": "#45040c",
+        "color1": "#E45034",
+        "color2": "#B73A47",
+        "color3": "#A4614F",
+        "color4": "#E8694F",
+        "color5": "#BA8869",
+        "color6": "#F48F68",
+        "color7": "#dbb4b8",
+        "color8": "#997d80",
+        "color9": "#E45034",
+        "color10": "#B73A47",
+        "color11": "#A4614F",
+        "color12": "#E8694F",
+        "color13": "#BA8869",
+        "color14": "#F48F68",
+        "color15": "#dbb4b8"
+    }
+}

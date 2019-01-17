@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sole-d-alessandro-516736-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1b02",
+        "foreground": "#dcd3be",
+        "cursor": "#dcd3be"
+    },
+    "colors": {
+        "color0": "#0f1b02",
+        "color1": "#B1B01F",
+        "color2": "#A89866",
+        "color3": "#C8B174",
+        "color4": "#3C7687",
+        "color5": "#68888D",
+        "color6": "#B0A78C",
+        "color7": "#dcd3be",
+        "color8": "#9a9385",
+        "color9": "#B1B01F",
+        "color10": "#A89866",
+        "color11": "#C8B174",
+        "color12": "#3C7687",
+        "color13": "#68888D",
+        "color14": "#B0A78C",
+        "color15": "#dcd3be"
+    }
+}

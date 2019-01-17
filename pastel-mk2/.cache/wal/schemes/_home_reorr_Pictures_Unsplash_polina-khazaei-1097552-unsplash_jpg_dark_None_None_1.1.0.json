@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/polina-khazaei-1097552-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1211",
+        "foreground": "#d7d2d2",
+        "cursor": "#d7d2d2"
+    },
+    "colors": {
+        "color0": "#0f1211",
+        "color1": "#467092",
+        "color2": "#628BA7",
+        "color3": "#5C96D4",
+        "color4": "#6CB0EE",
+        "color5": "#6DB6F1",
+        "color6": "#A4A59B",
+        "color7": "#d7d2d2",
+        "color8": "#969393",
+        "color9": "#467092",
+        "color10": "#628BA7",
+        "color11": "#5C96D4",
+        "color12": "#6CB0EE",
+        "color13": "#6DB6F1",
+        "color14": "#A4A59B",
+        "color15": "#d7d2d2"
+    }
+}

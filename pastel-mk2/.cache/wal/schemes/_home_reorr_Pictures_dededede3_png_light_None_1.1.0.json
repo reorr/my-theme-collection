@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/dededede3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfbfb",
+        "foreground": "#0C0E0D",
+        "cursor": "#0C0E0D"
+    },
+    "colors": {
+        "color0": "#fbfbfb",
+        "color1": "#7F8080",
+        "color2": "#909090",
+        "color3": "#9FA0A0",
+        "color4": "#B0B1B0",
+        "color5": "#BFC0BF",
+        "color6": "#D1D1D1",
+        "color7": "#0C0E0D",
+        "color8": "#8b8b8b",
+        "color9": "#7F8080",
+        "color10": "#909090",
+        "color11": "#9FA0A0",
+        "color12": "#B0B1B0",
+        "color13": "#BFC0BF",
+        "color14": "#D1D1D1",
+        "color15": "#0C0E0D"
+    }
+}

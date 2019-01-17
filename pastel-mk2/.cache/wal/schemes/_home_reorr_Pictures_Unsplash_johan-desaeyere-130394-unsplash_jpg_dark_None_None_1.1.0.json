@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/johan-desaeyere-130394-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040F16",
+        "foreground": "#a0c0ce",
+        "cursor": "#a0c0ce"
+    },
+    "colors": {
+        "color0": "#040F16",
+        "color1": "#0D516C",
+        "color2": "#8A7534",
+        "color3": "#CAB841",
+        "color4": "#2C6F8D",
+        "color5": "#4F7692",
+        "color6": "#3A83A3",
+        "color7": "#a0c0ce",
+        "color8": "#708690",
+        "color9": "#0D516C",
+        "color10": "#8A7534",
+        "color11": "#CAB841",
+        "color12": "#2C6F8D",
+        "color13": "#4F7692",
+        "color14": "#3A83A3",
+        "color15": "#a0c0ce"
+    }
+}

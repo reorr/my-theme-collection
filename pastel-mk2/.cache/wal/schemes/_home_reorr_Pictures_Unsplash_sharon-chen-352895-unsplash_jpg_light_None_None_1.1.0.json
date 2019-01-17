@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/sharon-chen-352895-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fbfcfb",
+        "foreground": "#070707",
+        "cursor": "#070707"
+    },
+    "colors": {
+        "color0": "#fbfcfb",
+        "color1": "#60993A",
+        "color2": "#B5BD42",
+        "color3": "#A49C63",
+        "color4": "#D3A968",
+        "color5": "#627988",
+        "color6": "#A7778F",
+        "color7": "#070707",
+        "color8": "#8c8d8a",
+        "color9": "#60993A",
+        "color10": "#B5BD42",
+        "color11": "#A49C63",
+        "color12": "#D3A968",
+        "color13": "#627988",
+        "color14": "#A7778F",
+        "color15": "#070707"
+    }
+}

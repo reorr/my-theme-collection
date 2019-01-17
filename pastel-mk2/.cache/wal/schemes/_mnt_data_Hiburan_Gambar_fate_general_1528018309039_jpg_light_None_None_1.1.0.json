@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/fate_general/1528018309039.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefd",
+        "foreground": "#191E27",
+        "cursor": "#191E27"
+    },
+    "colors": {
+        "color0": "#fefefd",
+        "color1": "#867B53",
+        "color2": "#998E66",
+        "color3": "#D2BF68",
+        "color4": "#748FD6",
+        "color5": "#A5A49B",
+        "color6": "#EAE3AC",
+        "color7": "#191E27",
+        "color8": "#959694",
+        "color9": "#867B53",
+        "color10": "#998E66",
+        "color11": "#D2BF68",
+        "color12": "#748FD6",
+        "color13": "#A5A49B",
+        "color14": "#EAE3AC",
+        "color15": "#191E27"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nine-kopfer-473490-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a160b",
+        "foreground": "#c6c7be",
+        "cursor": "#c6c7be"
+    },
+    "colors": {
+        "color0": "#1a160b",
+        "color1": "#7D8267",
+        "color2": "#8E8C72",
+        "color3": "#A18F63",
+        "color4": "#BD9C68",
+        "color5": "#857F81",
+        "color6": "#98998A",
+        "color7": "#c6c7be",
+        "color8": "#8a8b85",
+        "color9": "#7D8267",
+        "color10": "#8E8C72",
+        "color11": "#A18F63",
+        "color12": "#BD9C68",
+        "color13": "#857F81",
+        "color14": "#98998A",
+        "color15": "#c6c7be"
+    }
+}

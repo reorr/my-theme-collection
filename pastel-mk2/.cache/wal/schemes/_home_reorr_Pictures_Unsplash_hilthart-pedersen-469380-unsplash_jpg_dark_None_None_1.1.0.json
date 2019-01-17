@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/hilthart-pedersen-469380-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#5b2821",
+        "foreground": "#d3cfcf",
+        "cursor": "#d3cfcf"
+    },
+    "colors": {
+        "color0": "#5b2821",
+        "color1": "#0989D6",
+        "color2": "#3093DD",
+        "color3": "#3B98E0",
+        "color4": "#489CE2",
+        "color5": "#529FE2",
+        "color6": "#53A1E4",
+        "color7": "#d3cfcf",
+        "color8": "#939090",
+        "color9": "#0989D6",
+        "color10": "#3093DD",
+        "color11": "#3B98E0",
+        "color12": "#489CE2",
+        "color13": "#529FE2",
+        "color14": "#53A1E4",
+        "color15": "#d3cfcf"
+    }
+}

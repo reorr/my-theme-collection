@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/johan-mouchet-265564-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101510",
+        "foreground": "#c0bebc",
+        "cursor": "#c0bebc"
+    },
+    "colors": {
+        "color0": "#101510",
+        "color1": "#897E75",
+        "color2": "#9D8A75",
+        "color3": "#D29D55",
+        "color4": "#48788B",
+        "color5": "#64939B",
+        "color6": "#43A3B3",
+        "color7": "#c0bebc",
+        "color8": "#868583",
+        "color9": "#897E75",
+        "color10": "#9D8A75",
+        "color11": "#D29D55",
+        "color12": "#48788B",
+        "color13": "#64939B",
+        "color14": "#43A3B3",
+        "color15": "#c0bebc"
+    }
+}

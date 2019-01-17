@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/oldskool-photography-184486-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fef7de",
+        "foreground": "#4C2C03",
+        "cursor": "#4C2C03"
+    },
+    "colors": {
+        "color0": "#fef7de",
+        "color1": "#AE6C01",
+        "color2": "#CF5401",
+        "color3": "#E75A01",
+        "color4": "#D36B01",
+        "color5": "#F17301",
+        "color6": "#BA8502",
+        "color7": "#4C2C03",
+        "color8": "#987917",
+        "color9": "#AE6C01",
+        "color10": "#CF5401",
+        "color11": "#E75A01",
+        "color12": "#D36B01",
+        "color13": "#F17301",
+        "color14": "#BA8502",
+        "color15": "#4C2C03"
+    }
+}

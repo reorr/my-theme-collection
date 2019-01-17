@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/mike-yukhtenko-111363-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfdfd",
+        "foreground": "#955B51",
+        "cursor": "#955B51"
+    },
+    "colors": {
+        "color0": "#fcfdfd",
+        "color1": "#CEAB8E",
+        "color2": "#D1B9A5",
+        "color3": "#D8C7AC",
+        "color4": "#F0D4B7",
+        "color5": "#9EB7CC",
+        "color6": "#B1CCDC",
+        "color7": "#955B51",
+        "color8": "#8d9194",
+        "color9": "#CEAB8E",
+        "color10": "#D1B9A5",
+        "color11": "#D8C7AC",
+        "color12": "#F0D4B7",
+        "color13": "#9EB7CC",
+        "color14": "#B1CCDC",
+        "color15": "#955B51"
+    }
+}

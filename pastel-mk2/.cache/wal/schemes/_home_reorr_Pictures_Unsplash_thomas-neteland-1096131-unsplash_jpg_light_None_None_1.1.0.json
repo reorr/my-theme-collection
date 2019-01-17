@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/thomas-neteland-1096131-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#eff6f8",
+        "foreground": "#162224",
+        "cursor": "#162224"
+    },
+    "colors": {
+        "color0": "#eff6f8",
+        "color1": "#0A7692",
+        "color2": "#1993AB",
+        "color3": "#3196AC",
+        "color4": "#4D98AA",
+        "color5": "#61A1B1",
+        "color6": "#4FAEC3",
+        "color7": "#162224",
+        "color8": "#5c767d",
+        "color9": "#0A7692",
+        "color10": "#1993AB",
+        "color11": "#3196AC",
+        "color12": "#4D98AA",
+        "color13": "#61A1B1",
+        "color14": "#4FAEC3",
+        "color15": "#162224"
+    }
+}

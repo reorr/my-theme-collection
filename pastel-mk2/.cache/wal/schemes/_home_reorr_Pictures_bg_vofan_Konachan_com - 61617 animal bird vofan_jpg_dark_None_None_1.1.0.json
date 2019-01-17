@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/vofan/Konachan.com - 61617 animal bird vofan.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#160e14",
+        "foreground": "#bfd1d3",
+        "cursor": "#bfd1d3"
+    },
+    "colors": {
+        "color0": "#160e14",
+        "color1": "#9C926E",
+        "color2": "#CEC071",
+        "color3": "#78698F",
+        "color4": "#729EA1",
+        "color5": "#76C9A5",
+        "color6": "#9FA09C",
+        "color7": "#bfd1d3",
+        "color8": "#859293",
+        "color9": "#9C926E",
+        "color10": "#CEC071",
+        "color11": "#78698F",
+        "color12": "#729EA1",
+        "color13": "#76C9A5",
+        "color14": "#9FA09C",
+        "color15": "#bfd1d3"
+    }
+}

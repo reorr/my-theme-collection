@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/brenda-godinez-227275-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1627",
+        "foreground": "#a2b3d6",
+        "cursor": "#a2b3d6"
+    },
+    "colors": {
+        "color0": "#0B1627",
+        "color1": "#E5B63F",
+        "color2": "#18568C",
+        "color3": "#24588C",
+        "color4": "#24649B",
+        "color5": "#2F70AB",
+        "color6": "#5B609D",
+        "color7": "#a2b3d6",
+        "color8": "#717d95",
+        "color9": "#E5B63F",
+        "color10": "#18568C",
+        "color11": "#24588C",
+        "color12": "#24649B",
+        "color13": "#2F70AB",
+        "color14": "#5B609D",
+        "color15": "#a2b3d6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/erol-ahmed-80094-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f6fafa",
+        "foreground": "#15232A",
+        "cursor": "#15232A"
+    },
+    "colors": {
+        "color0": "#f6fafa",
+        "color1": "#497B83",
+        "color2": "#568A8C",
+        "color3": "#679897",
+        "color4": "#71A19E",
+        "color5": "#77A8A7",
+        "color6": "#78A9C5",
+        "color7": "#15232A",
+        "color8": "#778585",
+        "color9": "#497B83",
+        "color10": "#568A8C",
+        "color11": "#679897",
+        "color12": "#71A19E",
+        "color13": "#77A8A7",
+        "color14": "#78A9C5",
+        "color15": "#15232A"
+    }
+}

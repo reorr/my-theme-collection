@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/Konachan.com - 229479 all_male aqua_hair archer bodysuit bow_(weapon) gradient gray_hair lancer long_hair male ponytail short_hair skintight spear tattoo weapon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161019",
+        "foreground": "#dad2ce",
+        "cursor": "#dad2ce"
+    },
+    "colors": {
+        "color0": "#161019",
+        "color1": "#BC3A2D",
+        "color2": "#916C63",
+        "color3": "#998579",
+        "color4": "#C98772",
+        "color5": "#65848E",
+        "color6": "#A6A099",
+        "color7": "#dad2ce",
+        "color8": "#989390",
+        "color9": "#BC3A2D",
+        "color10": "#916C63",
+        "color11": "#998579",
+        "color12": "#C98772",
+        "color13": "#65848E",
+        "color14": "#A6A099",
+        "color15": "#dad2ce"
+    }
+}

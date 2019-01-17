@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/w/1512965719967.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#f1f1f1",
+        "cursor": "#f1f1f1"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#C4C4C4",
+        "color2": "#CACACA",
+        "color3": "#CDCDCD",
+        "color4": "#CECECE",
+        "color5": "#D5D5D5",
+        "color6": "#E7E7E7",
+        "color7": "#f1f1f1",
+        "color8": "#a8a8a8",
+        "color9": "#C4C4C4",
+        "color10": "#CACACA",
+        "color11": "#CDCDCD",
+        "color12": "#CECECE",
+        "color13": "#D5D5D5",
+        "color14": "#E7E7E7",
+        "color15": "#f1f1f1"
+    }
+}

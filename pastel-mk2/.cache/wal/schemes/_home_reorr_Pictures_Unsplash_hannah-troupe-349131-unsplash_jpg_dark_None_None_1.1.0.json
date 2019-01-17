@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/hannah-troupe-349131-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060505",
+        "foreground": "#bfcbab",
+        "cursor": "#bfcbab"
+    },
+    "colors": {
+        "color0": "#060505",
+        "color1": "#3B3C42",
+        "color2": "#3C4346",
+        "color3": "#4A4B4E",
+        "color4": "#636A5D",
+        "color5": "#7A823E",
+        "color6": "#758F5C",
+        "color7": "#bfcbab",
+        "color8": "#858e77",
+        "color9": "#3B3C42",
+        "color10": "#3C4346",
+        "color11": "#4A4B4E",
+        "color12": "#636A5D",
+        "color13": "#7A823E",
+        "color14": "#758F5C",
+        "color15": "#bfcbab"
+    }
+}

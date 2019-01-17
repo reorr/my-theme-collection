@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/LOOWD/1483796336332.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#120E0E",
+        "cursor": "#120E0E"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#FEAC78",
+        "color2": "#6BB89F",
+        "color3": "#CEB094",
+        "color4": "#FDB985",
+        "color5": "#A3C3B4",
+        "color6": "#FECB91",
+        "color7": "#120E0E",
+        "color8": "#989898",
+        "color9": "#FEAC78",
+        "color10": "#6BB89F",
+        "color11": "#CEB094",
+        "color12": "#FDB985",
+        "color13": "#A3C3B4",
+        "color14": "#FECB91",
+        "color15": "#120E0E"
+    }
+}

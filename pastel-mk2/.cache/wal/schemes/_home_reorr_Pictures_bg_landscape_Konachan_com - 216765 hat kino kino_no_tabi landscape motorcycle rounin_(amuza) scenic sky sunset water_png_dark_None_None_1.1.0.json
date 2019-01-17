@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/landscape/Konachan.com - 216765 hat kino kino_no_tabi landscape motorcycle rounin_(amuza) scenic sky sunset water.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0f13",
+        "foreground": "#d4d8da",
+        "cursor": "#d4d8da"
+    },
+    "colors": {
+        "color0": "#0c0f13",
+        "color1": "#687886",
+        "color2": "#78868C",
+        "color3": "#929EA3",
+        "color4": "#AAB4B6",
+        "color5": "#D3CBB5",
+        "color6": "#B1BDC2",
+        "color7": "#d4d8da",
+        "color8": "#949798",
+        "color9": "#687886",
+        "color10": "#78868C",
+        "color11": "#929EA3",
+        "color12": "#AAB4B6",
+        "color13": "#D3CBB5",
+        "color14": "#B1BDC2",
+        "color15": "#d4d8da"
+    }
+}

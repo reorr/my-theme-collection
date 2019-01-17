@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/abhishek-sanwa-limbu-782224-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0906",
+        "foreground": "#aebc9e",
+        "cursor": "#aebc9e"
+    },
+    "colors": {
+        "color0": "#0b0906",
+        "color1": "#6F4E32",
+        "color2": "#6E5D4D",
+        "color3": "#B1481A",
+        "color4": "#935E2B",
+        "color5": "#8F6C4F",
+        "color6": "#9C745B",
+        "color7": "#aebc9e",
+        "color8": "#79836e",
+        "color9": "#6F4E32",
+        "color10": "#6E5D4D",
+        "color11": "#B1481A",
+        "color12": "#935E2B",
+        "color13": "#8F6C4F",
+        "color14": "#9C745B",
+        "color15": "#aebc9e"
+    }
+}

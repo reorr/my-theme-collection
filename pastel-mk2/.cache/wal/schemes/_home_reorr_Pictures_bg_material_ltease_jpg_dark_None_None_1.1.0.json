@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/material/ltease.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100d45",
+        "foreground": "#ed88aa",
+        "cursor": "#ed88aa"
+    },
+    "colors": {
+        "color0": "#100d45",
+        "color1": "#C4195D",
+        "color2": "#E5195E",
+        "color3": "#C6205E",
+        "color4": "#C81D61",
+        "color5": "#E81E62",
+        "color6": "#CB2164",
+        "color7": "#ed88aa",
+        "color8": "#a55f76",
+        "color9": "#C4195D",
+        "color10": "#E5195E",
+        "color11": "#C6205E",
+        "color12": "#C81D61",
+        "color13": "#E81E62",
+        "color14": "#CB2164",
+        "color15": "#ed88aa"
+    }
+}

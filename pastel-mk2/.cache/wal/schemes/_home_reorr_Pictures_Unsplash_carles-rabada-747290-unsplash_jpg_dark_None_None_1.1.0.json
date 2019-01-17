@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/carles-rabada-747290-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1805",
+        "foreground": "#dce58f",
+        "cursor": "#dce58f"
+    },
+    "colors": {
+        "color0": "#0f1805",
+        "color1": "#6F900B",
+        "color2": "#6A9911",
+        "color3": "#729548",
+        "color4": "#8FB00B",
+        "color5": "#97A619",
+        "color6": "#A9CD10",
+        "color7": "#dce58f",
+        "color8": "#9aa064",
+        "color9": "#6F900B",
+        "color10": "#6A9911",
+        "color11": "#729548",
+        "color12": "#8FB00B",
+        "color13": "#97A619",
+        "color14": "#A9CD10",
+        "color15": "#dce58f"
+    }
+}

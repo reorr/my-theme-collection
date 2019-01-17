@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/pokemon_grill.png",
+    "alpha": "100",
+    "special": {
+        "background": "#050405",
+        "foreground": "#c9c6c5",
+        "cursor": "#c9c6c5"
+    },
+    "colors": {
+        "color0": "#050405",
+        "color1": "#A7665F",
+        "color2": "#568B5D",
+        "color3": "#B99E76",
+        "color4": "#4B6B92",
+        "color5": "#C87C8C",
+        "color6": "#659CB4",
+        "color7": "#c9c6c5",
+        "color8": "#8c8a89",
+        "color9": "#A7665F",
+        "color10": "#568B5D",
+        "color11": "#B99E76",
+        "color12": "#4B6B92",
+        "color13": "#C87C8C",
+        "color14": "#659CB4",
+        "color15": "#c9c6c5"
+    }
+}

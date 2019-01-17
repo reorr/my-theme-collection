@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/ren-ran-232078-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C110A",
+        "foreground": "#9cc490",
+        "cursor": "#9cc490"
+    },
+    "colors": {
+        "color0": "#0C110A",
+        "color1": "#2D5229",
+        "color2": "#326F2C",
+        "color3": "#456E2E",
+        "color4": "#396B4C",
+        "color5": "#338C1B",
+        "color6": "#388C2D",
+        "color7": "#9cc490",
+        "color8": "#6d8964",
+        "color9": "#2D5229",
+        "color10": "#326F2C",
+        "color11": "#456E2E",
+        "color12": "#396B4C",
+        "color13": "#338C1B",
+        "color14": "#388C2D",
+        "color15": "#9cc490"
+    }
+}

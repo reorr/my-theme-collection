@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/mnt/data/Hiburan/Gambar/Pictures/dl4chan/1490884176007.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#5b4a4d",
+        "foreground": "#f2ede0",
+        "cursor": "#f2ede0"
+    },
+    "colors": {
+        "color0": "#5b4a4d",
+        "color1": "#E3AAA6",
+        "color2": "#BBC5BC",
+        "color3": "#EDD5B0",
+        "color4": "#B5DDCB",
+        "color5": "#F0D3CC",
+        "color6": "#D1E2D2",
+        "color7": "#f2ede0",
+        "color8": "#a9a59c",
+        "color9": "#E3AAA6",
+        "color10": "#BBC5BC",
+        "color11": "#EDD5B0",
+        "color12": "#B5DDCB",
+        "color13": "#F0D3CC",
+        "color14": "#D1E2D2",
+        "color15": "#f2ede0"
+    }
+}

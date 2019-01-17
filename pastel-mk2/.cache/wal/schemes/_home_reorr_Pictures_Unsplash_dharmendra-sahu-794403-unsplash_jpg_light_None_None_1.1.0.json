@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/dharmendra-sahu-794403-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fafcfa",
+        "foreground": "#1B2613",
+        "cursor": "#1B2613"
+    },
+    "colors": {
+        "color0": "#fafcfa",
+        "color1": "#547A87",
+        "color2": "#1895AB",
+        "color3": "#5F939C",
+        "color4": "#32CAB8",
+        "color5": "#06B3E0",
+        "color6": "#11DDE6",
+        "color7": "#1B2613",
+        "color8": "#859087",
+        "color9": "#547A87",
+        "color10": "#1895AB",
+        "color11": "#5F939C",
+        "color12": "#32CAB8",
+        "color13": "#06B3E0",
+        "color14": "#11DDE6",
+        "color15": "#1B2613"
+    }
+}

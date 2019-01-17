@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/pooja-chaudhary-633057-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1213",
+        "foreground": "#cce4ed",
+        "cursor": "#cce4ed"
+    },
+    "colors": {
+        "color0": "#0F1213",
+        "color1": "#59C6DE",
+        "color2": "#75CFE5",
+        "color3": "#C4C6AC",
+        "color4": "#9FB2CD",
+        "color5": "#B5C9DA",
+        "color6": "#90D8EA",
+        "color7": "#cce4ed",
+        "color8": "#8e9fa5",
+        "color9": "#59C6DE",
+        "color10": "#75CFE5",
+        "color11": "#C4C6AC",
+        "color12": "#9FB2CD",
+        "color13": "#B5C9DA",
+        "color14": "#90D8EA",
+        "color15": "#cce4ed"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/vitchakorn-koonyosying-527283-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfcfc",
+        "foreground": "#13210D",
+        "cursor": "#13210D"
+    },
+    "colors": {
+        "color0": "#fcfcfc",
+        "color1": "#55A0B5",
+        "color2": "#5AA4B9",
+        "color3": "#A29893",
+        "color4": "#9BBFB7",
+        "color5": "#B6AEAC",
+        "color6": "#C2BDBA",
+        "color7": "#13210D",
+        "color8": "#8f8d90",
+        "color9": "#55A0B5",
+        "color10": "#5AA4B9",
+        "color11": "#A29893",
+        "color12": "#9BBFB7",
+        "color13": "#B6AEAC",
+        "color14": "#C2BDBA",
+        "color15": "#13210D"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/katherine-chase-246696-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151005",
+        "foreground": "#afdadf",
+        "cursor": "#afdadf"
+    },
+    "colors": {
+        "color0": "#151005",
+        "color1": "#377987",
+        "color2": "#8C7A88",
+        "color3": "#2499A7",
+        "color4": "#5B9EAB",
+        "color5": "#34B5C3",
+        "color6": "#69B7C6",
+        "color7": "#afdadf",
+        "color8": "#7a989c",
+        "color9": "#377987",
+        "color10": "#8C7A88",
+        "color11": "#2499A7",
+        "color12": "#5B9EAB",
+        "color13": "#34B5C3",
+        "color14": "#69B7C6",
+        "color15": "#afdadf"
+    }
+}

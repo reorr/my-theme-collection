@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/henrique-dias-641917-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#231917",
+        "foreground": "#cfd4d7",
+        "cursor": "#cfd4d7"
+    },
+    "colors": {
+        "color0": "#231917",
+        "color1": "#768692",
+        "color2": "#7A90A4",
+        "color3": "#899295",
+        "color4": "#8B9BA7",
+        "color5": "#99A5AC",
+        "color6": "#A6B1B6",
+        "color7": "#cfd4d7",
+        "color8": "#909496",
+        "color9": "#768692",
+        "color10": "#7A90A4",
+        "color11": "#899295",
+        "color12": "#8B9BA7",
+        "color13": "#99A5AC",
+        "color14": "#A6B1B6",
+        "color15": "#cfd4d7"
+    }
+}

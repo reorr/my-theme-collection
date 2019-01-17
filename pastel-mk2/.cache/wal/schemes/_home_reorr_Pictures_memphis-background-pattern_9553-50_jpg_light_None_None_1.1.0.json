@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/memphis-background-pattern_9553-50.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#47494F",
+        "cursor": "#47494F"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#A1A7A9",
+        "color2": "#D690BD",
+        "color3": "#FB86B2",
+        "color4": "#FDF490",
+        "color5": "#E0ECAD",
+        "color6": "#96ADD8",
+        "color7": "#47494F",
+        "color8": "#969797",
+        "color9": "#A1A7A9",
+        "color10": "#D690BD",
+        "color11": "#FB86B2",
+        "color12": "#FDF490",
+        "color13": "#E0ECAD",
+        "color14": "#96ADD8",
+        "color15": "#47494F"
+    }
+}

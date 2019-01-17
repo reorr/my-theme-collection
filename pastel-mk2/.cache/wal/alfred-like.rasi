@@ -1,0 +1,40 @@
+configuration {
+    display-drun:    "❱";
+    show-icons:      true;
+}
+
+* {
+    font: "Abel 12";
+    padding: 5px 10px;
+    background-color: #fefbfd;
+    color: #755891;
+}
+
+#entry {
+    font: "Abel 15";
+}
+
+window {
+    border-radius: 0px;
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    /* fullscreen:true; */
+}
+
+#prompt {
+    color: #B6A4D2;
+    font: "Abel 15";
+}
+      
+listview {
+    padding: 20px 10px 0px 10px;
+    spacing: 0.5em;
+}
+
+#element selected {
+  text-color: #B6A4D2;
+  font: "Abel 10";
+}
+
+/* vim:ft=css

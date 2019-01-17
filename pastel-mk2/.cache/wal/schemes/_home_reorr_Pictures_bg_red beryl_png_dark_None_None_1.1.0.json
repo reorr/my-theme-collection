@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/red beryl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030101",
+        "foreground": "#f6c1cb",
+        "cursor": "#f6c1cb"
+    },
+    "colors": {
+        "color0": "#030101",
+        "color1": "#A97985",
+        "color2": "#FB5985",
+        "color3": "#E67693",
+        "color4": "#FD7094",
+        "color5": "#AC9B9F",
+        "color6": "#D89BA7",
+        "color7": "#f6c1cb",
+        "color8": "#ac878e",
+        "color9": "#A97985",
+        "color10": "#FB5985",
+        "color11": "#E67693",
+        "color12": "#FD7094",
+        "color13": "#AC9B9F",
+        "color14": "#D89BA7",
+        "color15": "#f6c1cb"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/mailxmeimei.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefdfd",
+        "foreground": "#352021",
+        "cursor": "#352021"
+    },
+    "colors": {
+        "color0": "#fefdfd",
+        "color1": "#758271",
+        "color2": "#B08A67",
+        "color3": "#CC8B76",
+        "color4": "#797688",
+        "color5": "#9D9693",
+        "color6": "#95A290",
+        "color7": "#352021",
+        "color8": "#959392",
+        "color9": "#758271",
+        "color10": "#B08A67",
+        "color11": "#CC8B76",
+        "color12": "#797688",
+        "color13": "#9D9693",
+        "color14": "#95A290",
+        "color15": "#352021"
+    }
+}

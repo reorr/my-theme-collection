@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/wesual-click-72548-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100c0f",
+        "foreground": "#c3c69e",
+        "cursor": "#c3c69e"
+    },
+    "colors": {
+        "color0": "#100c0f",
+        "color1": "#545C63",
+        "color2": "#645D61",
+        "color3": "#596568",
+        "color4": "#697072",
+        "color5": "#87727F",
+        "color6": "#728A42",
+        "color7": "#c3c69e",
+        "color8": "#888a6e",
+        "color9": "#545C63",
+        "color10": "#645D61",
+        "color11": "#596568",
+        "color12": "#697072",
+        "color13": "#87727F",
+        "color14": "#728A42",
+        "color15": "#c3c69e"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/andrea-tummons-448119-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#24120d",
+        "foreground": "#a5a8a0",
+        "cursor": "#a5a8a0"
+    },
+    "colors": {
+        "color0": "#24120d",
+        "color1": "#3C4333",
+        "color2": "#5E4D2B",
+        "color3": "#494837",
+        "color4": "#3E4541",
+        "color5": "#525447",
+        "color6": "#665A4C",
+        "color7": "#a5a8a0",
+        "color8": "#737570",
+        "color9": "#3C4333",
+        "color10": "#5E4D2B",
+        "color11": "#494837",
+        "color12": "#3E4541",
+        "color13": "#525447",
+        "color14": "#665A4C",
+        "color15": "#a5a8a0"
+    }
+}

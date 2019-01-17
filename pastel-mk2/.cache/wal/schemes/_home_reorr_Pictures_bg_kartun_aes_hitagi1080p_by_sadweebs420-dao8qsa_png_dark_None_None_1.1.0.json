@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/kartun/aes_hitagi1080p_by_sadweebs420-dao8qsa.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e3c",
+        "foreground": "#b1e1e6",
+        "cursor": "#b1e1e6"
+    },
+    "colors": {
+        "color0": "#1a1e3c",
+        "color1": "#CE3BD6",
+        "color2": "#954EE0",
+        "color3": "#39BAE7",
+        "color4": "#578FE9",
+        "color5": "#5FA7E2",
+        "color6": "#67B1E5",
+        "color7": "#b1e1e6",
+        "color8": "#7b9da1",
+        "color9": "#CE3BD6",
+        "color10": "#954EE0",
+        "color11": "#39BAE7",
+        "color12": "#578FE9",
+        "color13": "#5FA7E2",
+        "color14": "#67B1E5",
+        "color15": "#b1e1e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/fancycrave-584267-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1016",
+        "foreground": "#8da3c2",
+        "cursor": "#8da3c2"
+    },
+    "colors": {
+        "color0": "#0B1016",
+        "color1": "#535D5B",
+        "color2": "#A1201B",
+        "color3": "#C14836",
+        "color4": "#D5645D",
+        "color5": "#488970",
+        "color6": "#B19769",
+        "color7": "#8da3c2",
+        "color8": "#627287",
+        "color9": "#535D5B",
+        "color10": "#A1201B",
+        "color11": "#C14836",
+        "color12": "#D5645D",
+        "color13": "#488970",
+        "color14": "#B19769",
+        "color15": "#8da3c2"
+    }
+}

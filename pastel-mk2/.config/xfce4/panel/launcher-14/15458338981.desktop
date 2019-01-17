@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=rofi
+Comment=
+Exec=rofi-launch
+Icon=/home/reorr/.layers.svg
+Path=
+Terminal=false
+StartupNotify=false

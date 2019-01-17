@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/bg/old_file/16_harvesttime.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141618",
+        "foreground": "#b3d0d5",
+        "cursor": "#b3d0d5"
+    },
+    "colors": {
+        "color0": "#141618",
+        "color1": "#90A06C",
+        "color2": "#BDCA75",
+        "color3": "#415394",
+        "color4": "#4F5D9E",
+        "color5": "#907798",
+        "color6": "#70AA9C",
+        "color7": "#b3d0d5",
+        "color8": "#7d9195",
+        "color9": "#90A06C",
+        "color10": "#BDCA75",
+        "color11": "#415394",
+        "color12": "#4F5D9E",
+        "color13": "#907798",
+        "color14": "#70AA9C",
+        "color15": "#b3d0d5"
+    }
+}

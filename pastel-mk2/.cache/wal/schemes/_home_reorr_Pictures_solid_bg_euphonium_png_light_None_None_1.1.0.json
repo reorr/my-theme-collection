@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/solid_bg/euphonium.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fefcfc",
+        "foreground": "#393035",
+        "cursor": "#393035"
+    },
+    "colors": {
+        "color0": "#fefcfc",
+        "color1": "#973A52",
+        "color2": "#975D54",
+        "color3": "#C14561",
+        "color4": "#C14B60",
+        "color5": "#BE9A67",
+        "color6": "#FDD65F",
+        "color7": "#393035",
+        "color8": "#97908d",
+        "color9": "#973A52",
+        "color10": "#975D54",
+        "color11": "#C14561",
+        "color12": "#C14B60",
+        "color13": "#BE9A67",
+        "color14": "#FDD65F",
+        "color15": "#393035"
+    }
+}

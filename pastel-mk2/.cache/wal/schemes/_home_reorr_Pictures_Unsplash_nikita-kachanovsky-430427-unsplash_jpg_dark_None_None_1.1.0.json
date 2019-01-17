@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/nikita-kachanovsky-430427-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0d0f",
+        "foreground": "#ced1cf",
+        "cursor": "#ced1cf"
+    },
+    "colors": {
+        "color0": "#0b0d0f",
+        "color1": "#6E8B67",
+        "color2": "#AF9A5E",
+        "color3": "#929971",
+        "color4": "#388586",
+        "color5": "#738F8E",
+        "color6": "#9BA598",
+        "color7": "#ced1cf",
+        "color8": "#909290",
+        "color9": "#6E8B67",
+        "color10": "#AF9A5E",
+        "color11": "#929971",
+        "color12": "#388586",
+        "color13": "#738F8E",
+        "color14": "#9BA598",
+        "color15": "#ced1cf"
+    }
+}

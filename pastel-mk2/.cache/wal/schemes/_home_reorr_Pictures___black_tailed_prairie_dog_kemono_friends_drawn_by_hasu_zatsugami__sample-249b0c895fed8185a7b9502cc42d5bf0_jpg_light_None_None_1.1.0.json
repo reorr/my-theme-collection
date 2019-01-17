@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/__black_tailed_prairie_dog_kemono_friends_drawn_by_hasu_zatsugami__sample-249b0c895fed8185a7b9502cc42d5bf0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#776554",
+        "cursor": "#776554"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#6FA1D0",
+        "color2": "#74BAFF",
+        "color3": "#ACA096",
+        "color4": "#CCB59B",
+        "color5": "#CFB9A7",
+        "color6": "#E2DAA0",
+        "color7": "#776554",
+        "color8": "#989797",
+        "color9": "#6FA1D0",
+        "color10": "#74BAFF",
+        "color11": "#ACA096",
+        "color12": "#CCB59B",
+        "color13": "#CFB9A7",
+        "color14": "#E2DAA0",
+        "color15": "#776554"
+    }
+}

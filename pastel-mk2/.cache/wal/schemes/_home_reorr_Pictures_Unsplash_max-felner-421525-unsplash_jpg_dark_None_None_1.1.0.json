@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/reorr/Pictures/Unsplash/max-felner-421525-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101115",
+        "foreground": "#a7abc5",
+        "cursor": "#a7abc5"
+    },
+    "colors": {
+        "color0": "#101115",
+        "color1": "#5A4B68",
+        "color2": "#915F68",
+        "color3": "#B9847A",
+        "color4": "#33508D",
+        "color5": "#1A5BBA",
+        "color6": "#4A588F",
+        "color7": "#a7abc5",
+        "color8": "#747789",
+        "color9": "#5A4B68",
+        "color10": "#915F68",
+        "color11": "#B9847A",
+        "color12": "#33508D",
+        "color13": "#1A5BBA",
+        "color14": "#4A588F",
+        "color15": "#a7abc5"
+    }
+}
