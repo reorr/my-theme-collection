@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+
+#requirements rofi, xsel, xdotool, curl, xmllint
+
+source "$HOME/.bin/rofi-effects";
+config="~/.cache/wal/portrait.rasi"
+UNICODE_FILE="$HOME/.cache/unicode.txt"
+
+function notify() {
+    if [ "$(command -v notify-send)" ]; then
+        notify-send "$1" "$2"
+    fi
+}
+
+function download() {
+    notify `basename "$0"` 'Downloading all unicode character for your pleasure'
+
+    curl https://gist.githubusercontent.com/anonymous/de7f9413b826b869e397de7f57584880/raw/42560f21f77c2361910e9c975192966cc6d147c9/unicode.txt > $UNICODE_FILE
+
+    notify `basename "$0"` "We're all set!"
+}
+
+function display() {
+    unicode=$(cat "$UNICODE_FILE" | grep -v '#' | grep -v '^[[:space:]]*$')
+    line=$(echo "$unicode" | rofi -dmenu -i -location 1 -config $config -p unicode -kb-custom-1 Ctrl+c $@)
+    
+    exit_code=$?
+
+    line=($line)
+
+    if [ $exit_code == 0 ]; then
+        sleep 0.1
+        xdotool type --clearmodifiers "${line[0]}"
+    elif [ $exit_code == 10 ]; then
+        echo -n "${line[0]}" | xsel -i -b
+        notify `basename "$0"` "unicode character copied to clipboard"
+    fi
+}
+
+if [[ "$1" =~ -D|--download ]]; then
+    download
+    exit 0
+elif [[ "$1" =~ -h|--help ]]; then
+    echo "usage: $0 [-D|--download]"
+    exit 0
+fi
+
+if [ ! -f "$UNICODE_FILE" ]; then
+    download
+fi
+
+display &
+#sleep 1
+#rofi_window_pop -

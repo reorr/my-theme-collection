@@ -1,0 +1,69 @@
+#!/bin/env bash
+#: yuune i3lock-color wrapper
+#: after changing wallpaper, run "lock reload" to redraw the new wallpaper
+
+#wallpaper="/home/reorr/Pictures/Unsplash/tim-foster-394828-unsplash.jpg"
+wallpaper="/home/reorr/Pictures/Unsplash/joshua-coleman-763674-unsplash.jpg"
+
+tmpwall="/tmp/$USER-lock.png"
+eval $(xdotool getdisplaygeometry --shell)
+genwp () {
+    if [[ "$1" == "reload" ]]; then
+        rm $tmpwall 2&>/dev/null
+    fi
+
+    if [[ ! -f $tmpwall ]]; then
+        convert "$wallpaper" -resize ${WIDTH}x -gravity center -crop ${WIDTH}x${HEIGHT}+0+0 +repage \( \
+            -size 120x140 xc:none \
+            -draw "roundrectangle 0,0,120,140,20,20" \
+            -draw "rectangle 0,140 120,120" -normalize +level 0,50% \
+            \) -gravity south -compose over -composite $tmpwall
+    fi
+}
+
+runlock () {
+    i3lock -n --force-clock -i $tmpwall \
+        --indpos="$WIDTH/2:$HEIGHT-80" --timepos="$WIDTH/2:$HEIGHT/2" \
+        --insidevercolor=00000000 --insidewrongcolor=00000000 --insidecolor=00000000 \
+        --ringvercolor=b2ebf2aa --ringwrongcolor=f8bbd0aa --ringcolor=edededaa \
+        --keyhlcolor=ededed99 --bshlcolor=ededed99 --separatorcolor=00000000 \
+        --layoutcolor=00000000 \
+        --line-uses-ring \
+        --timestr="%I.%M" \
+        --timecolor=fefefeff \
+        --time-font="SF Pro" \
+        --timesize=80 \
+        --datestr="%A, %b %d" \
+        --datecolor=fefefeff \
+        --date-font="SF Pro" \
+        --datesize=16 \
+        --radius 20 --ring-width 15 \
+        #--no-unlock-indicator \
+        --indicator \
+        --veriftext="" \
+        --wrongtext="" \
+        --noinputtext=""
+}
+
+slowfade () {
+    dis=$(echo -n "$DISPLAY" | tr -c '[:alnum:]' _)
+    ifc='com.github.chjj.compton'
+    obj='/com/github/chjj/compton'
+    if [[ "$1" == "start" ]]; then
+        dbus-send --print-reply --dest=$ifc.$dis \
+            $obj $ifc.opts_set string:fade_in_step double:0.02
+        dbus-send --print-reply --dest=$ifc.$dis \
+            $obj $ifc.opts_set string:fade_out_step double:0.02
+    else
+        dbus-send --print-reply --dest=$ifc.$dis \
+            $obj $ifc.opts_set string:fade_in_step double:0.1
+        dbus-send --print-reply --dest=$ifc.$dis \
+            $obj $ifc.opts_set string:fade_out_step double:0.1
+    fi
+}
+
+slowfade start
+genwp $1
+runlock
+sleep 1
+slowfade end

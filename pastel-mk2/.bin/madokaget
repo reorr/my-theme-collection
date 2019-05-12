@@ -1,3 +1,0 @@
-#!/bin/env bash
-
-wget -c -r -l1 -H -t1 -nd -N -np -A$1 -erobots=off --user=reorr --password=kaskus123 $2

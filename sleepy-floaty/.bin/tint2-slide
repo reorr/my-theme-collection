@@ -1,0 +1,32 @@
+#!/bin/env bash
+
+
+animationSpeed=15
+displacement=93
+tint2_slide=/tmp/tint2_slide
+winId=$(xdotool search --class "Tint2" | tail -n 1)
+
+slide_v () {
+case "$1" in
+    '-')
+        for ((i=$animationSpeed; i<=$displacement; i+=$animationSpeed)); do
+            xdotool windowmove --relative "$winId" 0 +$animationSpeed
+            sleep 0.01
+        done
+        touch $tint2_slide
+    ;;
+    '+')
+        for ((i=$animationSpeed; i<=$displacement; i+=$animationSpeed)); do
+            xdotool windowmove --relative "$winId" 0 -$animationSpeed
+            sleep 0.01
+        done
+        rm $tint2_slide
+    ;;
+esac
+}
+
+if [ -f $tint2_slide ]; then
+    slide_v +
+else
+    slide_v -
+fi

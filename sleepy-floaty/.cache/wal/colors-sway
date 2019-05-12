@@ -1,0 +1,21 @@
+set $wallpaper /home/tomato/Pictures/1556160331199.jpg
+
+set $background #fefcfb
+set $foreground #383B44
+
+set $color0 #fefcfb
+set $color1 #7C91C3
+set $color2 #8F9AAC
+set $color3 #979DA5
+set $color4 #94A8B4
+set $color5 #D2BDB5
+set $color6 #8597C6
+set $color7 #383B44
+set $color8 #978e8b
+set $color9 #7C91C3
+set $color10 #8F9AAC
+set $color11 #979DA5
+set $color12 #94A8B4
+set $color13 #D2BDB5
+set $color14 #8597C6
+set $color15 #383B44

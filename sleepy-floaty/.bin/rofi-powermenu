@@ -1,0 +1,56 @@
+#!/bin/env bash
+
+rofi_command="rofi -config ~/.config/rofi/powermenu.rasi"
+
+source "/home/reorr/Saus/sys-admin/scripts/rofi-widgets/wrapper/rofi-effects.sh";
+
+options=$'\n\n\n\n' 
+
+display(){
+action=$(echo "$options" | $rofi_command -dmenu -p "")
+case $action in
+	 )
+		doit="systemctl poweroff"
+		name="shutdown"
+		;;
+	 )
+		doit="systemctl reboot"
+		name="restart"
+		;;
+	 )
+		doit="openbox --exit"
+		name="logout"
+		;;			
+	 )
+		doit="systemctl suspend"
+		name="suspend"
+		;;			
+	 )
+		doit="mantablockscreen -cc"
+		name="lockscreen"
+		;;
+esac
+}
+
+dialog(){
+confirm=$(echo -e "Yes\nNo" | rofi -dmenu -i -lines 2 -p "${name}?" )
+case $confirm in
+	Yes )
+		${doit}
+		;;
+	No )
+		exit 0
+		;;
+esac
+}
+
+main(){
+display &
+sleep 0.3
+rofi_window_pop -
+dialog &
+sleep 0.3
+rofi_window_pop -
+}
+
+main

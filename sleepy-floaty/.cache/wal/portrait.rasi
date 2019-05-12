@@ -1,0 +1,39 @@
+configuration {
+    display-drun:    "❱";
+    show-icons:      true;
+}
+
+* {
+    font: "SF Pro Display 10";
+    padding: 5px 10px;
+    background-color: #fefcfb;
+    color: #383B44;
+}
+
+#entry {
+    font: "Abel 13";
+}
+
+window {
+    border-radius: 5px;
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    /* fullscreen:true; */
+}
+
+#prompt {
+    color: #8F9AAC;
+    font: "SF Pro Display 13";
+}
+      
+listview {
+    padding: 20px 10px 0px 10px;
+    spacing: 0.5em;
+}
+
+#element selected {
+  text-color: #8F9AAC;
+}
+
+/* vim:ft=css

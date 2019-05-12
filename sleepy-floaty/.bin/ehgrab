@@ -1,0 +1,352 @@
+#!/bin/bash
+########################################################################################################################
+# EHgrab                                                                                                               #
+# Version 3.0.0                                                                                                        #
+#                                                                                                                      #
+# A shell script for automatically downloading image galleries from E-Hentai (https://e-hentai.org).                   #
+# See README.md for additional details.                                                                                #
+#                                                                                                                      #
+# Copyright 2016-2018 "Cacoethic Cavalier" <code@cacocav.com>                                                          #
+#                                                                                                                      #
+# Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with  #
+# the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0                      #
+#                                                                                                                      #
+# Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on  #
+# an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the   #
+# specific language governing permissions and limitations under the License.                                           #
+########################################################################################################################
+
+usage="Usage: ehgrab [OPTION]... URL [DIR]"
+version="EHgrab 3.0.0"
+imgnum=1
+
+# error out with usage message if at least one argument isn't provided
+[[ $# -eq 0 ]] && echo -e "$usage\nTry 'ehgrab --help' for more information." >&2 && exit 1
+
+# define debug level output
+if [[ $@ == *"--debug"* ]]; then
+    debug=1
+    exec 3>&1
+else
+    exec 3>/dev/null
+fi
+
+########################################################################################################################
+#                                                       Functions                                                      #
+########################################################################################################################
+
+# given a webpage's content, get only the links, on their own lines
+isolateLinks() {
+    # separate links onto their own lines
+    sed "s;<a ;\n&;g" |
+    sed "s;</a>;&\n;g" |
+    # select only lines with links
+    grep "</a>"
+}
+
+# given an anchor tag, get only the URL
+isolateURL() {
+    sed "s;<a.*href=\";;" |
+    sed "s;\".*;;"
+}
+
+# take the string provided as the first argument and generate a compatible filename
+genFilename() {
+    filename="$(printf "%04d" "$imgnum")$(echo $1 | sed "s;.*\.;\.;")"
+    echo -e "\tGenerated filename: $filename" >&3
+    echo "$path/$filename"
+}
+
+downloadImage() {
+    if [[ $auth_mode && -z $sd && $(echo "$current_page_content)" | grep "Download original") ]]; then
+        echo -e "\tUsing authenticated mode, downloading of high definition images enabled, " \
+                "and high definition image available:" >&3
+        echo -e "\tDownloading high definition image" >&3
+
+        # get the URL or the original image link
+        url="$(
+            echo $current_page_content |
+            isolateLinks |
+            # isolate original file link (FRAGILE)
+            grep "Download original" |
+            isolateURL |
+            # remove the "amp;" codes after the ampersands, leaving just the ampersands
+            sed "s;amp\;;;g"
+        )"
+        echo -e "\tDetected original image link: $url" >&3
+
+        # get the recommended filename
+        recName="$(
+            # get header from image HTTP response
+            curl -sLI --cookie "$cookies" -- $url |
+            # isolate the line with the filename
+            grep -Eo "filename=.*$" |
+            # isolate the filename
+            sed "s;filename=;;" |
+            # get rid of the carriage return, if there is one
+            tr -d "\r"
+        )"
+        echo -e "\tServer recommended filename: $recName" >&3
+
+        filename=$(genFilename $recName)
+
+        # exit function if the file exists and force download flag isn't set
+        [[ -e $filename && -z $force ]] &&
+        echo -e "\tFile $filename exists and force download flag not set: skipping download" >&3 && return 1
+
+        # download the image (FRAGILE)
+        curl -sL -o $filename -b "$cookies" -- $url
+    else
+        echo -e "\tDownloading standard definition image" >&3
+
+        # get image URL
+        url="$(
+            echo $current_page_content |
+            # separate images onto their own lines
+            sed "s;<img;\n&;g" |
+            sed "s;>;&\n;g" |
+            # select only lines with images
+            grep "<img" |
+            # isolate the main image (FRAGILE)
+            grep "style" |
+            # isolate the src URL
+            sed "s;.*src=\";;" |
+            sed "s;\".*;;"
+        )"
+        echo -e "\tDetected image link: $url" >&3
+
+        filename=$(genFilename $url)
+
+        # exit function if the file exists and force download flag isn't set
+        [[ -e $filename && -z $force ]] &&
+        echo -e "\tFile $filename exists and force download flag not set: skipping download" >&3 && return 1
+
+        # download the image
+        curl -s -o $filename -b "$cookies" -- $url
+    fi
+}
+
+getNextPage() {
+    previous_page=$current_page
+    current_page=$(
+        echo "$current_page_content" |
+        isolateLinks |
+        # isolate links with the "next" image inside (FRAGILE)
+        grep "n\.png" |
+        isolateURL |
+        # get only one (multiple links remain due to multiple nav groups)
+        head -1
+    )
+    current_page_content=$(curl -s --cookie "$cookies" -- $current_page)
+}
+
+########################################################################################################################
+
+# parse arguments
+
+while [[ $# -gt 0 ]]; do
+    case $1 in
+        -c|--config)
+            # specify a location in which to look for a config file for this script
+            echo "Config flag set: setting config file location to $2" >&3
+            [[ -f $2 ]] && config=$2 || echo "Config file \"$2\" does not exist. Ignoring." >&2
+            shift 2
+        ;;
+        --debug)
+            # debug is handled before other arguments, so just shift it out
+            shift
+        ;;
+        -f|--force)
+            # force images to download, even if a file with the image's name already exists in the destination folder
+            echo "Force flag set: setting option to force image downloads" >&3
+            force=1
+            shift
+        ;;
+        -h|--help)
+            echo "Help flag is set: displaying help and exiting" >&3
+            echo $version
+            echo $usage
+            echo
+            echo "OPTIONS:"
+            printf "%-17s \t%s\n" "-c, --config FILE" \
+                   "Specify a path to a file to use as a configuration file (default ~/.ehgrab)"
+            printf "%-17s \t%s\n" "--debug" \
+                   "Enable verbose output for debugging"
+            printf "%-17s \t%s\n" "-h, --help" \
+                   "Display help"
+            printf "%-17s \t%s\n" "-p, --pass STRING" \
+                   "Specify a string to use as the password hash"
+            printf "%-17s \t%s\n" "-q, --quiet" \
+                   "Silence all output, including errors"
+            printf "%-17s \t%s\n" "--sd" \
+                   "Download only standard definition images, even if high definition images are available"
+            printf "%-17s \t%s\n" "-u, --user STRING" \
+                   "Specify a string to use as the user ID"
+            printf "%-17s \t%s\n" "-v, --version" \
+                   "Display version"
+            printf "%-17s \t%s\n" "-z, --zero" \
+                   "Start file names at 0000.extension (default 0001.extension)"
+            exit 0
+        ;;
+        -p|--pass)
+            # specify a password hash
+            echo "Pass flag is set: setting password hash to $2" >&3
+            [[ -n $2 ]] && passh=$2
+            shift 2
+        ;;
+        -q|--quiet)
+            echo "Quiet flag is set, but debug mode is active. Output will not be silenced." >&3
+            [[ -z $debug ]] && exec 1>/dev/null && exec 2>/dev/null
+            shift
+        ;;
+        --sd)
+            # force downloading of only standard definition images
+            echo "Standard definition flag is set: setting option to download only standard definition images" >&3
+            sd=1
+            shift
+        ;;
+        -u|--user)
+            # specify a user id
+            echo "User ID flag is set: setting user ID to $2" >&3
+            [[ -n $2 ]] && userid=$2
+            shift 2
+        ;;
+        -v|--version)
+            # display version information and exit
+            echo "Displaying version information" >&3
+            echo $version
+            exit 0
+        ;;
+        -z|--zero)
+            # use zero-indexed file numbers
+            echo "Zero index flag is set: setting starting image number to 0000" >&3
+            imgnum=0
+            shift
+        ;;
+        *)
+            # the first argument without a flag preceding it is used as the source URL
+            if [[ -z $src ]]; then
+                echo "First argument not preceded by a flag: $1" >&3
+                echo "Setting source URL to $1" >&3
+                src=$1
+                shift
+            # the second argument without a flag preceding it is used as the destination path
+            elif [[ -z $path ]]; then
+                echo "Second argument not preceded by a flag: $1" >&3
+                echo "Setting destination path to $1" >&3
+                path=$1
+                shift
+            else
+            # additional arguments without a flag are ignored
+                echo "Ignoring additional argument not preceded by flag: $1" >&3
+                shift
+            fi
+    esac
+    echo >&3
+done
+
+# error out if no source URL could be parsed
+[[ -z $src ]] && echo "Error: No source URL specified" >&2 && exit 1
+
+# error out if bad source URL was given (not for e-hentai.org or exhentai.org)
+! [[ $src =~ ^(https?://)?e[-x]hentai\.org ]] && echo "Error: Bad source URL: $src" >&2 && exit 1
+
+# use current directory as destination if no destination path could be parsed
+[[ -z $path ]] && path=. && echo "No destination path specified: using current directory as destination" >&3
+
+# make destination directory
+echo "Making destination directory" >&3
+mkdir -p $path && path=$(realpath $path)
+
+echo >&3
+
+# if no config file location was specified in the arguments, look in the default location of ~/.ehgrab
+[[ -z "$config" ]] && config="$(realpath ~/.ehgrab)" && echo "No config file specified: using ~/.ehgrab" >&3
+# if the config file exists, then read variables from the config
+if [[ -f $config ]]; then
+    echo "Config file exists, reading..." >&3
+    while read line; do
+        value=$(echo "$line" | sed 's;^.*[ \t];;' )
+        case $(echo "$line" | sed 's;[ \t].*;;' ) in
+            user)
+                [[ -z $userid ]] && userid=$value && echo -e "\tSetting user ID to $value" >&3
+            ;;
+            pass)
+                [[ -z $passh ]] && passh=$value && echo -e "\tSetting password hash to $value" >&3
+            ;;
+        esac;
+    done < $config
+else
+    echo "No config file could be found." >&3
+fi
+
+echo >&3
+
+# check if we'll be in authenticated mode, and inform the user if not
+[[ -n $userid && -n $passh ]] && auth_mode=1 && cookies="ipb_member_id=$userid; ipb_pass_hash=$passh"
+if [[ $auth_mode ]]; then
+    echo "User ID and password hash provided, using authenticated mode" >&3
+    [[ $sd ]] && echo "High quality image downloads disabled: downloading only standard quality images."
+else
+    if [[ $src =~ ^(https?://)?exhentai\.org ]]; then
+        echo "Using unauthenticated mode, cannot download from exhentai.org. See README.md for details." >&2
+        exit 1
+    fi
+    echo "Using unauthenticated mode: downloading only standard quality images. See README.md for details."
+fi
+
+echo >&3
+
+# determine the starting location and get the first image page
+
+echo "Determining the starting location provided in the source URL..." >&3
+
+if [[ $src =~ \.org/g/ ]]; then
+    # we were given a gallery page URL
+    echo "Source URL is a gallery page. Extracting first image page..." >&3
+    current_page=$(
+        # remove URL params to get the first gallery page
+        echo $src | sed "s;\?.*;;g" |
+        # get first gallery page's content
+        xargs curl -s --cookie "$cookies" -- |
+        isolateLinks |
+        # isolate the first thumbnail (FRAGILE)
+        grep "alt=\"0*1\"" |
+        isolateURL
+    )
+elif [[ $src =~ \.org/s ]]; then
+    # we were given an image page URL
+    echo "Source URL is an image page. Extracting first image page..." >&3
+    current_page=$(
+        # get all links from page
+        curl -s --cookie "$cookies" -- $src |
+        isolateLinks |
+        # isolate links with the "first" image inside (FRAGILE)
+        grep "f\.png" |
+        isolateURL |
+        # get only one (multiple links remain due to multiple nav groups)
+        head -1
+    )
+else
+    # we were given an e-hentai.org or exhentai.org URL that is not a source URL
+    echo "Bad source URL: $src" >&2
+    exit 1
+fi
+echo "First image page: $current_page" >&3
+
+echo >&3
+
+echo "Getting content of first image page..." >&3
+current_page_content=$(curl -s --cookie "$cookies" -- $current_page)
+
+echo >&3
+
+# download all the images
+while [[ $current_page != $previous_page ]]; do
+    echo "Downloading image $imgnum..."
+    downloadImage
+    echo "Getting next page..." >&3
+    getNextPage
+    let imgnum+=1
+done
+echo "Final page reached. Done!" >&3

@@ -1,0 +1,16 @@
+#!/bin/env bash
+
+source "$HOME/.bin/rofi-effects";
+config="~/.cache/wal/portrait.rasi"
+
+if pgrep -x "rofi" > /dev/null; then
+    xdotool key Escape
+    echo "rofi-running"
+else
+#height=$(xrandr --query | grep ' connected' | grep -o '[0-9][0-9]*x[0-9][0-9]*[^ ]*' | sed -r 's/^[^0-9]*([0-9]+x[0-9]+).*$/\1/' |cut -d "x" -f 2)
+
+#rofi -show drun -location 7 -yoffset -$((height-301)) -xoffset 0 &
+    rofi  -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -location 7 -config $config &
+    #sleep 0.5
+    #rofi_window_pop +
+fi

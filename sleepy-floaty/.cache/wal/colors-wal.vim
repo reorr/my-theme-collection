@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/tomato/Pictures/1556160331199.jpg"
+let background = "#fefcfb"
+let foreground = "#383B44"
+let cursor     = "#383B44"
+
+" Colors
+let color0  = "#fefcfb"
+let color1  = "#7C91C3"
+let color2  = "#8F9AAC"
+let color3  = "#979DA5"
+let color4  = "#94A8B4"
+let color5  = "#D2BDB5"
+let color6  = "#8597C6"
+let color7  = "#383B44"
+let color8  = "#978e8b"
+let color9  = "#7C91C3"
+let color10 = "#8F9AAC"
+let color11 = "#979DA5"
+let color12 = "#94A8B4"
+let color13 = "#D2BDB5"
+let color14 = "#8597C6"
+let color15 = "#383B44"

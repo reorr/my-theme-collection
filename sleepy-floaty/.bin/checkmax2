@@ -1,0 +1,27 @@
+#!/bin/env bash
+
+min=0
+max=100
+
+arr=()
+curr_desktop=$(wmctrl -d | grep -w "*" | cut -d" " -f 1)
+for i in `wmctrl -l | grep -w "$curr_desktop" | cut -d' ' -f1`; do
+	exist=$(xprop -id "$i" | grep "_NET_WM_STATE(ATOM)" | grep "_NET_WM_STATE_MAXIMIZED_VERT" | grep "_NET_WM_STATE_MAXIMIZED_HORZ" | grep -v "_NET_WM_STATE_HIDDEN")
+	#exist=$(xprop -id "$i" | grep "_NET_WM_STATE(ATOM)" | grep "_NET_WM_STATE_MAXIMIZED_VERT, _NET_WM_STATE_MAXIMIZED_HORZ" | grep -v "_NET_WM_STATE_HIDDEN")
+	if [ -z $exist ]; then
+		echo "unmaximized"
+	else
+		arr[${#arr[@]}]="maximized"
+	fi
+done
+if [ ${#arr[@]} -eq 0 ]; then
+	#for ((i=$max; i>=$min; i--)) ; do
+		xfconf-query -c xfce4-panel -p /panels/panel-1/background-alpha -s $min
+		#sleep 0.01
+	#done;
+else
+    #for ((i=$min; i<=$max; i++)) ; do
+		xfconf-query -c xfce4-panel -p /panels/panel-1/background-alpha -s $max
+		#sleep 0.01
+    #done;
+fi
