@@ -1,0 +1,55 @@
+#!/bin/bash
+
+source "$HOME/.bin/albumart"
+
+get_cover
+
+title="$(mpc --format "%artist% - %title%" current -p 6600)"
+mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+
+function reset_background {
+    printf "\e]20;;100x100+1000+1000\a"
+}
+
+function draw_albumart {
+	if [[ -n "$src" ]] ; then
+	convert "$src" -resize 200x "$COVER"
+	    if [[ -f "$COVER" ]] ; then
+	       #scale down the cover to 30% of the original
+	    	if [[ "$1" == "right" ]]; then
+	    		printf "\e]20;${COVER};70x70+87+00:op=keep-aspect\a"
+	      	elif [[ "$1" == "center" ]]; then
+	      		printf "\e]20;${COVER};65x65+45+00:op=keep-aspect\a"
+	      	elif [[ "$1" == "left" ]]; then
+	      		printf "\e]20;${COVER};80x80+00+00:op=keep-aspect\a"
+	      	else
+	      		reset_background
+	      	fi
+	      	notify-send --expire-time=2000 -i ${COVER} "$mpd_state" "$title"
+	    else
+	        reset_background
+	    fi
+	else
+	    reset_background
+	    notify-send "$mpd_state" "$title"
+	fi
+}
+
+function main {
+    case "$1" in
+    	noalbum)
+			mpc-notif
+			;;
+		albumart)
+			draw_albumart right
+			;;
+		albumviz)
+			draw_albumart center
+			;;
+		albumleft)
+			draw_albumart left
+			;;
+	esac
+}
+
+main "$@"

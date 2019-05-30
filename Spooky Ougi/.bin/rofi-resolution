@@ -1,0 +1,31 @@
+#!/bin/env bash
+
+source "/home/reorr/Saus/sys-admin/scripts/rofi-widgets/wrapper/rofi-effects.sh";
+
+function display() {
+#monitor=$(xrandr --listmonitors | grep '*' | awk {'print $4'} | rofi -dmenu -p "Choose monitor")
+monitor=$( xrandr | awk '( $2 == "connected" ){ print $1 }' | rofi -dmenu -location 1 -p "Choose monitor")
+action=$(echo -e "set resolution\nenable monitor\ndisable monitor" | rofi -dmenu -location 1 -p "Action")
+case $action in
+	"set resolution" )
+		eval \$"echo "xrandr -s" \
+		$(xrandr |awk -v monitor="$monitor connected" \
+		'/connected/ {p = 0} $0 ~ monitor {p = 1} p' \
+		|awk '{if (NR!=1) {print}}' \
+		|awk '{ print $1 }' \
+		| rofi -dmenu -p "Choose resolution")"
+		;;
+	"enable monitor" )
+		xrandr --output $monitor --auto
+		;;
+	"disable monitor" )
+		xrandr --output $monitor --off
+		;;
+esac
+}
+
+display &
+sleep 0.3
+rofi_window_pop -
+sleep 0.3
+rofi_window_pop -

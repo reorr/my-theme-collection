@@ -21,3 +21,5 @@ Collection of themes and config that i've used. For my current config you can go
 ![pastel-mk2 preview](Screenshot/pastel-mk2.png)
 ### sleepy-floaty
 ![sleepy-floaty preview](Screenshot/sleepy-floaty.png)
+### Spooky Ougi
+![Spooky ougi preview](Screenshot/spooky-ougi.png)

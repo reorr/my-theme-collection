@@ -1,0 +1,27 @@
+#/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+compton --config ~/.config/compton_blu.conf  --dbus &
+
+xcape -e "Super_L=Control_L|Shift_L|z" &
+
+#polybar -c ~/.config/polybar/config firstrice &
+
+fehbg
+
+udiskie &
+
+#xfce4-panel &
+
+#orcsome &
+
+cornora -tl "skippy" -br "xdotool key super+d" &
+
+greenclip daemon &
+
+xfce4-power-manager &
+
+unclutter --timeout 60 &
+
+tint &
+
+blurwal -m 1 &

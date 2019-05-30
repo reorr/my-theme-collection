@@ -1,0 +1,93 @@
+* {{
+    active-background: {background};
+    active-foreground: @foreground;
+    normal-background: @background;
+    normal-foreground: @foreground;
+    urgent-background: {background};
+    urgent-foreground: @foreground;
+
+    alternate-active-background: @background;
+    alternate-active-foreground: @foreground;
+    alternate-normal-background: @background;
+    alternate-normal-foreground: @foreground;
+    alternate-urgent-background: @background;
+    alternate-urgent-foreground: @foreground;
+
+    selected-active-background: {background};
+    selected-active-foreground: @foreground;
+    selected-normal-background: #5a89af;
+    selected-normal-foreground: @foreground;
+    selected-urgent-background: #b4575e;
+    selected-urgent-foreground: @foreground;
+
+    background-color: @background;
+    background: #00000000;
+    foreground: {foreground};
+    border-color: @background;
+
+    font: "SF Pro Display 10";
+    padding: 5px 10px;
+    
+    spacing: 0;
+    border: 0;
+    padding: 0;
+}}
+
+#window {{
+    background-color: @background;
+	orientation: vertical;
+	children: [coverbox, horibox];
+    height: 600px;
+    width: 300px;
+}}
+
+#horibox {{
+    children: [entry, message, listview];
+	orientation: vertical;
+}}
+
+#textbox {{
+    expand: false;
+    height: 30px;
+    width: 100%;
+    padding: 10px 20px 10px 20px;
+    background-color: {background};
+    color: {foreground};
+}}
+
+#entry {{
+    font: "SF Pro Display 13";
+    layout:     horizontal;
+    expand:     false;
+    width: 100%;
+    height: 30px;
+    padding: 20px 20px 0 20px;
+    background-color: {background};
+    color: {foreground};
+}}
+
+#coverbox {{
+    border: 0px;
+    border-color: {background};
+	expand: true;
+	width: 300px;
+}}
+
+#listview {{
+    border: 0 20px 0px 10px;
+    border-color: {background};
+	background-color: {background};
+    fixed-height: 0;
+    padding: 10px 10px 0px 10px;
+    spacing: 0.5em;
+    scrollbar: false;
+}}
+
+#element {{
+	text-color: {foreground};
+    padding: 0 0 5px;
+}}
+
+#element selected {{
+  text-color: {color2};
+}}

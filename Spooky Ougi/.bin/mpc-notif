@@ -1,0 +1,19 @@
+#!/bin/bash
+
+source "$HOME/.bin/albumart"
+
+get_cover
+
+notif_cover="/tmp/notif-cover.png"
+
+title="$(mpc --format "%artist% - %title%" current -p 6600)"
+mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+
+if [[ -n "$src" ]] ; then
+convert "$src" -resize 30x "$notif_cover"
+    if [[ -f "$notif_cover" ]] ; then
+    	notify-send --expire-time=3000 -i ${notif_cover} "$mpd_state" "$title"
+    fi
+else
+    notify-send "$mpd_state" "$title"
+fi

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+pushd ~/.config/tint2
+
+tint2 -c ~/.config/tint2/tint2rc_kanan &
+tint2 -c ~/.config/tint2/tint2rc_kiri &
+tint2 -c ~/.config/tint2/tint2rc_tengah &
+
+popd

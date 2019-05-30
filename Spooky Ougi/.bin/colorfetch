@@ -1,0 +1,9 @@
+#! /usr/bin/env bash
+
+for i in {0..8}; do
+	tput smso
+	tput setaf $i
+	printf "         "
+	tput sgr0
+done
+printf "\n"

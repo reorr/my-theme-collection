@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/tomato/.local/share/backgrounds/timovaknar_tciQ-38WQDY.jpeg"
+let background = "#0E0607"
+let foreground = "#e5c7c6"
+let cursor     = "#e5c7c6"
+
+" Colors
+let color0  = "#0E0607"
+let color1  = "#624041"
+let color2  = "#704A4E"
+let color3  = "#AE384B"
+let color4  = "#9F5F5C"
+let color5  = "#C27D80"
+let color6  = "#6DCBCC"
+let color7  = "#e5c7c6"
+let color8  = "#a08b8a"
+let color9  = "#624041"
+let color10 = "#704A4E"
+let color11 = "#AE384B"
+let color12 = "#9F5F5C"
+let color13 = "#C27D80"
+let color14 = "#6DCBCC"
+let color15 = "#e5c7c6"

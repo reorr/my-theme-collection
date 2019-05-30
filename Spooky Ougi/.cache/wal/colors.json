@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tomato/.local/share/backgrounds/timovaknar_tciQ-38WQDY.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0607",
+        "foreground": "#e5c7c6",
+        "cursor": "#e5c7c6"
+    },
+    "colors": {
+        "color0": "#0E0607",
+        "color1": "#624041",
+        "color2": "#704A4E",
+        "color3": "#AE384B",
+        "color4": "#9F5F5C",
+        "color5": "#C27D80",
+        "color6": "#6DCBCC",
+        "color7": "#e5c7c6",
+        "color8": "#a08b8a",
+        "color9": "#624041",
+        "color10": "#704A4E",
+        "color11": "#AE384B",
+        "color12": "#9F5F5C",
+        "color13": "#C27D80",
+        "color14": "#6DCBCC",
+        "color15": "#e5c7c6"
+    }
+}

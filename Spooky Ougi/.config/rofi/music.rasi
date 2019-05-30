@@ -1,0 +1,73 @@
+configuration {
+    display-drun:    "Playlist";
+    show-icons:      true;
+}
+
+* {
+    font: "SF Pro Display 12";
+    padding: 5px 10px;
+
+    active-background: #ebf5ff;
+    active-foreground: @foreground;
+    normal-background: @background;
+    normal-foreground: @foreground;
+    urgent-background: #ebf5ff;
+    urgent-foreground: @foreground;
+
+    alternate-active-background: @background;
+    alternate-active-foreground: @foreground;
+    alternate-normal-background: @background;
+    alternate-normal-foreground: @foreground;
+    alternate-urgent-background: @background;
+    alternate-urgent-foreground: @foreground;
+
+    selected-active-background: #ebf5ff;
+    selected-active-foreground: @foreground;
+    selected-normal-background: #5a89af;
+    selected-normal-foreground: @foreground;
+    selected-urgent-background: #b4575e;
+    selected-urgent-foreground: @foreground;
+
+    background-color: @background;
+    background: #ebf5ff65;
+    foreground: #bed7e2;
+    border-color: @background;
+}
+
+#coverbox {
+    border: 12px 0px 12px 12px;
+    border-color: #ebf5ff;
+    expand: false;
+    width: 200px;
+}
+
+#entry {
+    font: "SF Pro Display 15";
+}
+
+window {
+    border-radius: 0px;
+    height: 300px;
+    width: 600px;
+    padding: 10px;
+    /* fullscreen:true; */
+    orientation: horizontal;
+    children: [ coverbox, listview ];
+}
+
+#prompt {
+    color: #2F75F2;
+    font: "SF Pro Display 15";
+}
+      
+listview {
+    padding: 20px 10px 0px 10px;
+    spacing: 0.5em;
+}
+
+#element selected {
+  text-color: #2F75F2;
+  font: "SF Pro Display 10";
+}
+
+/* vim:ft=css

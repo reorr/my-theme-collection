@@ -1,0 +1,20 @@
+#!/bin/env bash
+
+source "$HOME/.bin/albumart";
+
+SIZE="250x250"
+
+main() {
+	while true; do
+		get_cover
+		if [[ -n "$src" ]] ; then
+			convert "$src" -resize "$SIZE^" -gravity center -crop $SIZE+0+0 +repage "$COVER"
+	    	sxiv -g $SIZE -b $COVER -N "cover" &
+	    	echo $! >/tmp/cover.pid
+		fi
+	    mpc idle &> /dev/null
+	    kill 9 $(cat /tmp/cover.pid) &> /dev/null
+	done	
+}
+
+main

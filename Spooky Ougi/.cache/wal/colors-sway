@@ -1,0 +1,21 @@
+set $wallpaper /home/tomato/.local/share/backgrounds/timovaknar_tciQ-38WQDY.jpeg
+
+set $background #0E0607
+set $foreground #e5c7c6
+
+set $color0 #0E0607
+set $color1 #624041
+set $color2 #704A4E
+set $color3 #AE384B
+set $color4 #9F5F5C
+set $color5 #C27D80
+set $color6 #6DCBCC
+set $color7 #e5c7c6
+set $color8 #a08b8a
+set $color9 #624041
+set $color10 #704A4E
+set $color11 #AE384B
+set $color12 #9F5F5C
+set $color13 #C27D80
+set $color14 #6DCBCC
+set $color15 #e5c7c6
