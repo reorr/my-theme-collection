@@ -23,3 +23,6 @@ Collection of themes and config that i've used. For my current config you can go
 ![sleepy-floaty preview](Screenshot/sleepy-floaty.png)
 ### Spooky Ougi
 ![Spooky ougi preview](Screenshot/spooky-ougi.png)
+
+## Buy me a ko-fi
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0XBC5)
