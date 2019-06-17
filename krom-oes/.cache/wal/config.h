@@ -1,0 +1,3 @@
+#define BG_COLOR "CC10161B"
+#define FG_COLOR "FFB587B7"
+#define FG_MUTED "FF8F3371"

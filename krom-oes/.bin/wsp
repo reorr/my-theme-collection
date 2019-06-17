@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+w=$(xprop -root -notype _NET_CURRENT_DESKTOP | grep -o [0-9])
+case "$w" in
+    "0")  echo -e "\uf8e8 \uf444 \uf444 \uf444 \uf444 \uf444 \uf444" ;;
+    "1")  echo -e "\uf444 \uf8e8 \uf444 \uf444 \uf444 \uf444 \uf444" ;;
+    "2")  echo -e "\uf444 \uf444 \uf8e8 \uf444 \uf444 \uf444 \uf444" ;;
+    "3")  echo -e "\uf444 \uf444 \uf444 \uf8e8 \uf444 \uf444 \uf444" ;;
+    "4")  echo -e "\uf444 \uf444 \uf444 \uf444 \uf8e8 \uf444 \uf444" ;;
+    "5")  echo -e "\uf444 \uf444 \uf444 \uf444 \uf444 \uf8e8 \uf444" ;;
+    "6")  echo -e "\uf444 \uf444 \uf444 \uf444 \uf444 \uf444 \uf8e8" ;;
+esac
+

@@ -1,0 +1,73 @@
+#!/bin/sh
+#
+# ufetch-arch - tiny system info for arch
+
+## INFO
+
+# user is already defined
+host="$(hostname)"
+os='arch'
+kernel="$(uname -sr)"
+uptime="$(uptime -p | sed 's/up //')"
+packages="$(pacman -Q | wc -l)"
+shell="$(basename ${SHELL})"
+
+if [ -z "${WM}" ]; then
+	if [ "${XDG_CURRENT_DESKTOP}" ]; then
+		envtype='DE'
+		WM="${XDG_CURRENT_DESKTOP}"
+	elif [ "${DESKTOP_SESSION}" ]; then
+		envtype='DE'
+		WM="${DESKTOP_SESSION}"
+	else
+		envtype='wm'
+		WM="$(wmctrl -m | awk '/Name: / {printf "%s\n", $NF}' | awk '{print tolower($0)}')"
+	fi
+else
+	envtype='wm'
+fi
+
+song="$(mpc --format "%artist% - %title%" current -p 6600 | awk '{print tolower($0)}')"
+
+f=3 b=4
+for j in f b; do
+  for i in {0..7}; do
+    printf -v $j$i %b "\e[${!j}${i}m"
+  done
+done
+rst=$'\e[0m'
+inv=$'\e[7m'
+
+
+## DEFINE COLORS
+
+# probably don't change these
+bold="$(tput bold)"
+black="$(tput setaf 0)"
+red="$(tput setaf 1)"
+green="$(tput setaf 2)"
+yellow="$(tput setaf 3)"
+blue="$(tput setaf 4)"
+magenta="$(tput setaf 5)"
+cyan="$(tput setaf 6)"
+white="$(tput setaf 7)"
+reset="$(tput sgr0)"
+
+# you can change these
+lc="${reset}${bold}${red}"		# labels
+ic="${reset}${white}"	# info
+c0="${reset}${bold}${green}"		# first color
+c1="${reset}${red}"			# second color
+
+## OUTPUT
+#${c0}${nc}${USER}${ic}@${nc}${host}${reset}
+#${c0}${lc}uptime:    ${ic}${uptime}${reset}
+
+cat <<EOF
+${lc}os:        ${ic}${os}${reset}
+${lc}packages:  ${ic}${packages}${reset}
+${lc}shell:     ${ic}${shell}${reset}
+${lc}${envtype}:        ${ic}${WM}${reset}
+${lc}song:      ${ic}${song}${reset}
+$f1━━━━━━━$f2━━━━━━━$f3━━━━━━━$f4━━━━━━━$f5━━━━━━━
+EOF

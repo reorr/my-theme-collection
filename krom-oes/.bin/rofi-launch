@@ -1,0 +1,11 @@
+#!/bin/env bash
+
+source "$HOME/.bin/rofi-effects";
+
+if pgrep -x "rofi" > /dev/null; then
+    xdotool key Escape
+    echo "rofi-running"
+else
+    rofi -show drun -location 7 &
+    rofi_window_pop +
+fi

@@ -1,0 +1,125 @@
+#!/usr/bin/env bash
+#source "$HOME/Saus/sys-admin/scripts/rofi-widgets/wrapper/rofi.sh"
+
+# Redirect stdout to /dev/null
+#exec 1>/dev/null
+# Redirect stderr to stdout
+#exec 2>&1
+
+# Override definitions in rofi-effects.sh
+source "$HOME/.bin/rofi-effects";
+source "$HOME/.bin/albumart"
+COVER=/tmp/rofi-cover.png
+SIZE="300x300"
+get_cover
+
+title="$(mpc --format "%artist% - %title%" current -p 6600)"
+mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+
+# This is a base64 endcoded image which will be used if
+# the file does not have an emmbeded album art.
+# The image is an image of a music note
+read -d '' MUSIC_NOTE << EOF
+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
+EOF
+
+if [[ $(pgrep "rofi") ]]; then
+	exit 1
+fi
+
+config="~/.cache/wal/music-background.rasi"
+
+if [[ -n "$src" ]] ; then
+	convert "$src" -resize "$SIZE^" -gravity center -crop $SIZE+0+0 +repage "$COVER"
+else
+	echo "$MUSIC_NOTE" | base64 --decode > $COVER
+fi
+
+echo $COVER
+
+if [[ -z $title ]]; then
+    current="No Song Playing"
+else
+    current="Now Playing: $title"
+fi
+
+current_number="$(mpc | sed -n "2p" | cut -d "#" -f 2 | cut -d "/" -f 1)"
+
+rofi_commands="rofi -dmenu -i -config $config  -fake-transparency -fake-background $COVER -location 0"
+
+display() {
+	TITLE="$(mpc playlist | $rofi_commands -selected-row $((current_number - 1)) -mesg "$current")"
+	if [ "$TITLE" = "" ]; then exit; fi
+	POS=$(mpc playlist | grep -n "^$TITLE$" | sed -n '1p' | cut -d ":" -f 1)
+	echo "$TITLE"
+	echo "$POS"
+	mpc play "$POS"
+	#mpc-notif
+}
+
+action() {
+	options=$'List\nPlay/Pause\nNext\nPrev\nRandom'
+	list=$(echo "$options" | $rofi_commands -selected-row 1  -mesg "$current")
+	case $list in
+		"List" )
+			display &
+#			sleep 0.8
+#			rofi_window_pop -
+			;;
+		"Play/Pause" )
+			mpc toggle
+			#mpc-notif
+			;;
+		"Prev" )
+			mpc prev
+			#mpc-notif
+			;;
+		"Next" )
+			mpc next
+			#mpc-notif
+			;;
+		"Random" )
+			mpc random
+			#mpc-notif
+			;;
+	esac
+
+}
+
+action &
+#display &
+#sleep 0.8
+#rofi_window_pop -

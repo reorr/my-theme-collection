@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+
+w=$(xprop -root -notype _NET_CURRENT_DESKTOP | grep -o [0-9])
+case "$w" in
+    "0")  echo -e "\uf111 \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d" ;;
+    "1")  echo -e "\uf22d \uf111 \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d" ;;
+    "2")  echo -e "\uf22d \uf22d \uf111 \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d" ;;
+    "3")  echo -e "\uf22d \uf22d \uf22d \uf111 \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d" ;;
+    "4")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf111 \uf22d \uf22d \uf22d \uf22d \uf22d" ;;
+    "5")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf22d \uf111 \uf22d \uf22d \uf22d \uf22d" ;;
+    "6")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf111 \uf22d \uf22d \uf22d" ;;
+    "7")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf111 \uf22d \uf22d" ;;
+    "8")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf111 \uf22d" ;;
+    "9")  echo -e "\uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf22d \uf111" ;;
+esac
+

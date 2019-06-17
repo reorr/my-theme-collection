@@ -1,0 +1,18 @@
+#!/bin/env bash
+
+month=$(date +'%m')
+
+case $month in
+    01) feh --bg-fill jan.png;;
+    02) feh --bg-fill feb.png;;
+    03) feh --bg-fill mar.png;;
+    04) feh --bg-fill apr.png;;
+    05) feh --bg-fill may.png;;
+    06) feh --bg-fill jun.png;;
+    07) feh --bg-fill jul.png;;
+    08) feh --bg-fill aug.png;;
+    09) feh --bg-fill sep.png;;
+    10) feh --bg-fill oct.png;;
+    11) feh --bg-fill nov.png;;
+    12) feh --bg-fill dec.png;;
+esac

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nhentai --id=$1 --rm-origin-dir --cbz -t 3 --timeout=2000000
+notify-send "Done downloading"

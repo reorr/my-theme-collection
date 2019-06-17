@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/reorr/Pictures/8c7d741363ed3ab8bbd18a2bdcd8647be132e5c52ff9baf0a4f5bbd891f38fe8.jpg"
+let background = "#181813"
+let foreground = "#adc6bc"
+let cursor     = "#adc6bc"
+
+" Colors
+let color0  = "#181813"
+let color1  = "#38856A"
+let color2  = "#5C8F6E"
+let color3  = "#939238"
+let color4  = "#A29770"
+let color5  = "#CA9C74"
+let color6  = "#329786"
+let color7  = "#adc6bc"
+let color8  = "#798a83"
+let color9  = "#38856A"
+let color10 = "#5C8F6E"
+let color11 = "#939238"
+let color12 = "#A29770"
+let color13 = "#CA9C74"
+let color14 = "#329786"
+let color15 = "#adc6bc"

@@ -1,0 +1,26 @@
+#!/bin/env bash
+#requirements xrandr
+
+skrin() {
+  xrandr --output LVDS-1 --rotate $1
+  fehbg
+}
+
+case $1 in
+  -n)
+    skrin normal ;;
+  -l)
+    skrin left ;;
+  -r)
+    skrin right ;;
+  -i)
+    skrin inverted ;;
+  *)
+    echo "
+    -n normal
+    -l rotate left
+    -r rotate right
+    -i invert
+    "
+    ;;
+esac

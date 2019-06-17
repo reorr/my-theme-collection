@@ -1,0 +1,19 @@
+#/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+#orcsome &
+#blurwal -m 1 &
+fehbg &
+tint2 &
+xfce4-power-manager &
+nm-applet &
+sleep 2 &
+mpd &
+dunst &
+sleep 2 &
+mpc-notif start &
+unclutter --timeout 60 &
+greenclip daemon &
+cornora -tl "skippy" -br "xdotool key super+d" &
+xcape -e "Super_L=Control_L|Shift_L|z" &
+udiskie &
+compton --config ~/.config/compton_blu.conf  --dbus &
+#~/Saus/tryone/compton/compton --config ~/.config/compton_dual.conf --dbus -b

@@ -1,0 +1,27 @@
+* {
+    padding: 5px 10px;
+    background-color: #fbfbfb;
+    color: #373633;
+    font: "Font Awesome 5 Free 30";
+}
+
+#window {
+  width: 480px;
+  height: 110px;
+  border-radius: 5px;
+  children: [ horibox ];
+}
+#horibox {
+  orientation: horizontal;
+  children: [ listview ];
+}
+#listview {
+  layout: horizontal;
+}
+#element {
+  padding: 20px 20px 0px ;
+}
+#element selected {
+  text-color: #9EA1A1;
+}
+/* vim:ft=css

@@ -1,0 +1,26 @@
+#!/bin/env bash
+
+
+animationSpeed=20
+displacement=$2
+tmp_slide=/tmp/$1
+winId=$(xdotool search --class "$1" | tail -n 1)
+
+slide_v () {
+case "$1" in
+    '-')
+        for ((i=$animationSpeed; i<=$displacement; i+=$animationSpeed)); do
+            xdotool windowmove --relative "$winId" 0 +$animationSpeed
+            sleep 0.01
+        done
+    ;;
+    '+')
+        for ((i=$animationSpeed; i<=$displacement; i+=$animationSpeed)); do
+            xdotool windowmove --relative "$winId" 0 -$animationSpeed
+            sleep 0.01
+        done
+    ;;
+esac
+}
+
+slide_v $3

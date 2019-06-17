@@ -1,0 +1,56 @@
+#!/bin/env bash
+
+source "$HOME/.bin/albumart"
+
+DB="/tmp/mpc-notif.pid"
+
+main() {
+
+	get_cover
+
+	notif_cover="/tmp/notif-cover.png"
+
+	title="$(mpc --format "%artist% - %title%" current -p 6600)"
+	mpd_state="$(mpc |awk -F'[][]' '{print $2}' | head -n -1 | tail -n+2)"
+	mpd_state="$(tr '[:lower:]' '[:upper:]' <<< ${mpd_state:0:1})${mpd_state:1}"
+	if [[ -n "$src" ]] ; then
+	convert "$src" -resize 50x "$notif_cover"
+	    if [[ -f "$notif_cover" ]] ; then
+	    	dunstify --timeout=3000 -I ${notif_cover} "$mpd_state" "$title"
+	    fi
+	else
+	    dunstify "$mpd_state" "$title"
+	fi
+}
+
+show_help() {
+	cat <<-EOF
+	Usage : mpc-notif [argument]
+
+	start	start mpc-notif
+	stop	stop mpc-notif
+	help	show this help message
+	EOF
+}
+
+
+case $1 in
+	stop)
+		if [[ -f $DB ]]; then
+			kill -9 $(cat $DB) && rm $DB
+		else
+			echo "mpc-notif is not running"
+		fi
+		exit
+		;;
+	start)
+		printf "%s\n" $$ >$DB
+		while true; do
+			main
+			mpc idle &> /dev/null
+		done
+		;;
+	*)
+		show_help
+		exit 1
+esac

@@ -1,0 +1,30 @@
+#!/bin/bash
+
+function mpc_command {
+    mpc "$1"
+}
+
+function check_ncmpcpp {
+    ps -C ncmpcpp >& /dev/null || mpc-notif
+}
+
+function main {
+    case "$1" in
+        toggle)
+            mpc_command toggle;
+            #check_ncmpcpp;
+            ;;
+        next)
+            mpc_command next;
+            #check_ncmpcpp;
+            ;;
+        prev)
+            mpc_command prev;
+            #check_ncmpcpp;
+            ;;
+        *)
+            printf "ayyy\n"
+    esac
+}
+
+main "$@"

@@ -24,5 +24,8 @@ Collection of themes and config that i've used. For my current config you can go
 ### Spooky Ougi
 ![Spooky ougi preview](Screenshot/spooky-ougi.png)
 
+### krome-oes
+![krome-oes](Screenshot/krome-oes.png)
+
 ## Buy me a ko-fi
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0XBC5)

@@ -1,0 +1,13 @@
+#!/bin/env bash
+
+wal_today=$HOME/.cache/today
+if [[ -f $wal_today ]]; then
+	rm $wal_today
+	rm "$HOME/.cache/wal/schemes/_home_"$USER"__cache_today_dark_None_None_1.1.0.json"
+fi
+
+curl -o "$wal_today" -J -L "https://source.unsplash.com/random/1600x900" > /dev/null 2>&1
+sleep 1
+wal -i $wal_today && ~/Saus/reorr/warnai/warnai -w -xf 365 -ob small-tb
+notify-send "Todays wallpaper changed"
+

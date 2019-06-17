@@ -1,0 +1,51 @@
+#!/bin/env bash
+#requirements amixer, fn-notify
+
+declare -i vol
+
+change_volume() {
+#    amixer set Master "$1"
+    sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 $1"
+    notif
+}
+
+notif() {
+    vol=$(amixer get Master | awk '$0~/%/{print $4}' | tr -d '[]' |awk NR==1| awk 'BEGIN{RS="%\n"}1')
+    #vol=$((vol/4))
+    if [ "$vol" -lt 5 ]; then
+        pactl set-sink-mute 0 toggle
+    fi
+    muted=$(amixer get Master | grep "\[" | tail -1 | cut -d[ -f4 | grep -o "[a-z]*")
+    if [ "$muted" == "off" ]; then
+        fn-notify vol $vol --mute
+    else
+        fn-notify vol $vol
+    fi
+}
+
+main() {
+    case "$1" in
+      up)
+         change_volume +5%
+         ;;
+      down)
+         change_volume -5%
+         ;;
+      toggle)
+	    pactl set-sink-mute 0 toggle
+        notif
+        #if [ "$muted" == "off" ]; then
+        #    fn-notify vol $vol --mute
+        #else
+        #    fn-notify vol $vol
+        #fi
+        ;;
+     *)
+         printf "volume <command>\n"
+         printf "         up \n"
+         printf "         down\n"
+	 printf "	  toggle\n"
+    esac
+}
+
+main "$@"

@@ -1,0 +1,2 @@
+#!/bin/env bash
+wget -r -A jpg,jpeg,png,webm,gif -erobots=off $1 

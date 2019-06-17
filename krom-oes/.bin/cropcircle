@@ -1,0 +1,9 @@
+#!/bin/env bash
+
+convert $1 -resize 200x200 -gravity Center \( \
+		-size 200x200 xc:Black \
+		-fill White \
+		-draw "circle 100 100 100 1" \
+		-alpha Copy\
+		\) -compose CopyOpacity -composite -trim $2
+

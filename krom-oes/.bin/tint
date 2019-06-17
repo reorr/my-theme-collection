@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pushd ~/.config/tint2
+
+tint2 </dev/null &>/dev/null &
+
+popd

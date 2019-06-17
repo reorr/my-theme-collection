@@ -1,0 +1,448 @@
+.TH SXIV 1 sxiv\-25+
+.SH NAME
+sxiv \- Simple X Image Viewer
+.SH SYNOPSIS
+.B sxiv
+.RB [ \-abcfhiopqrtvZ ]
+.RB [ \-A
+.IR FRAMERATE ]
+.RB [ \-e
+.IR WID ]
+.RB [ \-G
+.IR GAMMA ]
+.RB [ \-g
+.IR GEOMETRY ]
+.RB [ \-N
+.IR NAME ]
+.RB [ \-n
+.IR NUM ]
+.RB [ \-S
+.IR DELAY ]
+.RB [ \-s
+.IR MODE ]
+.RB [ \-z
+.IR ZOOM ]
+.IR FILE ...
+.SH DESCRIPTION
+sxiv is a simple image viewer for X.
+.P
+It has two modes of operation: image and thumbnail mode. The default is image
+mode, in which only the current image is shown. In thumbnail mode a grid of 
+small previews is displayed, making it easy to choose an image to open.
+.P
+Please note, that the fullscreen mode requires an EWMH/NetWM compliant window
+manager.
+.SH OPTIONS
+.TP
+.BI "\-A " FRAMERATE
+Play animations with a constant frame rate set to
+.IR FRAMERATE .
+.TP
+.B \-a
+Play animations of multi-frame images.
+.TP
+.B \-b
+Do not show info bar on bottom of window.
+.TP
+.B \-c
+Remove all orphaned cache files from the thumbnail cache directory and exit.
+.TP
+.BI "\-e " WID
+Embed sxiv's window into window whose ID is
+.IR WID .
+.TP
+.B \-f
+Start in fullscreen mode.
+.TP
+.BI "\-G " GAMMA
+Set image gamma to GAMMA (-32..32).
+.TP
+.BI "\-g " GEOMETRY
+Set window position and size. See section GEOMETRY SPECIFICATIONS of X(7) for
+more information on GEOMETRY argument.
+.TP
+.BI "\-N " NAME
+Set the resource name of sxiv's X window to NAME.
+.TP
+.BI "\-n " NUM
+Start at picture number NUM.
+.TP
+.B \-h
+Print brief usage information to standard output and exit.
+.TP
+.B \-i
+Read names of files to open from standard input. Also done if FILE is `-'.
+.TP
+.B \-o
+Write list of all marked files to standard output when quitting. In combination
+with
+.B \-i
+sxiv can be used as a visual filter/pipe.
+.TP
+.B \-p
+Enable private mode, in which sxiv does not write any cache or temporary files.
+.TP
+.B \-q
+Be quiet, disable warnings to standard error stream.
+.TP
+.B \-r
+Search the given directories recursively for images to view.
+.TP
+.BI "\-S " DELAY
+Start in slideshow mode. Set the delay between images to
+.I DELAY
+seconds.
+.I DELAY
+may be a floating point number.
+.TP
+.BI "\-s " MODE
+Set scale mode according to MODE character. Supported modes are: [d]own, 
+[f]it, [w]idth, [h]eight.
+.TP
+.B \-t
+Start in thumbnail mode.
+.TP
+.B \-v
+Print version information to standard output and exit.
+.TP
+.B \-Z
+The same as `\-z 100'.
+.TP
+.BI "\-z " ZOOM
+Set zoom level to ZOOM percent.
+.SH KEYBOARD COMMANDS
+.SS General
+The following keyboard commands are available in both image and thumbnail mode:
+.TP
+.BR 0 \- 9
+Prefix the next command with a number (denoted via
+.IR count ).
+.TP
+.B q
+Quit sxiv.
+.TP
+.B Return
+Switch to thumbnail mode / open selected image in image mode.
+.TP
+.B f
+Toggle fullscreen mode.
+.TP
+.B b
+Toggle visibility of info bar on bottom of window.
+.TP
+.B Ctrl-x
+Send the next key to the external key-handler. See section EXTERNAL KEY HANDLER
+for more information.
+.TP
+.B g
+Go to the first image.
+.TP
+.B G
+Go to the last image, or image number
+.IR count .
+.TP
+.B r
+Reload image.
+.TP
+.B D
+Remove current image from file list and go to next image.
+.TP
+.BR Ctrl-h ", " Ctrl-Left
+Scroll left one screen width.
+.TP
+.BR Ctrl-j ", " Ctrl-Down
+Scroll down one screen height.
+.TP
+.BR Ctrl-k ", " Ctrl-Up
+Scroll up one screen height.
+.TP
+.BR Ctrl-l ", " Ctrl-Right
+Scroll right one screen width.
+.TP
+.BR +
+Zoom in.
+.TP
+.B \-
+Zoom out.
+.TP
+.B m
+Mark/unmark the current image.
+.TP
+.B M
+Reverse all image marks.
+.TP
+.B Ctrl-M
+Repeat last mark action on all images from the last marked/unmarked up to the
+current one.
+.TP
+.B Ctrl-m
+Remove all image marks.
+.TP
+.B N
+Go
+.I count
+marked images forward.
+.TP
+.B P
+Go
+.I count
+marked images backward.
+.TP
+.B {
+Decrease gamma correction by
+.I count
+steps.
+.TP
+.B }
+Increase gamma correction by
+.I count
+steps.
+.TP
+.B Ctrl-g
+Reset gamma correction.
+.SS Thumbnail mode
+The following keyboard commands are only available in thumbnail mode:
+.TP
+.BR h ", " Left
+Move selection left
+.I count
+times.
+.TP
+.BR j ", " Down
+Move selection down
+.I count
+times.
+.TP
+.BR k ", " Up
+Move selection up
+.I count
+times.
+.TP
+.BR l ", " Right
+Move selection right
+.I count
+times.
+.TP
+.B R
+Reload all thumbnails.
+.SS Image mode
+The following keyboard commands are only available in image mode:
+.TP
+Navigate image list:
+.TP
+.BR n ", " Space
+Go
+.I count
+images forward.
+.TP
+.BR p ", " Backspace
+Go
+.I count
+images backward.
+.TP
+.B [
+Go
+.I count
+* 10 images backward.
+.TP
+.B ]
+Go
+.I count
+* 10 images forward.
+.TP
+Handle multi-frame images:
+.TP
+.B Ctrl-n
+Go
+.I count
+frames of a multi-frame image forward.
+.TP
+.B Ctrl-p
+Go
+.I count
+frames of a multi-frame image backward.
+.TP
+.B Ctrl-Space
+Play/stop animations of multi-frame images.
+.TP
+Panning:
+.TP
+.BR h ", " Left
+Scroll image 1/5 of window width or
+.I count
+pixel left.
+.TP
+.BR j ", " Down
+Scroll image 1/5 of window height or
+.I count
+pixel down.
+.TP
+.BR k ", " Up
+Scroll image 1/5 of window height or
+.I count
+pixel up.
+.TP
+.BR l ", " Right
+Scroll image 1/5 of window width or
+.I count
+pixel right.
+.TP
+.B H
+Scroll to left image edge.
+.TP
+.B J
+Scroll to bottom image edge.
+.TP
+.B K
+Scroll to top image edge.
+.TP
+.B L
+Scroll to right image edge.
+.TP
+Zooming:
+.TP
+.B =
+Set zoom level to 100%, or
+.IR count %.
+.TP
+.B w
+Set zoom level to 100%, but fit large images into window.
+.TP
+.B W
+Fit image to window.
+.TP
+.B e
+Fit image to window width.
+.TP
+.B E
+Fit image to window height.
+.TP
+Rotation:
+.TP
+.B <
+Rotate image counter-clockwise by 90 degrees.
+.TP
+.B >
+Rotate image clockwise by 90 degrees.
+.TP
+.B ?
+Rotate image by 180 degrees.
+.TP
+Flipping:
+.TP
+.B |
+Flip image horizontally.
+.TP
+.B _
+Flip image vertically.
+.TP
+Miscellaneous:
+.TP
+.B a
+Toggle anti-aliasing.
+.TP
+.B A
+Toggle visibility of alpha-channel, i.e. image transparency.
+.TP
+.B s
+Toggle slideshow mode and/or set the delay between images to
+.I count
+seconds.
+.SH MOUSE COMMANDS
+The following mouse mappings are available in image mode:
+.TP
+General:
+.TP
+.B Button3
+Switch to thumbnail mode.
+.TP
+Navigate image list:
+.TP
+.B Button1
+Go to the next image if the mouse cursor is in the right part of the window or
+to the previous image if it is in the left part.
+.TP
+Panning:
+.TP
+.B Button2
+Pan the image according to the mouse cursor position in the window while
+keeping this button pressed down.
+.TP
+Zooming:
+.TP
+.B ScrollUp
+Zoom in.
+.TP
+.B ScrollDown
+Zoom out.
+.SH CONFIGURATION
+The following X resources are supported:
+.TP
+.B background
+Color of the window background and bar foreground
+.TP
+.B foreground
+Color of the window foreground and bar background
+.TP
+.B font
+Name of Xft bar font
+.TP
+Please see xrdb(1) on how to change them.
+.SH STATUS BAR
+The information displayed on the left side of the status bar can be replaced
+with the output of a user-provided script, which is called by sxiv whenever an
+image gets loaded. The path of this script is
+.I $XDG_CONFIG_HOME/sxiv/exec/image-info
+and the arguments given to it are: 1) path to image file, 2) image width,
+3) image height.
+.P
+There is also an example script installed together with sxiv as
+.IR /home/reorr/.bin//share/sxiv/exec/image-info .
+.SH EXTERNAL KEY HANDLER
+Additional external keyboard commands can be defined using a handler program
+located in
+.IR $XDG_CONFIG_HOME/sxiv/exec/key-handler .
+The handler is invoked by pressing
+.BR Ctrl-x .
+The next key combo is passed as its first argument. Passed via stdin are the
+images to act upon, one path per line: all marked images, if in thumbnail mode
+and at least one image has been marked, otherwise the current image.
+sxiv(1) will block until the handler terminates. It then checks which images
+have been modified and reloads them.
+
+The key combo argument has the following form: "[C-][M-][S-]KEY",
+where C/M/S indicate Ctrl/Meta(Alt)/Shift modifier states and KEY is the X
+keysym as listed in /usr/include/X11/keysymdef.h without the "XK_" prefix.
+
+There is also an example script installed together with sxiv as
+.IR /home/reorr/.bin//share/sxiv/exec/key-handler .
+.SH THUMBNAIL CACHING
+sxiv stores all thumbnails under
+.IR $XDG_CACHE_HOME/sxiv/ .
+.P
+Use the command line option
+.I \-c
+to remove all orphaned cache files. Additionally, run the following command
+afterwards inside the cache directory to remove empty subdirectories:
+.P
+.RS
+find . \-depth \-type d \-empty ! \-name '.' \-exec rmdir {} \\;
+.RE
+.SH AUTHOR
+.EX
+Bert Muennich   <ber.t at posteo.de>
+.EE
+.SH CONTRIBUTORS
+.EX
+Bastien Dejean  <nihilhill at gmail.com>
+Dave Reisner    <d at falconindy.com>
+Fung SzeTat     <sthorde at gmail.com>
+Max Voit        <mvdev at with-eyes.net>
+.EE
+.SH HOMEPAGE
+.EX
+https://github.com/muennich/sxiv
+.EE
+.SH SEE ALSO
+.BR X (7),
+.BR xrdb (1)

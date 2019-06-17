@@ -1,0 +1,9 @@
+#!/bin/bash
+
+ob=( pelangi tricky mek-oes medium-tb small-border slight );
+tint2=( chromeos-pelangi slim-text-tinted floaty-rounded minima-rounded less-is-more chrome-os );
+
+for i in {0..5}; do
+	~/Saus/reorr/warnai/warnai -w -ob ${ob[i]} -t ${tint2[i]}
+	sleep 1
+done;
